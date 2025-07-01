@@ -1,7 +1,10 @@
-# bbs
+# Breeding Bird Survey
 Analyzing BBS data for North America
 
-Data files are not uploaded to this repo give size restrictions.
+Data files are not uploaded to this repo given size restrictions.
+
+This script only uses 50 Stop Data. The main output is a dictionary with a time series for each species and route.
+
 Local file tree:
 
 ``` text
