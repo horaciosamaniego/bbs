@@ -1,7 +1,7 @@
 # Breeding Bird Survey
 Analyzing BBS data for North America
 
-Data files are not uploaded to this repo given size restrictions. Please, fetch dataset [here](https://tinyurl.com/ywtxx44u) if needed.
+Data files are not uploaded to this repo given size restrictions. Please, fetch the content of the `50-StopData` [here](https://tinyurl.com/ywtxx44u) if needed.
 
 This script only uses 50 Stop Data. The main output is a dictionary with a time series for each species and route.
 
