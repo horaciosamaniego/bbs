@@ -30,3 +30,11 @@ Local file tree:
 └── Weather.csv
 
 ```
+
+## Plan de ruta
+
+Hacer:
+- Series temporales de un misma especie en distintos sitios. Puede ser para dos especies  una de amplia distribuciòn y una de distribuciòn restringida.
+- Las series temporales son de los numeros totales y hay que seleccionar unos 5 sitios por especies, los que tengan pocos ceros.
+- Lo otro es tomar un sitio y sacar las series temporales para todas las especies——
+- Luego te explico lo de la riqueza…y te voy a mandar el link al paper en overleaf...
