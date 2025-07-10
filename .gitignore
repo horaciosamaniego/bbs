@@ -2,6 +2,7 @@
 [Ff]ifty*.csv
 Weather.csv
 *.zip
+*.tgz
 States/
 50-StopData/
 
