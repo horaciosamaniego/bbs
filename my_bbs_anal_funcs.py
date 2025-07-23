@@ -704,7 +704,7 @@ def calculate_species_presence(df_filtered: pd.DataFrame, abundance_col: str = '
 
 def identify_long_timeseries_routes(
     df_filtered: pd.DataFrame,
-    species_presence_df: pd.DataFrame,
+    species_presence_results: pd.DataFrame,
     abundance_col: str = 'Number of individuals',
     top_n_routes: int = 10
 ) -> pd.DataFrame:
@@ -725,12 +725,14 @@ def identify_long_timeseries_routes(
     print("Identifying routes with longest time series of continuously present species...")
 
     # Filter for only continuously present species
-    continuous_species_on_routes = species_presence_df[
-        species_presence_df['is_continuously_present'] == True
+    continuous_species_on_routes = species_presence_results[
+        species_presence_results['is_continuously_present'] == True
     ].copy()
 
     # Count how many continuously present species each route has
     route_continuous_species_counts = continuous_species_on_routes.groupby('ruta').size().reset_index(name='num_continuous_species')
+
+    # print('Continuity computed.')
 
     if route_continuous_species_counts.empty:
         print("No routes found with continuously present species based on the given threshold.")
