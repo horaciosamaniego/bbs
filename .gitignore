@@ -7,6 +7,8 @@ States/
 50-StopData/
 
 # R files
+.R*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
