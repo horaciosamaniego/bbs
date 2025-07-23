@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Species Abundance Time Series</title>
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Plotly.js for interactive plotting -->
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+    <style>
+        /* Custom styles for the Inter font and rounded corners */
+        body {
+            font-family: "Inter", sans-serif;
+            background-color: #f3f4f6; /* Light gray background */
+        }
+        .container {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background-color: #ffffff;
+            border-radius: 1rem; /* Rounded corners for the main container */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        select {
+            border-radius: 0.5rem; /* Rounded corners for dropdowns */
+            padding: 0.5rem 1rem;
+            border: 1px solid #d1d5db; /* Light gray border */
+            background-color: #f9fafb; /* Slightly darker background for input */
+            appearance: none; /* Remove default arrow */
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='currentColor'%3E%3Cpath fill-rule='evenodd' d='M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z' clip-rule='evenodd'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            background-size: 1.5em 1.5em;
+        }
+        .plot-container {
+            border-radius: 0.75rem; /* Rounded corners for plot area */
+            overflow: hidden; /* Ensure content respects rounded corners */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+    </style>
+</head>
+<body class="p-4">
+    <div class="container">
+        <h1 class="text-3xl font-bold text-center mb-6 text-gray-800">Species Abundance Time Series</h1>
+
+        <div class="flex flex-col sm:flex-row justify-center items-center gap-4 mb-8">
+            <div class="flex flex-col">
+                <label for="route-selector" class="text-gray-700 font-medium mb-1">Select Route:</label>
+                <select id="route-selector" class="w-full sm:w-48"></select>
+            </div>
+
+            <div class="flex flex-col">
+                <label for="species-selector" class="text-gray-700 font-medium mb-1">Select Species:</label>
+                <select id="species-selector" class="w-full sm:w-64"></select>
+            </div>
+        </div>
+
+        <div id="plot-area" class="plot-container w-full h-96 bg-gray-50 flex items-center justify-center text-gray-500">
+            Select a route and species to see the time series.
+        </div>
+    </div>
+
+    <script>
+        // Use a self-executing anonymous function to encapsulate the script
+        (function() {
+            // --- Sample Data (Simulating your CSVs and AOU Dictionary) ---
+            // In a real application, you would fetch these from your server or local files.
+            // This structure mimics: { 'route_id': { 'year': { 'AOU': abundance, ... }, ... } }
+            const allRoutesData = {
+                "route_101": {
+                    "1990": { "AOU1": 10, "AOU2": 5, "AOU3": 12, "AOU5": 2 },
+                    "1991": { "AOU1": 12, "AOU2": 6, "AOU3": 15, "AOU5": 3 },
+                    "1992": { "AOU1": 15, "AOU2": 7, "AOU3": 10, "AOU5": 4 },
+                    "1993": { "AOU1": 13, "AOU2": 8, "AOU3": 11, "AOU5": 5 },
+                    "1994": { "AOU1": 11, "AOU2": 9, "AOU3": 13, "AOU5": 6 },
+                    "1995": { "AOU1": 14, "AOU2": 10, "AOU3": 14, "AOU5": 7 }
+                },
+                "route_102": {
+                    "1990": { "AOU1": 8, "AOU4": 3, "AOU2": 1 },
+                    "1991": { "AOU1": 9, "AOU4": 4, "AOU2": 2 },
+                    "1992": { "AOU1": 10, "AOU4": 5, "AOU2": 3 },
+                    "1993": { "AOU1": 11, "AOU4": 6, "AOU2": 4 },
+                    "1994": { "AOU1": 12, "AOU4": 7, "AOU2": 5 },
+                    "1995": { "AOU1": 13, "AOU4": 8, "AOU2": 6 }
+                },
+                "route_103": {
+                    "1990": { "AOU3": 20, "AOU5": 10 },
+                    "1991": { "AOU3": 22, "AOU5": 11 },
+                    "1992": { "AOU3": 25, "AOU5": 12 },
+                    "1993": { "AOU3": 23, "AOU5": 13 },
+                    "1994": { "AOU3": 21, "AOU5": 14 },
+                    "1995": { "AOU3": 24, "AOU5": 15 }
+                }
+            };
+
+            // Your AOU to Species Name dictionary
+            const aouToSpeciesMap = {
+                "AOU1": "Northern Cardinal",
+                "AOU2": "American Robin",
+                "AOU3": "Blue Jay",
+                "AOU4": "House Sparrow",
+                "AOU5": "European Starling"
+            };
+
+            // --- DOM Elements ---
+            const routeSelector = document.getElementById('route-selector');
+            const speciesSelector = document.getElementById('species-selector');
+            const plotArea = document.getElementById('plot-area');
+
+            // --- Helper Functions ---
+
+            /**
+             * Populates a select element with options from an array.
+             * @param {HTMLSelectElement} selectorElement - The select element to populate.
+             * @param {Array<string>} optionsArray - An array of strings for the option values and text.
+             * @param {string} [defaultOptionText='Select...'] - Text for the default disabled option.
+             */
+            function populateSelector(selectorElement, optionsArray, defaultOptionText = 'Select...') {
+                selectorElement.innerHTML = ''; // Clear existing options
+                const defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = defaultOptionText;
+                defaultOption.disabled = true;
+                defaultOption.selected = true; // Make it the initially selected option
+                selectorElement.appendChild(defaultOption);
+
+                optionsArray.forEach(optionValue => {
+                    const option = document.createElement('option');
+                    option.value = optionValue;
+                    option.textContent = optionValue;
+                    selectorElement.appendChild(option);
+                });
+            }
+
+            /**
+             * Updates the species selector based on the currently selected route.
+             */
+            function updateSpeciesSelector() {
+                const selectedRoute = routeSelector.value;
+                let availableSpeciesAOU = new Set();
+
+                if (selectedRoute && allRoutesData[selectedRoute]) {
+                    const routeData = allRoutesData[selectedRoute];
+                    for (const year in routeData) {
+                        if (routeData.hasOwnProperty(year)) {
+                            for (const aouCode in routeData[year]) {
+                                if (routeData[year].hasOwnProperty(aouCode)) {
+                                    availableSpeciesAOU.add(aouCode);
+                                }
+                            }
+                        }
+                    }
+                }
+
+                const speciesNames = Array.from(availableSpeciesAOU)
+                                          .map(aou => aouToSpeciesMap[aou] || aou) // Map AOU to name, or use AOU if not found
+                                          .sort(); // Sort alphabetically
+
+                populateSelector(speciesSelector, speciesNames, 'Select Species');
+
+                // If the previously selected species is no longer available in the new route, reset it
+                if (!speciesNames.includes(speciesSelector.value)) {
+                    speciesSelector.value = '';
+                }
+            }
+
+            /**
+             * Plots the time series for the selected species and route.
+             */
+            function plotTimeSeries() {
+                const selectedRoute = routeSelector.value;
+                const selectedSpeciesName = speciesSelector.value;
+
+                if (!selectedRoute || !selectedSpeciesName) {
+                    plotArea.innerHTML = '<div class="text-gray-500">Select a route and species to see the time series.</div>';
+                    return;
+                }
+
+                // Find the AOU code for the selected species name
+                const selectedAOU = Object.keys(aouToSpeciesMap).find(key => aouToSpeciesMap[key] === selectedSpeciesName);
+
+                if (!selectedAOU) {
+                    plotArea.innerHTML = `<div class="text-red-500">Error: AOU code not found for species "${selectedSpeciesName}".</div>`;
+                    return;
+                }
+
+                const routeData = allRoutesData[selectedRoute];
+                if (!routeData) {
+                    plotArea.innerHTML = `<div class="text-red-500">Error: Data not found for route "${selectedRoute}".</div>`;
+                    return;
+                }
+
+                const years = [];
+                const abundance = [];
+
+                // Extract data for the selected AOU and route
+                for (const yearStr in routeData) {
+                    if (routeData.hasOwnProperty(yearStr)) {
+                        const yearInt = parseInt(yearStr, 10);
+                        const yearAbundance = routeData[yearStr][selectedAOU];
+                        if (yearAbundance !== undefined) {
+                            years.push(yearInt);
+                            abundance.push(yearAbundance);
+                        }
+                    }
+                }
+
+                // Sort data by year
+                const sortedData = years.map((year, index) => ({ year, abundance: abundance[index] }))
+                                       .sort((a, b) => a.year - b.year);
+
+                const sortedYears = sortedData.map(item => item.year);
+                const sortedAbundance = sortedData.map(item => item.abundance);
+
+                if (sortedYears.length === 0) {
+                    plotArea.innerHTML = `<div class="text-gray-500">No data available for "${selectedSpeciesName}" in "${selectedRoute}".</div>`;
+                    return;
+                }
+
+                const trace = {
+                    x: sortedYears,
+                    y: sortedAbundance,
+                    mode: 'lines+markers',
+                    name: `${selectedSpeciesName} Abundance`,
+                    line: { color: '#3b82f6', width: 2 }, // Blue line
+                    marker: { color: '#1d4ed8', size: 8 } // Darker blue markers
+                };
+
+                const layout = {
+                    title: {
+                        text: `${selectedSpeciesName} Abundance in Route ${selectedRoute.replace('route_', '')} Over Years`,
+                        font: { size: 20, color: '#333' }
+                    },
+                    xaxis: {
+                        title: 'Year',
+                        type: 'linear',
+                        tickmode: 'linear',
+                        dtick: 1, // Ensure ticks for every year
+                        gridcolor: '#e5e7eb',
+                        linecolor: '#d1d5db',
+                        linewidth: 1
+                    },
+                    yaxis: {
+                        title: 'Abundance',
+                        gridcolor: '#e5e7eb',
+                        linecolor: '#d1d5db',
+                        linewidth: 1,
+                        rangemode: 'tozero' // Start y-axis from zero
+                    },
+                    hovermode: 'closest',
+                    margin: { t: 60, b: 40, l: 50, r: 30 },
+                    plot_bgcolor: '#f9fafb', // Light background for the plot area
+                    paper_bgcolor: '#ffffff' // White background for the entire graph paper
+                };
+
+                const config = {
+                    responsive: true, // Make plot responsive to container size
+                    displayModeBar: false // Hide Plotly's default mode bar
+                };
+
+                Plotly.newPlot(plotArea, [trace], layout, config);
+            }
+
+            // --- Event Listeners and Initial Setup ---
+            window.onload = function() {
+                // Populate route selector
+                const routeIds = Object.keys(allRoutesData).sort();
+                populateSelector(routeSelector, routeIds, 'Select Route');
+
+                // Initial population of species selector (will be updated when route is selected)
+                updateSpeciesSelector(); // Call once to set up initial state
+
+                // Add event listeners
+                routeSelector.addEventListener('change', () => {
+                    updateSpeciesSelector(); // Update species dropdown based on new route
+                    plotTimeSeries(); // Plot with potentially new route and existing species
+                });
+                speciesSelector.addEventListener('change', plotTimeSeries);
+
+                // Initial plot (will show placeholder message)
+                plotTimeSeries();
+            };
+        })();
+    </script>
+</body>
+</html>
