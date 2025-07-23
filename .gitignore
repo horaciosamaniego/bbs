@@ -6,6 +6,7 @@ Weather.csv
 States/
 50-StopData/
 
+# R files
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
