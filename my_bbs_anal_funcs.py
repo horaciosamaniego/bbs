@@ -705,8 +705,7 @@ def calculate_species_presence(df_filtered: pd.DataFrame, abundance_col: str = '
 def identify_long_timeseries_routes(
     df_filtered: pd.DataFrame,
     species_presence_results: pd.DataFrame,
-    abundance_col: str = 'Number of individuals',
-    top_n_routes: int = 10
+    abundance_col: str = 'Number of individuals'
 ) -> pd.DataFrame:
     """
     Identifies routes with the longest time series of continuously present species.
@@ -740,10 +739,16 @@ def identify_long_timeseries_routes(
 
     # Calculate the overall time series length for each route in the *filtered original data*
     # This should be the span of years a route was surveyed within the filtered data.
+    # route_time_series_info = df_filtered.groupby('ruta')['Year'].agg(
+    #     min_year=('Year','min'),
+    #     max_year=('Year','max'),
+    #     num_survey_years=('Year','nunique') # Count distinct years surveyed for the route
+    # ).reset_index()
+
     route_time_series_info = df_filtered.groupby('ruta')['Year'].agg(
-        min_year=('min', 'Year'),
-        max_year=('max', 'Year'),
-        num_survey_years=('nunique', 'Year') # Count distinct years surveyed for the route
+        min_year='min',
+        max_year='max',
+        num_survey_years='nunique'
     ).reset_index()
 
     # Merge the two summary DataFrames
@@ -765,5 +770,4 @@ def identify_long_timeseries_routes(
         ascending=[False, False]
     ).reset_index(drop=True)
 
-    print(f"Top {min(top_n_routes, len(route_summary))} routes identified.")
-    return route_summary.head(top_n_routes)
+    return route_summary
