@@ -166,6 +166,54 @@ def year_to_df(year_value: int, data: dict) -> pd.DataFrame:
 
 
 
+def fill_missing_year_data(
+    data_tuples: list[tuple[int, int]],
+    start_year: int,
+    end_year: int
+) -> list[tuple[int, int]]:
+    """
+    Generates a list of (year, value) tuples for a continuous range of years,
+    filling in missing years with a default value of 0.
+
+    Args:
+        data_tuples (list[tuple[int, int]]): A list of tuples, where each tuple
+                                             is (year, value).
+        start_year (int): The first year in the desired continuous range (inclusive).
+        end_year (int): The last year in the desired continuous range (inclusive).
+
+    Returns:
+        list[tuple[int, int]]: A new list of tuples covering the specified
+                               year range, with 0 for years where no data was provided.
+                               Returns an empty list if start_year > end_year.
+    """
+    if not isinstance(data_tuples, list) or not all(isinstance(t, tuple) and len(t) == 2 and isinstance(t[0], int) and isinstance(t[1], int) for t in data_tuples):
+        print("Error: 'data_tuples' must be a list of (int, int) tuples.")
+        return []
+    if not isinstance(start_year, int) or not isinstance(end_year, int):
+        print("Error: 'start_year' and 'end_year' must be integers.")
+        return []
+
+    if start_year > end_year:
+        print(f"Warning: start_year ({start_year}) is greater than end_year ({end_year}). Returning empty list.")
+        return []
+
+    # Convert the input list of tuples into a dictionary for faster lookups
+    # This maps year -> value
+    data_map = {year: value for year, value in data_tuples}
+
+    result_list = []
+    # Iterate through the desired year range
+    for year in range(start_year, end_year + 1):
+        # Check if data exists for the current year
+        if year in data_map:
+            result_list.append((year, data_map[year]))
+        else:
+            # If not, append the year with a value of 0
+            result_list.append((year, 0))
+
+    return result_list
+
+
 ## TESTING THE FUNCTION ##
 # my_data = [(1980, 4), (1968, 20), (1975, 15)]
 # first_year = 1966
