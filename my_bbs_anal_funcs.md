@@ -1,3 +1,11 @@
+---
+title: Documentation analysis functions for BBS project
+author: Horacio Samaniego
+date: 5-9-2025
+---
+
+
+
 # Documentation for `my_bbs_anal_funcs.py`
 
 This is a comprehensive overview and documentation of the functions contained in the `my_bbs_anal_funcs.py` file. The functions are organized into three main categories: Data Loading and Structuring, Time Series Analysis and Filtering, and Webpage Generation.
