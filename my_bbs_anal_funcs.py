@@ -4,7 +4,7 @@ import glob
 
 
 
-def read_routes_BBS(directory_path):
+def read_routes_BBS(directory_path, match_pattern='F*.csv') -> pd.DataFrame:
     """
     Reads and consolidates BBS data from multiple CSV files into a single DataFrame.
 
@@ -16,6 +16,10 @@ def read_routes_BBS(directory_path):
     Args:
         directory_path (str): The path to the directory containing the CSV files.
                               This path should be a string that `os.path.join` can use.
+        match_pattern (str, optional): Filename pattern to match (default: 'F*.csv').
+                                       Uses Unix shell-style wildcards.
+
+
 
     Returns:
         pandas.DataFrame: A single DataFrame containing data from all
@@ -25,6 +29,11 @@ def read_routes_BBS(directory_path):
 
     Raises:
         FileNotFoundError: If the specified directory path does not exist. (Implicit, handled by `glob`)
+
+    Notes:
+        - Prints the number and names of files found and any read errors.
+        - Files that cannot be read are skipped with a warning.
+        - If no files match, returns an empty DataFrame and prints a message.
 
     Example:
         >>> import pandas as pd
@@ -36,7 +45,7 @@ def read_routes_BBS(directory_path):
     """
 
     # Construct the search pattern for CSV files starting with 'F'
-    search_pattern = os.path.join(directory_path, 'F*.csv')
+    search_pattern = os.path.join(directory_path, match_pattern)
     
     # Find all files matching the pattern
     csv_files = glob.glob(search_pattern)
@@ -230,8 +239,39 @@ def year_to_df(year_value: int, data: dict) -> pd.DataFrame:
     return df.sort_index(axis=0).sort_index(axis=1) # Sort by route (rows) and species (columns)
 
 
+def get_spp_name(aou, db = pd.DataFrame) -> dict:
+    """
+    Retrieves species information from a species database based on AOU code.
+    This function looks up a species in a provided species database DataFrame
+    """
+    name = db[db['AOU']==aou]
+    return {
+       'Common Name': name['English_Common_Name'].values[0],
+       'Genus': name['Genus'].values[0],
+       'Species': name['Species'].values[0],
+       'spp': name['Genus'].values[0] + ' ' + name['Species'].values[0]
+    }
 
 
+def sum_stop_columns(df: pd.DataFrame) -> pd.Series:
+    """
+    Sums the values of all columns that start with 'Stop' and end with a number
+    for each row in the DataFrame.
+
+    Args:
+        df (pd.DataFrame): The input DataFrame.
+
+    Returns:
+        pd.Series: A Series containing the sum for each row.
+    """
+    # Use .filter() with a regular expression to select all columns
+    # that match the pattern 'Stop' followed by one or more digits.
+    # This is a flexible way to select Stop1, Stop2, ..., Stop50, etc.
+    stop_columns = df.filter(regex='^Stop\d+$')
+
+    # Sum the values along axis 1 (across the columns) for each row.
+    # The result is a new Series where each value is the sum for that row.
+    return stop_columns.sum(axis=1)
 
 def fill_missing_year_data(
     data_tuples: list[tuple[int, int]],
