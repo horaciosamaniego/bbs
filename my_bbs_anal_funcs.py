@@ -59,7 +59,7 @@ def read_routes_BBS(directory_path, match_pattern='F*.csv') -> pd.DataFrame:
     # List to hold individual DataFrames
     dataframes = []
 
-    print(f"Found {len(csv_files)} CSV files starting with 'F':")
+    print(f"Found {len(csv_files)} CSV files starting with '{match_pattern}':")
     for file_path in csv_files:
         print(f"  - {os.path.basename(file_path)}")
         try:
@@ -78,6 +78,24 @@ def read_routes_BBS(directory_path, match_pattern='F*.csv') -> pd.DataFrame:
         print("No DataFrames were successfully loaded.")
         return pd.DataFrame() # Return an empty DataFrame if no data was loaded
 
+
+
+def pad_series_elements(s: pd.Series, width: int) -> pd.Series:
+    """
+    Pads each element of a Series with leading zeros to a specified width.
+
+    Args:
+        s (pd.Series): The input Series. Elements should be strings or convertible to strings.
+        width (int): The total length of the resulting strings.
+
+    Returns:
+        pd.Series: A new Series with the elements padded with zeros.
+    """
+    # First, convert the Series to a string type to ensure .str accessor works.
+    s = s.astype(str)
+
+    # Use .str.zfill() to pad each string with leading zeros.
+    return s.str.zfill(width)
 
 
 def species_to_df(species_id: int, data: dict) -> pd.DataFrame:
@@ -240,7 +258,7 @@ def year_to_df(year_value: int, data: dict) -> pd.DataFrame:
     return df.sort_index(axis=0).sort_index(axis=1) # Sort by route (rows) and species (columns)
 
 
-def get_spp_name(aou, db = pd.DataFrame) -> dict:
+def get_spp_name(aou: int, db: pd.DataFrame) -> dict:
     """
     Retrieves species information from a species database based on AOU code.
     This function looks up a species in a provided species database DataFrame
@@ -781,7 +799,7 @@ def generate_species_webpage(csv_file_path, figs_dir_path, output_html_file='spe
 
 # --- NEW FUNCTIONS FOR IDENTIFYING HIGH-QUALITY ROUTES ---
 
-def filter_bbs_data(df: pd.DataFrame, abundance_col: str = 'Number of individuals') -> pd.DataFrame:
+def filter_bbs_data(df: pd.DataFrame, first_yr=1997, abundance_col: str = 'Number of individuals') -> pd.DataFrame:
     """
     Applies quality and temporal filters to a BBS consolidated DataFrame.
 
@@ -821,9 +839,9 @@ def filter_bbs_data(df: pd.DataFrame, abundance_col: str = 'Number of individual
 
     print(f"Initial rows: {len(df)}")
 
-    # 1. Filter by Year >= 1980
-    df_filtered = df[df['Year'] >= 1980].copy()
-    print(f"After filtering Year >= 1980: {len(df_filtered)} rows")
+    # 1. Filter by Year >= first?yr
+    df_filtered = df[df['Year'] >= first_yr].copy()
+    print(f"After filtering Year >= {first_yr}: {len(df_filtered)} rows")
 
     # 2. Exclude 2020 data
     df_filtered = df_filtered[df_filtered['Year'] != 2020].copy()
