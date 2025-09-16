@@ -4,6 +4,23 @@ import os
 import glob
 
 
+def pad_series_elements(s: pd.Series, width: int) -> pd.Series:
+    """
+    Pads each element of a Series with leading zeros to a specified width.
+
+    Args:
+        s (pd.Series): The input Series. Elements should be strings or convertible to strings.
+        width (int): The total length of the resulting strings.
+
+    Returns:
+        pd.Series: A new Series with the elements padded with zeros.
+    """
+    # First, convert the Series to a string type to ensure .str accessor works.
+    s = s.astype(str)
+
+    # Use .str.zfill() to pad each string with leading zeros.
+    return s.str.zfill(width)
+
 
 def read_routes_BBS(directory_path, match_pattern='F*.csv') -> pd.DataFrame:
     """
