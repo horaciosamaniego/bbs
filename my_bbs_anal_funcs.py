@@ -480,6 +480,7 @@ def plot_ts_routests(spp,sppname,DB,SPP_SUMMARY,plotit=True):
         the_png = 'figs/'+str(spp)+'routes+tts.png'
         plt.savefig(the_png);
         print('saving AOU:',str(spp),'to:',the_png)
+        plt.close()
     else:
         plt.show()
 

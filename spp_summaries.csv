@@ -1,736 +1,736 @@
-,Unnamed: 0,AOU,n_rutas,first_year,last_year,timeseries length,English_Common_Name,French_Common_Name,Order,Family,Genus,Species,prct_years
-730,730,20630,2,2018,2019,1,Egyptian Goose,Ouette d'Égypte,Anseriformes,Anatidae,Alopochen,aegyptiaca,2.0
-734,734,52021,2,2005,2006,1,Yellow-chevroned Parakeet,Toui à ailes jaunes,Psittaciformes,Psittacidae,Brotogeris,chiriri,2.0
-193,193,2620,2,2021,2022,1,Buff-breasted Sandpiper,Bécasseau roussâtre,Charadriiformes,Scolopacidae,Calidris,subruficollis,2.0
-464,464,5078,2,2017,2018,1,hybrid Bullock's Oriole x Baltimore Oriole,hybride Oriole de Baltimore x Oriole de Bullock's,Passeriformes,Icteridae,Icterus,bullockii x galbula,2.0
-51,51,660,2,2014,2015,1,Elegant Tern,Sterne élégante,Charadriiformes,Laridae,Thalasseus,elegans,2.0
-174,174,2400,3,2021,2023,2,White-rumped Sandpiper,Bécasseau à croupion blanc,Charadriiformes,Scolopacidae,Calidris,fuscicollis,1.5
-160,160,2220,3,2021,2023,2,Red Phalarope,Phalarope à bec large,Charadriiformes,Scolopacidae,Phalaropus,fulicarius,1.5
-106,106,1580,3,2021,2023,2,Spectacled Eider,Eider à lunettes,Anseriformes,Anatidae,Somateria,fischeri,1.5
-105,105,1570,3,2021,2023,2,Steller's Eider,Eider de Steller,Anseriformes,Anatidae,Polysticta,stelleri,1.5
-701,701,7421,3,2021,2023,2,Swinhoe’s White-eye,Zostérops de Swinhoe,Passeriformes,Zosteropidae,Zosterops,simplex,1.5
-628,628,6686,5,2013,2017,4,hybrid Townsend's Warbler x Hermit Warbler,hybride Paruline de Townsend x à tête jaune,Passeriformes,Parulidae,Setophaga,townsendi x occidentalis,1.25
-61,61,900,5,2004,2008,4,Manx Shearwater,Puffin des Anglais,Procellariiformes,Procellariidae,Puffinus,puffinus,1.25
-663,663,7080,280,1997,2023,26,Bendire's Thrasher,Moqueur de Bendire,Passeriformes,Mimidae,Toxostoma,bendirei,1.0
-665,665,7110,164,1997,2023,26,LeConte's Thrasher,Moqueur de LeConte,Passeriformes,Mimidae,Toxostoma,lecontei,1.0
-12,12,100,291,1997,2023,26,Pacific Loon,Plongeon du Pacifique,Gaviiformes,Gaviidae,Gavia,pacifica,1.0
-403,403,4640,2369,1996,2023,27,(Cordilleran Flycatcher) Western Flycatcher,Moucherolle obscur (groupe occidentalis),Passeriformes,Tyrannidae,Empidonax,difficilis occidentalis,1.0
-388,388,4480,2314,1996,2023,27,Cassin's Kingbird,Tyran de Cassin,Passeriformes,Tyrannidae,Tyrannus,vociferans,1.0
-389,389,4490,306,1996,2023,27,Great Kiskadee,Tyran quiquivi,Passeriformes,Tyrannidae,Pitangus,sulphuratus,1.0
-360,360,4250,1910,1995,2023,28,White-throated Swift,Martinet à gorge blanche,Apodiformes,Apodidae,Aeronautes,saxatalis,1.0
-351,351,4180,1108,1996,2023,27,Common Poorwill,Engoulevent de Nuttall,Caprimulgiformes,Caprimulgidae,Phalaenoptilus,nuttallii,1.0
-352,352,4190,136,1997,2023,26,Common Pauraque,Engoulevent pauraqué,Caprimulgiformes,Caprimulgidae,Nyctidromus,albicollis,1.0
-341,341,4100,1274,1996,2023,27,Golden-fronted Woodpecker,Pic à front doré,Piciformes,Picidae,Melanerpes,aurifrons,1.0
-342,342,4110,556,1997,2023,26,Gila Woodpecker,Pic des saguaros,Piciformes,Picidae,Melanerpes,uropygialis,1.0
-344,344,4123,1182,1997,2023,26,(unid. Red / Yellow Shafted) Northern Flicker,Pic flamboyant (groupe non identifié),Piciformes,Picidae,Colaptes,auratus,1.0
-475,475,5180,3965,1995,2023,28,Cassin's Finch,Roselin de Cassin,Passeriformes,Fringillidae,Haemorhous,cassinii,1.0
-364,364,4290,2319,1996,2023,27,Black-chinned Hummingbird,Colibri à gorge noire,Apodiformes,Trochilidae,Archilochus,alexandri,1.0
-366,366,4300,372,1997,2023,26,Costa's Hummingbird,Colibri de Costa,Apodiformes,Trochilidae,Calypte,costae,1.0
-382,382,4450,110,1997,2023,26,Gray Kingbird,Tyran gris,Passeriformes,Tyrannidae,Tyrannus,dominicensis,1.0
-385,385,4461,451,1996,2023,27,Couch's Kingbird,Tyran de Couch,Passeriformes,Tyrannidae,Tyrannus,couchii,1.0
-356,356,4210,1445,1996,2023,27,Lesser Nighthawk,Engoulevent minime,Caprimulgiformes,Caprimulgidae,Chordeiles,acutipennis,1.0
-368,368,4320,3065,1997,2023,26,Broad-tailed Hummingbird,Colibri à queue large,Apodiformes,Trochilidae,Selasphorus,platycercus,1.0
-597,597,6410,3471,1995,2023,28,Blue-winged Warbler,Paruline à ailes bleues,Passeriformes,Parulidae,Vermivora,cyanoptera,1.0
-611,611,6540,5285,1994,2023,29,Black-throated Blue Warbler,Paruline bleue,Passeriformes,Parulidae,Setophaga,caerulescens,1.0
-600,600,6420,1235,1997,2023,26,Golden-winged Warbler,Paruline à ailes dorées,Passeriformes,Parulidae,Vermivora,chrysoptera,1.0
-601,601,6430,790,1996,2023,27,Lucy's Warbler,Paruline de Lucy,Passeriformes,Parulidae,Leiothlypis,luciae,1.0
-689,689,7340,189,1997,2023,26,Bridled Titmouse,Mésange arlequin,Passeriformes,Paridae,Baeolophus,wollweberi,1.0
-691,691,7351,146,1997,2023,26,unid. western chickadee species,unid Mésange sp. de l'Ouest,Passeriformes,Paridae,Poecile,sp.,1.0
-678,678,7260,6532,1995,2023,28,Brown Creeper,Grimpereau brun,Passeriformes,Certhiidae,Certhia,americana,1.0
-687,687,7331,1420,1997,2023,26,Juniper Titmouse,Mésange des genévriers,Passeriformes,Paridae,Baeolophus,ridgwayi,1.0
-681,681,7290,4933,1994,2023,29,Brown-headed Nuthatch,Sittelle à tête brune,Passeriformes,Sittidae,Sitta,pusilla,1.0
-13,13,110,318,1997,2023,26,Red-throated Loon,Plongeon catmarin,Gaviiformes,Gaviidae,Gavia,stellata,1.0
-18,18,230,354,1997,2023,26,Marbled Murrelet,Guillemot marbré,Charadriiformes,Alcidae,Brachyramphus,marmoratus,1.0
-726,726,8110,7,2016,2023,7,Scaly-breasted Munia,Capucin damier,Passeriformes,Estrildidae,Lonchura,punctulata,1.0
-684,684,7315,74,1997,2023,26,unid. Tufted Titmouse / Black-crested Titmouse,unid Mésange bicolore / Mésange à plumet noir,Passeriformes,Paridae,Baeolophus,bicolor / atricristatus,1.0
-685,685,7320,1098,1996,2023,27,Black-crested Titmouse,Mésange à plumet noir,Passeriformes,Paridae,Baeolophus,atricristatus,1.0
-732,732,22860,13959,1997,2023,26,Eurasian Collared-Dove,Tourterelle turque,Columbiformes,Columbidae,Streptopelia,decaocto,1.0
-622,622,6640,780,1997,2023,26,Grace's Warbler,Paruline de Grace,Passeriformes,Parulidae,Setophaga,graciae,1.0
-652,652,6970,240,1997,2023,26,American Pipit,Pipit d'Amérique,Passeriformes,Motacillidae,Anthus,rubescens,1.0
-653,653,6990,2,2006,2008,2,Red-throated Pipit,Pipit à gorge rousse,Passeriformes,Motacillidae,Anthus,cervinus,1.0
-655,655,7010,893,1996,2023,27,American Dipper,Cincle d'Amérique,Passeriformes,Cinclidae,Cinclus,mexicanus,1.0
-647,647,6880,153,1997,2023,26,Painted Redstart,Paruline à ailes blanches,Passeriformes,Parulidae,Myioborus,pictus,1.0
-649,649,6883,463,1997,2023,26,Eurasian Tree Sparrow,Moineau friquet,Passeriformes,Passeridae,Passer,montanus,1.0
-491,491,5310,427,1996,2023,27,Lawrence's Goldfinch,Chardonneret gris,Passeriformes,Fringillidae,Spinus,lawrencei,1.0
-480,480,5220,2317,1996,2023,27,White-winged Crossbill,Bec-croisé bifascié,Passeriformes,Fringillidae,Loxia,leucoptera,1.0
-469,469,5120,4114,1996,2023,27,Great-tailed Grackle,Quiscale à longue queue,Passeriformes,Icteridae,Quiscalus,mexicanus,1.0
-471,471,5135,85,1997,2023,26,unid. Boat-tailed Grackle / Great-tailed Grackle,unid Quiscale des marais / Quiscale à longue queue,Passeriformes,Icteridae,Quiscalus,major / mexicanus,1.0
-78,78,1310,944,1996,2023,27,Hooded Merganser,Harle couronné,Anseriformes,Anatidae,Lophodytes,cucullatus,1.0
-426,426,4810,111,1997,2022,25,unid. California Scrub-Jay / Woodhouse's Scrub-Jay,unid Geai buissonnier / Geai de Woodhouse,Passeriformes,Corvidae,Aphelocoma,californica / woodhouseii,1.0
-413,413,4689,231,1997,2023,26,unid. Hammond's Flycatcher / Dusky Flycatcher,unid Moucherolle Hammond's / Moucherolle Dusky,Passeriformes,Tyrannidae,Empidonax,hammondii / oberholseri,1.0
-28,28,380,203,1997,2023,26,Long-tailed Jaeger,Labbe à longue queue,Charadriiformes,Stercorariidae,Stercorarius,longicaudus,1.0
-40,40,550,1088,1995,2023,28,Short-billed Gull,Goéland à bec court,Charadriiformes,Laridae,Larus,brachyrhynchus,1.0
-312,312,3850,2873,1996,2023,27,Greater Roadrunner,Grand Géocoucou,Cuculiformes,Cuculidae,Geococcyx,californianus,1.0
-311,311,3840,112,1997,2023,26,Groove-billed Ani,Ani à bec cannelé,Cuculiformes,Cuculidae,Crotophaga,sulcirostris,1.0
-308,308,3826,3,2019,2022,3,Red-crowned Parrot,Amazone à joues vertes,Psittaciformes,Psittacidae,Amazona,viridigenalis,1.0
-487,487,5275,243,1997,2023,26,unid. Common Redpoll / Hoary Redpoll,unid Sizerin flame / Sizerin blanchâtre,Passeriformes,Fringillidae,Carduelis,flammea / hornemanni,1.0
-497,497,5390,688,1996,2023,27,Thick-billed Longspur,Plectrophane de McCown,Passeriformes,Calcariidae,Rhynchophanes,mccownii,1.0
-328,328,3990,794,1996,2023,27,White-headed Woodpecker,Pic à tête blanche,Piciformes,Picidae,Dryobates,albolarvatus,1.0
-494,494,5360,261,1997,2023,26,Lapland Longspur,Plectrophane lapon,Passeriformes,Calcariidae,Calcarius,lapponicus,1.0
-339,339,4080,725,1997,2023,26,Lewis's Woodpecker,Pic de Lewis,Piciformes,Picidae,Melanerpes,lewis,1.0
-200,200,2721,78,1997,2023,26,Pacific Golden-Plover,Pluvier fauve,Charadriiformes,Charadriidae,Pluvialis,fulva,1.0
-199,199,2720,126,1997,2023,26,American Golden-Plover,Pluvier bronzé,Charadriiformes,Charadriidae,Pluvialis,dominica,1.0
-189,189,2560,803,1995,2023,28,Solitary Sandpiper,Chevalier solitaire,Charadriiformes,Scolopacidae,Tringa,solitaria,1.0
-202,202,2740,246,1997,2023,26,Semipalmated Plover,Pluvier semipalmé,Charadriiformes,Charadriidae,Charadrius,semipalmatus,1.0
-206,206,2810,311,1996,2023,27,Mountain Plover,Pluvier montagnard,Charadriiformes,Charadriidae,Charadrius,montanus,1.0
-330,330,4010,1078,1997,2023,26,American Three-toed Woodpecker,Pic à dos rayé,Piciformes,Picidae,Picoides,dorsalis,1.0
-324,324,3950,365,1995,2023,28,Red-cockaded Woodpecker,Pic à face blanche,Piciformes,Picidae,Dryobates,borealis,1.0
-325,325,3960,3106,1996,2023,27,Ladder-backed Woodpecker,Pic arlequin,Piciformes,Picidae,Dryobates,scalaris,1.0
-148,148,2070,207,1997,2023,26,Limpkin,Courlan brun,Gruiformes,Aramidae,Aramus,guarauna,1.0
-158,158,2190,1083,1996,2023,27,Common Gallinule,Gallinule d'Amérique,Gruiformes,Rallidae,Gallinula,galeata,1.0
-502,502,5470,815,1996,2023,27,Henslow's Sparrow,Bruant de Henslow,Passeriformes,Passerellidae,Centronyx,henslowii,1.0
-505,505,5491,596,1996,2023,27,Nelson's Sparrow,Bruant de Nelson,Passeriformes,Passerellidae,Ammospiza,nelsoni,1.0
-506,506,5500,359,1997,2023,26,Seaside Sparrow,Bruant maritime,Passeriformes,Passerellidae,Ammospiza,maritima,1.0
-333,333,4022,321,1996,2023,27,unid. sapsucker,unid Sphyrapicus sp.,Piciformes,Picidae,Sphyrapicus,sp.,1.0
-334,334,4030,2552,1996,2023,27,Red-breasted Sapsucker,Pic à poitrine rouge,Piciformes,Picidae,Sphyrapicus,ruber,1.0
-335,335,4040,1203,1996,2023,27,Williamson's Sapsucker,Pic de Williamson,Piciformes,Picidae,Sphyrapicus,thyroideus,1.0
-337,337,4060,14051,1995,2023,28,Red-headed Woodpecker,Pic à tête rouge,Piciformes,Picidae,Melanerpes,erythrocephalus,1.0
-521,521,5677,743,1997,2023,26,(unid. race) Dark-eyed Junco,Junco ardoisé (groupe non identifié),Passeriformes,Passerellidae,Junco,hyemalis,1.0
-523,523,5690,2176,1997,2023,26,(Gray-headed Junco) Dark-eyed Junco,Junco ardoisé (à tête grise),Passeriformes,Passerellidae,Junco,hyemalis caniceps,1.0
-510,510,5570,530,1995,2023,28,Golden-crowned Sparrow,Bruant à couronne dorée,Passeriformes,Passerellidae,Zonotrichia,atricapilla,1.0
-512,512,5590,823,1997,2023,26,American Tree Sparrow,Bruant hudsonien,Passeriformes,Passerellidae,Spizelloides,arborea,1.0
-210,210,2860,128,1997,2023,26,American Oystercatcher,Huîtrier d'Amérique,Charadriiformes,Haematopodidae,Haematopus,palliatus,1.0
-196,196,2650,165,1997,2023,26,Whimbrel,Courlis corlieu,Charadriiformes,Scolopacidae,Numenius,phaeopus,1.0
-161,161,2230,154,1997,2023,26,Red-necked Phalarope,Phalarope à bec étroit,Charadriiformes,Scolopacidae,Phalaropus,lobatus,1.0
-529,529,5750,1216,1995,2023,28,Bachman's Sparrow,Bruant des pinèdes,Passeriformes,Passerellidae,Peucaea,aestivalis,1.0
-530,530,5760,142,1997,2023,26,Botteri's Sparrow,Bruant de Botteri,Passeriformes,Passerellidae,Peucaea,botterii,1.0
-517,517,5650,605,1996,2023,27,Black-chinned Sparrow,Bruant à menton noir,Passeriformes,Passerellidae,Spizella,atrogularis,1.0
-518,518,5660,268,1997,2023,26,(White-winged Junco) Dark-eyed Junco,Junco ardoisé (à ailes blanches),Passeriformes,Passerellidae,Junco,hyemalis aikeni,1.0
-276,276,3480,2311,1996,2023,27,Ferruginous Hawk,Buse rouilleuse,Accipitriformes,Accipitridae,Buteo,regalis,1.0
-281,281,3560,482,1997,2023,26,Peregrine Falcon,Faucon pèlerin,Falconiformes,Falconidae,Falco,peregrinus,1.0
-602,602,6440,1446,1997,2023,26,Virginia's Warbler,Paruline de Virginia,Passeriformes,Parulidae,Leiothlypis,virginiae,1.0
-596,596,6390,4325,1995,2023,28,Worm-eating Warbler,Paruline vermivore,Passeriformes,Parulidae,Helmitheros,vermivorum,1.0
-627,627,6685,66,1997,2023,26,unid. Townsend's Warbler / Hermit Warbler,unid Paruline de Townsend / Paruline à tête jaune,Passeriformes,Parulidae,Setophaga,townsendi / occidentalis,1.0
-616,616,6580,1670,1996,2023,27,Cerulean Warbler,Paruline azurée,Passeriformes,Parulidae,Setophaga,cerulea,1.0
-609,609,6510,135,1997,2023,26,Olive Warbler,Fauvine des pins,Passeriformes,Peucedramidae,Peucedramus,taeniatus,1.0
-608,608,6500,1467,1996,2023,27,Cape May Warbler,Paruline tigrée,Passeriformes,Parulidae,Setophaga,tigrina,1.0
-650,650,6900,190,1997,2023,26,Red-faced Warbler,Paruline à face rouge,Passeriformes,Parulidae,Cardellina,rubrifrons,1.0
-651,651,6960,140,1997,2023,26,Eastern Yellow Wagtail,Bergeronnette de Béringie,Passeriformes,Motacillidae,Motacilla,tschutschensis,1.0
-629,629,6690,1814,1995,2023,28,Hermit Warbler,Paruline à tête jaune,Passeriformes,Parulidae,Setophaga,occidentalis,1.0
-630,630,6700,45,2000,2023,23,Kirtland's Warbler,Paruline de Kirtland,Passeriformes,Parulidae,Setophaga,kirtlandii,1.0
-621,621,6630,6209,1995,2023,28,Yellow-throated Warbler,Paruline à gorge jaune,Passeriformes,Parulidae,Setophaga,dominica,1.0
-180,180,2460,69,1997,2023,26,Semipalmated Sandpiper,Bécasseau semipalmé,Charadriiformes,Scolopacidae,Calidris,pusilla,1.0
-572,572,6180,552,1997,2023,26,Bohemian Waxwing,Jaseur boréal,Passeriformes,Bombycillidae,Bombycilla,garrulus,1.0
-585,585,6292,2664,1997,2023,26,Plumbeous Vireo,Viréo plombé,Passeriformes,Vireonidae,Vireo,plumbeus,1.0
-595,595,6380,1776,1995,2023,28,Swainson's Warbler,Paruline de Swainson,Passeriformes,Parulidae,Limnothlypis,swainsonii,1.0
-594,594,6370,5366,1995,2023,28,Prothonotary Warbler,Paruline orangée,Passeriformes,Parulidae,Protonotaria,citrea,1.0
-592,592,6340,795,1997,2023,26,Gray Vireo,Viréo gris,Passeriformes,Vireonidae,Vireo,vicinior,1.0
-565,565,6121,1060,1996,2023,27,Cave Swallow,Hirondelle à front brun,Passeriformes,Hirundinidae,Petrochelidon,fulva,1.0
-578,578,6230,86,1997,2021,24,Black-whiskered Vireo,Viréo à moustaches,Passeriformes,Vireonidae,Vireo,altiloquus,1.0
-575,575,6200,1317,1996,2023,27,Phainopepla,Phénopèple luisant,Passeriformes,Ptiliogonatidae,Phainopepla,nitens,1.0
-234,234,3095,9,2014,2023,9,Indian Peafowl,Paon bleu,Galliformes,Phasianidae,Pavo,cristatus,1.0
-228,228,3050,436,1997,2023,26,Greater Prairie-Chicken,Tétras des prairies,Galliformes,Phasianidae,Tympanuchus,cupido,1.0
-185,185,2510,36,1997,2018,21,Hudsonian Godwit,Barge hudsonienne,Charadriiformes,Scolopacidae,Limosa,haemastica,1.0
-295,295,3730,617,1997,2023,26,Eastern Screech-Owl,Petit-duc maculé,Strigiformes,Strigidae,Megascops,asio,1.0
-186,186,2540,1086,1995,2023,28,Greater Yellowlegs,Grand Chevalier,Charadriiformes,Scolopacidae,Tringa,melanoleuca,1.0
-588,588,6300,144,1997,2023,26,Black-capped Vireo,Viréo à tête noire,Passeriformes,Vireonidae,Vireo,atricapilla,1.0
-591,591,6330,3537,1996,2023,27,Bell's Vireo,Viréo de Bell,Passeriformes,Vireonidae,Vireo,bellii,1.0
-256,256,3290,3034,1996,2023,27,Mississippi Kite,Milan du Mississippi,Accipitriformes,Accipitridae,Ictinia,mississippiensis,1.0
-292,292,3700,130,1996,2023,27,Great Gray Owl,Chouette lapone,Strigiformes,Strigidae,Strix,nebulosa,1.0
-245,245,3190,3309,1996,2023,27,White-winged Dove,Tourterelle à ailes blanches,Columbiformes,Columbidae,Zenaida,asiatica,1.0
-275,275,3470,113,1997,2023,26,Rough-legged Hawk,Buse pattue,Accipitriformes,Accipitridae,Buteo,lagopus,1.0
-246,246,3200,3206,1996,2023,27,Common Ground Dove,Colombe à queue noire,Columbiformes,Columbidae,Columbina,passerina,1.0
-297,297,3732,112,1997,2023,26,Western Screech-Owl,Petit-duc des montagnes,Strigiformes,Strigidae,Megascops,kennicottii,1.0
-285,285,3620,1335,1996,2023,27,Crested Caracara,Caracara huppé,Falconiformes,Falconidae,Caracara,plancus,1.0
-287,287,3650,267,1997,2023,26,Barn Owl,Effraie des clochers,Strigiformes,Tytonidae,Tyto,alba,1.0
-289,289,3670,968,1996,2023,27,Short-eared Owl,Hibou des marais,Strigiformes,Strigidae,Asio,flammeus,1.0
-290,290,3680,5607,1996,2023,27,Barred Owl,Chouette rayée,Strigiformes,Strigidae,Strix,varia,1.0
-302,302,3780,2576,1996,2023,27,Burrowing Owl,Chevêche des terriers,Strigiformes,Strigidae,Athene,cunicularia,1.0
-303,303,3790,492,1996,2023,27,Northern Pygmy-Owl,Chevêchette naine,Strigiformes,Strigidae,Glaucidium,gnoma,1.0
-525,525,5730,4635,1995,2023,28,Black-throated Sparrow,Bruant à gorge noire,Passeriformes,Passerellidae,Amphispiza,bilineata,1.0
-527,527,5739,305,1996,2023,27,Bell's Sparrow,Bruant de Bell,Passeriformes,Passerellidae,Artemisiospiza,belli,1.0
-528,528,5740,136,1996,2023,27,unid. Sagebrush Sparrow / Bell's Sparrow,unid Bruant des armoises / Burant de Bell,Passeriformes,Passerellidae,Artemisiospiza,nevadensis / belli,1.0
-244,244,3180,195,1996,2023,27,White-tipped Dove,Colombe de Verreaux,Columbiformes,Columbidae,Leptotila,verreauxi,1.0
-545,545,5920,350,1997,2023,26,Abert's Towhee,Tohi d'Abert,Passeriformes,Passerellidae,Melozone,aberti,1.0
-547,547,5935,76,1997,2023,26,unid. Northern Cardinal / Pyrrhuloxia,unid Cardinal rouge / Cardinal pyrrhuloxia,Passeriformes,Cardinalidae,Cardinalis,cardinalis / sinuatus,1.0
-533,533,5800,1375,1996,2023,27,Rufous-crowned Sparrow,Tohi à calotte fauve,Passeriformes,Passerellidae,Aimophila,ruficeps,1.0
-216,216,2930,2078,1996,2023,27,Scaled Quail,Colin écaillé,Galliformes,Odontophoridae,Callipepla,squamata,1.0
-218,218,2950,1730,1996,2023,27,Gambel's Quail,Colin de Gambel,Galliformes,Odontophoridae,Callipepla,gambelii,1.0
-561,561,6090,565,1997,2023,26,Hepatic Tanager,Piranga orangé,Passeriformes,Cardinalidae,Piranga,flava,1.0
-562,562,6100,14993,1994,2023,29,Summer Tanager,Piranga vermillon,Passeriformes,Cardinalidae,Piranga,rubra,1.0
-235,235,3100,16141,1995,2023,28,Wild Turkey,Dindon sauvage,Galliformes,Phasianidae,Meleagris,gallopavo,1.0
-220,220,2970,278,1997,2023,26,Dusky Grouse,Tétras sombre,Galliformes,Phasianidae,Dendragapus,obscurus,1.0
-221,221,2971,816,1996,2023,27,Sooty Grouse,Tétras fuligineux,Galliformes,Phasianidae,Dendragapus,fuliginosus,1.0
-223,223,2980,162,1997,2023,26,Spruce Grouse,Tétras du Canada,Galliformes,Phasianidae,Canachites,canadensis,1.0
-225,225,3010,329,1997,2023,26,Willow Ptarmigan,Lagopède des saules,Galliformes,Phasianidae,Lagopus,lagopus,1.0
-548,548,5940,1608,1996,2023,27,Pyrrhuloxia,Cardinal pyrrhuloxia,Passeriformes,Cardinalidae,Cardinalis,sinuatus,1.0
-555,555,6000,181,1997,2023,26,Varied Bunting,Passerin varié,Passeriformes,Cardinalidae,Passerina,versicolor,1.0
-542,542,5900,5132,1996,2023,27,Green-tailed Towhee,Tohi à queue verte,Passeriformes,Passerellidae,Pipilo,chlorurus,1.0
-50,50,650,359,1997,2023,26,Royal Tern,Sterne royale,Charadriiformes,Laridae,Thalasseus,maximus,1.0
-49,49,640,815,1996,2023,27,Caspian Tern,Sterne caspienne,Charadriiformes,Laridae,Hydroprogne,caspia,1.0
-226,226,3020,81,1997,2023,26,Rock Ptarmigan,Lagopède alpin,Galliformes,Phasianidae,Lagopus,muta,1.0
-703,703,7460,2008,1996,2023,27,Verdin,Auripare verdin,Passeriformes,Remizidae,Auriparus,flaviceps,1.0
-48,48,634,104,1997,2023,26,unid. tern,unid Sterne sp.,Charadriiformes,Laridae,Tern,sp.,1.0
-719,719,7621,2,2021,2023,2,Clay-colored Thrush,Merle fauve,Passeriformes,Turdidae,Turdus,grayi,1.0
-248,248,3210,1757,1996,2023,27,Inca Dove,Colombe inca,Columbiformes,Columbidae,Columbina,inca,1.0
-274,274,3460,109,1997,2023,26,Gray Hawk,Buse grise,Accipitriformes,Accipitridae,Buteo,plagiatus,1.0
-253,253,3270,1015,1997,2023,26,Swallow-tailed Kite,Naucler à queue fourchue,Accipitriformes,Accipitridae,Elanoides,forficatus,1.0
-255,255,3280,361,1996,2023,27,White-tailed Kite,Élanion à queue blanche,Accipitriformes,Accipitridae,Elanus,leucurus,1.0
-538,538,5860,510,1997,2023,26,Olive Sparrow,Tohi olive,Passeriformes,Passerellidae,Arremonops,rufivirgatus,1.0
-268,268,3410,224,1997,2023,26,White-tailed Hawk,Buse à queue blanche,Accipitriformes,Accipitridae,Geranoaetus,albicaudatus,1.0
-273,273,3451,319,1997,2023,26,unid. Buteo hawk,unid Buse sp.,Accipitriformes,Accipitridae,Buteo,sp.,1.0
-262,262,3340,576,1996,2023,27,American Goshawk,Autour d’Amérique,Accipitriformes,Accipitridae,Accipiter,atricapillus,1.0
-263,263,3350,461,1996,2023,27,Harris's Hawk,Buse de Harris,Accipitriformes,Accipitridae,Parabuteo,unicinctus,1.0
-267,267,3400,97,1997,2023,26,Zone-tailed Hawk,Buse à queue barrée,Accipitriformes,Accipitridae,Buteo,albonotatus,1.0
-543,543,5910,1672,1997,2023,26,Canyon Towhee,Tohi des canyons,Passeriformes,Passerellidae,Melozone,fusca,1.0
-661,661,7060,372,1996,2023,27,Long-billed Thrasher,Moqueur à long bec,Passeriformes,Mimidae,Toxostoma,longirostre,1.0
-415,415,4691,2397,1995,2023,28,Gray Flycatcher,Moucherolle gris,Passeriformes,Tyrannidae,Empidonax,wrightii,1.0
-675,675,7222,6433,1994,2023,29,Winter Wren,Troglodyte des forêts,Passeriformes,Troglodytidae,Troglodytes,hiemalis,1.0
-668,668,7150,7570,1994,2023,29,Rock Wren,Troglodyte des rochers,Passeriformes,Troglodytidae,Salpinctes,obsoletus,1.0
-682,682,7300,1826,1995,2023,28,Pygmy Nuthatch,Sittelle pygmée,Passeriformes,Sittidae,Sitta,pygmaea,1.0
-411,411,4679,694,1997,2023,26,unid. Empidonax flycatcher,unid Empidonax sp.,Passeriformes,Tyrannidae,Empidonax,sp.,1.0
-405,405,4642,229,1996,2023,27,(unid. Cordilleran / Pac-slope) Western Flycatcher,Moucherolle obscur (groupe non identifié),Passeriformes,Tyrannidae,Empidonax,difficilis,1.0
-418,418,4720,84,1997,2023,26,Northern Beardless-Tyrannulet,Tyranneau imberbe,Passeriformes,Tyrannidae,Camptostoma,imberbe,1.0
-417,417,4710,875,1997,2023,26,Vermilion Flycatcher,Moucherolle vermillon,Passeriformes,Tyrannidae,Pyrocephalus,rubinus,1.0
-704,704,7470,324,1997,2023,26,Arctic Warbler,Pouillot boréal,Passeriformes,Phylloscopidae,Phylloscopus,borealis,1.0
-708,708,7520,1044,1996,2023,27,Black-tailed Gnatcatcher,Gobemoucheron à queue noire,Passeriformes,Polioptilidae,Polioptila,melanura,1.0
-662,662,7070,2023,1996,2023,27,Curve-billed Thrasher,Moqueur à bec courbe,Passeriformes,Mimidae,Toxostoma,curvirostre,1.0
-422,422,4760,514,1996,2023,27,Yellow-billed Magpie,Pie à bec jaune,Passeriformes,Corvidae,Pica,nuttalli,1.0
-434,434,4870,1585,1996,2023,27,Chihuahuan Raven,Corbeau à cou blanc,Passeriformes,Corvidae,Corvus,cryptoleucus,1.0
-441,441,4920,2237,1995,2023,28,Pinyon Jay,Geai des pinèdes,Passeriformes,Corvidae,Gymnorhinus,cyanocephalus,1.0
-440,440,4910,3199,1995,2023,28,Clark's Nutcracker,Cassenoix d'Amérique,Passeriformes,Corvidae,Nucifraga,columbiana,1.0
-430,430,4830,269,1997,2023,26,Green Jay,Geai vert,Passeriformes,Corvidae,Cyanocorax,yncas,1.0
-428,428,4813,2347,1995,2023,28,Woodhouse's Scrub-Jay,Geai de Woodhouse,Passeriformes,Corvidae,Aphelocoma,woodhouseii,1.0
-447,447,4960,841,1996,2023,27,Bronzed Cowbird,Vacher bronzé,Passeriformes,Icteridae,Molothrus,aeneus,1.0
-451,451,5000,298,1997,2023,26,Tricolored Blackbird,Carouge de Californie,Passeriformes,Icteridae,Agelaius,tricolor,1.0
-436,436,4881,1344,1996,2023,27,unid. American Crow / Fish Crow,unid Corneille d'Amérique / Corneille de rivage,Passeriformes,Corvidae,Corvus,brachyrhynchos / ossifragus,1.0
-429,429,4820,181,1997,2023,26,Mexican Jay,Geai du Mexique,Passeriformes,Corvidae,Aphelocoma,wollweberi,1.0
-376,376,4402,1065,1996,2023,27,unid. hummingbird,unid Colibri sp.,Apodiformes,Trochilidae,Trochilid,sp.,1.0
-460,460,5050,821,1996,2023,27,Hooded Oriole,Oriole masqué,Passeriformes,Icteridae,Icterus,cucullatus,1.0
-466,466,5090,785,1995,2023,28,Rusty Blackbird,Quiscale rouilleux,Passeriformes,Icteridae,Euphagus,carolinus,1.0
-455,455,5012,361,1997,2023,26,unid. Meadowlark,unid Sturnelle,Passeriformes,Icteridae,Sturnella,sp.,1.0
-456,456,5030,167,1996,2023,27,Audubon's Oriole,Oriole d'Audubon,Passeriformes,Icteridae,Icterus,graduacauda,1.0
-115,115,1710,187,1997,2023,26,Greater White-fronted Goose,Oie rieuse,Anseriformes,Anatidae,Anser,albifrons,1.0
-101,101,1520,527,1995,2023,28,Barrow's Goldeneye,Garrot d'Islande,Anseriformes,Anatidae,Bucephala,islandica,1.0
-459,459,5040,1946,1996,2023,27,Scott's Oriole,Oriole jaune-verdâtre,Passeriformes,Icteridae,Icterus,parisorum,1.0
-103,103,1540,170,1997,2023,26,Long-tailed Duck,Harelde kakawi,Anseriformes,Anatidae,Clangula,hyemalis,1.0
-63,63,1170,131,1997,2023,26,Northern Gannet,Fou de Bassan,Suliformes,Sulidae,Morus,bassanus,1.0
-55,55,710,574,1997,2023,26,Arctic Tern,Sterne arctique,Charadriiformes,Laridae,Sterna,paradisaea,1.0
-64,64,1180,1489,1997,2023,26,Anhinga,Anhinga d'Amérique,Suliformes,Anhingidae,Anhinga,anhinga,1.0
-82,82,1331,113,1997,2023,26,Mexican Duck,Canard du Mexique,Anseriformes,Anatidae,Anas,diazi,1.0
-70,70,1210,347,1997,2023,26,Neotropic Cormorant,Cormoran vigua,Suliformes,Phalacrocoracidae,Nannopterum,brasilianum,1.0
-71,71,1220,63,1997,2019,22,Brandt's Cormorant,Cormoran de Brandt,Suliformes,Phalacrocoracidae,Urile,penicillatus,1.0
-74,74,1260,516,1997,2023,26,Brown Pelican,Pélican brun,Pelecaniformes,Pelecanidae,Pelecanus,occidentalis,1.0
-666,666,7120,462,1997,2023,26,Crissal Thrasher,Moqueur cul-roux,Passeriformes,Mimidae,Toxostoma,crissale,1.0
-667,667,7130,2591,1996,2023,27,Cactus Wren,Troglodyte des cactus,Passeriformes,Troglodytidae,Campylorhynchus,brunneicapillus,1.0
-77,77,1300,391,1997,2023,26,Red-breasted Merganser,Harle huppé,Anseriformes,Anatidae,Mergus,serrator,1.0
-425,425,4790,116,1997,2023,26,Florida Scrub-Jay,Geai à gorge blanche,Passeriformes,Corvidae,Aphelocoma,coerulescens,1.0
-433,433,4865,343,1997,2023,26,unid. Chihuahuan Raven / Common Raven,unid Grand Corbeau / Corbeau à cou blanc,Passeriformes,Corvidae,Corvus,cryptoleucus / corax,1.0
-29,29,400,137,1997,2023,26,Black-legged Kittiwake,Mouette tridactyle,Charadriiformes,Laridae,Rissa,tridactyla,1.0
-30,30,420,170,1997,2023,26,Glaucous Gull,Goéland bourgmestre,Charadriiformes,Laridae,Larus,hyperboreus,1.0
-34,34,490,208,1997,2023,26,Western Gull,Goéland d'Audubon,Charadriiformes,Laridae,Larus,occidentalis,1.0
-130,130,1880,820,1996,2023,27,Wood Stork,Tantale d'Amérique,Ciconiiformes,Ciconiidae,Mycteria,americana,1.0
-126,126,1840,2740,1995,2023,28,White Ibis,Ibis blanc,Pelecaniformes,Threskiornithidae,Eudocimus,albus,1.0
-124,124,1810,866,1997,2023,26,Trumpeter Swan,Cygne trompette,Anseriformes,Anatidae,Cygnus,buccinator,1.0
-81,81,1330,871,1996,2023,27,American Black Duck,Canard noir,Anseriformes,Anatidae,Anas,rubripes,1.0
-144,144,2030,989,1997,2023,26,Yellow-crowned Night-Heron,Bihoreau violacé,Pelecaniformes,Ardeidae,Nyctanassa,violacea,1.0
-132,132,1910,413,1996,2023,27,Least Bittern,Petit Blongios,Pelecaniformes,Ardeidae,Ixobrychus,exilis,1.0
-140,140,2000,3999,1996,2023,27,Little Blue Heron,Aigrette bleue,Pelecaniformes,Ardeidae,Egretta,caerulea,1.0
-122,122,1782,365,1996,2023,27,Mute Swan,Cygne tuberculé,Anseriformes,Anatidae,Cygnus,olor,1.0
-89,89,1410,1921,1995,2023,28,Cinnamon Teal,Sarcelle cannelle,Anseriformes,Anatidae,Spatula,cyanoptera,1.0
-107,107,1590,144,1995,2023,28,Common Eider,Eider à duvet,Anseriformes,Anatidae,Somateria,mollissima,1.0
-93,93,1460,2026,1994,2023,29,Redhead,Fuligule à tête rouge,Anseriformes,Anatidae,Aythya,americana,1.0
-95,95,1480,353,1997,2023,26,Greater Scaup,Fuligule milouinan,Anseriformes,Anatidae,Aythya,marila,1.0
-392,392,4530,983,1996,2023,27,Brown-crested Flycatcher,Tyran de Wied,Passeriformes,Tyrannidae,Myiarchus,tyrannulus,1.0
-394,394,4550,126,1997,2023,26,Dusky-capped Flycatcher,Tyran olivâtre,Passeriformes,Tyrannidae,Myiarchus,tuberculifer,1.0
-98,98,1500,1925,1993,2023,30,Ring-necked Duck,Fuligule à collier,Anseriformes,Anatidae,Aythya,collaris,1.0
-123,123,1800,226,1997,2023,26,Tundra Swan,Cygne siffleur,Anseriformes,Anatidae,Cygnus,columbianus,1.0
-347,347,4140,348,1997,2023,26,Gilded Flicker,Pic chrysoïde,Piciformes,Picidae,Colaptes,chrysoides,1.0
-396,396,4570,8302,1995,2023,28,Say's Phoebe,Moucherolle à ventre roux,Passeriformes,Tyrannidae,Sayornis,saya,1.0
-269,269,3420,8172,1990,2023,33,Swainson's Hawk,Buse de Swainson,Accipitriformes,Accipitridae,Buteo,swainsoni,0.9696969696969697
-571,571,6170,18960,1991,2023,32,Northern Rough-winged Swallow,Hirondelle à ailes hérissées,Passeriformes,Hirundinidae,Stelgidopteryx,serripennis,0.96875
-725,725,7680,7772,1991,2023,32,Mountain Bluebird,Merlebleu azuré,Passeriformes,Turdidae,Sialia,currucoides,0.96875
-407,407,4660,12669,1991,2023,32,Willow Flycatcher,Moucherolle des saules,Passeriformes,Tyrannidae,Empidonax,traillii,0.96875
-113,113,1670,2259,1993,2023,30,Ruddy Duck,Érismature rousse,Anseriformes,Anatidae,Oxyura,jamaicensis,0.9666666666666667
-580,580,6260,1697,1993,2023,30,Philadelphia Vireo,Viréo de Philadelphie,Passeriformes,Vireonidae,Vireo,philadelphicus,0.9666666666666667
-97,97,1490,2713,1993,2023,30,Lesser Scaup,Petit Fuligule,Anseriformes,Anatidae,Aythya,affinis,0.9666666666666667
-224,224,3000,3717,1993,2023,30,Ruffed Grouse,Gélinotte huppée,Galliformes,Phasianidae,Bonasa,umbellus,0.9666666666666667
-677,677,7250,3957,1993,2023,30,Marsh Wren,Troglodyte des marais,Passeriformes,Troglodytidae,Cistothorus,palustris,0.9666666666666667
-3,3,20,1160,1993,2023,30,Red-necked Grebe,Grèbe jougris,Podicipediformes,Podicipedidae,Podiceps,grisegena,0.9666666666666667
-669,669,7170,1721,1994,2023,29,Canyon Wren,Troglodyte des canyons,Passeriformes,Troglodytidae,Catherpes,mexicanus,0.9655172413793104
-645,645,6860,3127,1994,2023,29,Canada Warbler,Paruline du Canada,Passeriformes,Parulidae,Cardellina,canadensis,0.9655172413793104
-96,96,1489,131,1995,2023,28,unid. Greater Scaup / Lesser Scaup,unid Fuligule milouinan / Petit Fuligule,Anseriformes,Anatidae,Aythya,marila / affinis,0.9642857142857143
-176,176,2420,229,1995,2023,28,Least Sandpiper,Bécasseau minuscule,Charadriiformes,Scolopacidae,Calidris,minutilla,0.9642857142857143
-213,213,2882,984,1995,2023,28,Chukar,Perdrix choukar,Galliformes,Phasianidae,Alectoris,chukar,0.9642857142857143
-1,1,11,266,1995,2023,28,Clark's Grebe,Grèbe à face blanche,Podicipediformes,Podicipedidae,Aechmophorus,clarkii,0.9642857142857143
-165,165,2280,471,1995,2023,28,American Woodcock,Bécasse d'Amérique,Charadriiformes,Scolopacidae,Scolopax,minor,0.9642857142857143
-294,294,3720,101,1996,2023,27,Northern Saw-whet Owl,Petite Nyctale,Strigiformes,Strigidae,Aegolius,acadicus,0.9629629629629629
-288,288,3660,64,1997,2023,26,Long-eared Owl,Hibou moyen-duc,Strigiformes,Strigidae,Asio,otus,0.9615384615384616
-27,27,370,68,1997,2023,26,Parasitic Jaeger,Labbe parasite,Charadriiformes,Stercorariidae,Stercorarius,parasiticus,0.9615384615384616
-112,112,1660,78,1997,2023,26,Surf Scoter,Macreuse à front blanc,Anseriformes,Anatidae,Melanitta,perspicillata,0.9615384615384616
-155,155,2150,162,1997,2023,26,Yellow Rail,Râle jaune,Gruiformes,Rallidae,Coturnicops,noveboracensis,0.9615384615384616
-128,128,1861,162,1997,2023,26,unid. Glossy Ibis / White-faced Ibis,unid Ibis falcinelle / Ibis à face blanche,Pelecaniformes,Threskiornithidae,Plegadis,falcinellus / chihi,0.9615384615384616
-495,495,5370,52,1997,2023,26,Smith's Longspur,Plectrophane de Smith,Passeriformes,Calcariidae,Calcarius,pictus,0.9615384615384616
-56,56,730,66,1997,2023,26,Aleutian Tern,Sterne des Aléoutiennes,Charadriiformes,Laridae,Onychoprion,aleuticus,0.9615384615384616
-167,167,2310,70,1997,2023,26,Short-billed Dowitcher,Bécassin roux,Charadriiformes,Scolopacidae,Limnodromus,griseus,0.9615384615384616
-327,327,3975,53,1997,2023,26,Arizona Woodpecker,Pic d'Arizona,Piciformes,Picidae,Dryobates,arizonae,0.9615384615384616
-377,377,4410,59,1997,2023,26,Broad-billed Hummingbird,Colibri circé,Apodiformes,Trochilidae,Cynanthus,latirostris,0.9615384615384616
-307,307,3824,50,1997,2023,26,Monk Parakeet,Conure veuve,Psittaciformes,Psittacidae,Myiopsitta,monachus,0.9615384615384616
-265,265,3380,80,1997,2023,26,(Harlan's Hawk) Red-tailed Hawk,Buse à queue rousse (groupe harlani),Accipitriformes,Accipitridae,Buteo,jamaicensis harlani,0.9615384615384616
-109,109,1630,74,1997,2023,26,Black Scoter,Macreuse à bec jaune,Anseriformes,Anatidae,Melanitta,americana,0.9615384615384616
-381,381,4447,72,1998,2023,25,unid. Cassin's Kingbird / Western Kingbird,unid Tyran de Cassin / Tyran de l'Ouest,Passeriformes,Tyrannidae,Tyrannus,vociferans / verticalis,0.96
-566,566,6122,181,1998,2023,25,unid. Cave Swallow / Cliff Swallow,unid Hirondelle à front blanc / à front brun,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota / fulva,0.96
-240,240,3140,56,1998,2023,25,White-crowned Pigeon,Pigeon à couronne blanche,Columbiformes,Columbidae,Patagioenas,leucocephala,0.96
-522,522,5680,96,1998,2023,25,(Pink-sided Junco) Dark-eyed Junco,Junco ardoisé (groupe mearnsi),Passeriformes,Passerellidae,Junco,hyemalis mearnsi,0.96
-100,100,1512,51,1999,2023,24,unid. Common Goldeneye / Barrow's Goldeneye,unid Garrot à oeil d'or / Garrot d'Islande,Anseriformes,Anatidae,Bucephala,clangula / islandica,0.9583333333333334
-437,437,4882,25,1998,2021,23,,,,,,,0.9565217391304348
-313,313,3860,34,1997,2018,21,Mangrove Cuckoo,Coulicou manioc,Cuculiformes,Cuculidae,Coccyzus,minor,0.9523809523809523
-711,711,7540,4216,1991,2023,32,Townsend's Solitaire,Solitaire de Townsend,Passeriformes,Turdidae,Myadestes,townsendi,0.9375
-478,478,5210,5276,1991,2023,32,Red Crossbill,Bec-croisé des sapins,Passeriformes,Fringillidae,Loxia,curvirostra,0.9375
-656,656,7020,4490,1991,2023,32,Sage Thrasher,Moqueur des armoises,Passeriformes,Mimidae,Oreoscoptes,montanus,0.9375
-626,626,6680,3577,1991,2023,32,Townsend's Warbler,Paruline de Townsend,Passeriformes,Parulidae,Setophaga,townsendi,0.9375
-414,414,4690,6428,1991,2023,32,Dusky Flycatcher,Moucherolle sombre,Passeriformes,Tyrannidae,Empidonax,oberholseri,0.9375
-526,526,5738,2331,1991,2023,32,Sagebrush Sparrow,Bruant des armoises,Passeriformes,Passerellidae,Artemisiospiza,nevadensis,0.9375
-515,515,5620,7343,1991,2023,32,Brewer's Sparrow,Bruant de Brewer,Passeriformes,Passerellidae,Spizella,breweri,0.9375
-412,412,4680,5771,1991,2023,32,Hammond's Flycatcher,Moucherolle de Hammond,Passeriformes,Tyrannidae,Empidonax,hammondii,0.9375
-332,332,4021,3556,1991,2023,32,Red-naped Sapsucker,Pic à nuque rouge,Piciformes,Picidae,Sphyrapicus,nuchalis,0.9375
-278,278,3520,5660,1991,2023,32,Bald Eagle,Pygargue à tête blanche,Accipitriformes,Accipitridae,Haliaeetus,leucocephalus,0.9375
-39,39,540,5989,1991,2023,32,Ring-billed Gull,Goéland à bec cerclé,Charadriiformes,Laridae,Larus,delawarensis,0.9375
-697,697,7380,6948,1991,2023,32,Mountain Chickadee,Mésange de Gambel,Passeriformes,Paridae,Poecile,gambeli,0.9375
-676,676,7240,4142,1991,2023,32,Sedge Wren,Troglodyte à bec court,Passeriformes,Troglodytidae,Cistothorus,stellaris,0.9375
-280,280,3550,1570,1992,2023,31,Prairie Falcon,Faucon des prairies,Falconiformes,Falconidae,Falco,mexicanus,0.9354838709677419
-102,102,1530,1362,1993,2023,30,Bufflehead,Petit Garrot,Anseriformes,Anatidae,Bucephala,albeola,0.9333333333333333
-110,110,1650,123,1993,2023,30,White-winged Scoter,Macreuse à ailes blanches,Anseriformes,Anatidae,Melanitta,deglandi,0.9333333333333333
-282,282,3570,1694,1993,2023,30,Merlin,Faucon émerillon,Falconiformes,Falconidae,Falco,columbarius,0.9333333333333333
-94,94,1470,1151,1993,2023,30,Canvasback,Fuligule à dos blanc,Anseriformes,Anatidae,Aythya,valisineria,0.9333333333333333
-4,4,30,623,1993,2023,30,Horned Grebe,Grèbe esclavon,Podicipediformes,Podicipedidae,Podiceps,auritus,0.9333333333333333
-211,211,2870,91,1994,2023,29,Black Oystercatcher,Huîtrier de Bachman,Charadriiformes,Haematopodidae,Haematopus,bachmani,0.9310344827586207
-219,219,2960,92,1997,2023,26,Montezuma Quail,Colin arlequin,Galliformes,Odontophoridae,Cyrtonyx,montezumae,0.9230769230769231
-69,69,1207,36,1997,2023,26,unid. west coast cormorant,unid Cormoran de la côte ouest,Suliformes,Phalacrocoracidae,Urile,sp.,0.9230769230769231
-624,624,6660,60,1997,2023,26,Golden-cheeked Warbler,Paruline à dos noir,Passeriformes,Parulidae,Setophaga,chrysoparia,0.9230769230769231
-576,576,6210,55,1997,2023,26,Northern Shrike,Pie-grièche boréale,Passeriformes,Laniidae,Lanius,borealis,0.9230769230769231
-315,315,3875,65,1999,2023,24,unid. Yellow-billed Cuckoo / Black-billed Cuckoo,unid Coulicou à bec jaune / Coulicou à bec noir,Cuculiformes,Cuculidae,Coccyzus,americanus / erythropthalmus,0.9166666666666666
-229,229,3070,63,1997,2021,24,Lesser Prairie-Chicken,Tétras pâle,Galliformes,Phasianidae,Tympanuchus,pallidicinctus,0.9166666666666666
-75,75,1280,53,1997,2021,24,Magnificent Frigatebird,Frégate superbe,Suliformes,Fregatidae,Fregata,magnificens,0.9166666666666666
-37,37,530,1850,1990,2023,33,California Gull,Goéland de Californie,Charadriiformes,Laridae,Larus,californicus,0.9090909090909091
-76,76,1290,3307,1990,2023,33,Common Merganser,Grand Harle,Anseriformes,Anatidae,Mergus,merganser,0.9090909090909091
-159,159,2210,5058,1991,2023,32,American Coot,Foulque d'Amérique,Gruiformes,Rallidae,Fulica,americana,0.90625
-277,277,3490,2815,1991,2023,32,Golden Eagle,Aigle royal,Accipitriformes,Accipitridae,Aquila,chrysaetos,0.90625
-558,558,6050,3825,1991,2023,32,Lark Bunting,Bruant noir et blanc,Passeriformes,Passerellidae,Calamospiza,melanocorys,0.90625
-259,259,3320,1726,1991,2023,32,Sharp-shinned Hawk,Épervier brun,Accipitriformes,Accipitridae,Accipiter,striatus,0.90625
-372,372,4360,1071,1991,2023,32,Calliope Hummingbird,Colibri calliope,Apodiformes,Trochilidae,Selasphorus,calliope,0.90625
-473,473,5150,1571,1991,2023,32,Pine Grosbeak,Durbec des sapins,Passeriformes,Fringillidae,Pinicola,enucleator,0.90625
-147,147,2060,7519,1991,2023,32,Sandhill Crane,Grue du Canada,Gruiformes,Gruidae,Antigone,canadensis,0.90625
-232,232,3090,521,1991,2023,32,Greater Sage-Grouse,Tétras des armoises,Galliformes,Phasianidae,Centrocercus,urophasianus,0.90625
-133,133,1920,27,1999,2018,19,(Great White Heron) Great Blue Heron,Grand Héron (blanche),Pelecaniformes,Ardeidae,Ardea,herodias occidentalis,0.8947368421052632
-20,20,270,53,1995,2023,28,Black Guillemot,Guillemot à miroir,Charadriiformes,Alcidae,Cepphus,grylle,0.8928571428571429
-236,236,3110,33,1997,2023,26,Plain Chachalaca,Ortalide chacamel,Galliformes,Cracidae,Ortalis,vetula,0.8846153846153846
-205,205,2800,49,1997,2023,26,Wilson's Plover,Pluvier de Wilson,Charadriiformes,Charadriidae,Charadrius,wilsonia,0.8846153846153846
-390,390,4510,39,1997,2023,26,Sulphur-bellied Flycatcher,Tyran tigré,Passeriformes,Tyrannidae,Myiodynastes,luteiventris,0.8846153846153846
-399,399,4600,46,1997,2023,26,Greater Pewee,Moucherolle de Coues,Passeriformes,Tyrannidae,Contopus,pertinax,0.8846153846153846
-479,479,5212,23,1997,2023,26,unid. Cassia Crossbill / Red Crossbill,Unid Bec-croisé de l'Idaho / des sapins,Passeriformes,Fringillidae,Loxia,sinesciuris / curvirostra,0.8846153846153846
-204,204,2780,70,1997,2023,26,Snowy Plover,Pluvier neigeux,Charadriiformes,Charadriidae,Charadrius,nivosus,0.8846153846153846
-524,524,5700,56,1997,2023,26,Yellow-eyed Junco,Junco aux yeux jaunes,Passeriformes,Passerellidae,Junco,phaeonotus,0.8846153846153846
-181,181,2470,78,1997,2023,26,Western Sandpiper,Bécasseau d'Alaska,Charadriiformes,Scolopacidae,Calidris,mauri,0.8846153846153846
-692,692,7352,70,1997,2023,26,unid. Carolina Chickadee / Black-capped Chickadee,unid Mésange de Caroline / Mésange à tête noire,Passeriformes,Paridae,Poecile,carolinensis / atricapillus,0.8846153846153846
-532,532,5790,81,1998,2023,25,Rufous-winged Sparrow,Bruant à épaulettes,Passeriformes,Passerellidae,Peucaea,carpalis,0.88
-191,191,2590,53,1998,2023,25,Wandering Tattler,Chevalier errant,Charadriiformes,Scolopacidae,Tringa,incana,0.88
-162,162,2240,2365,1990,2023,33,Wilson's Phalarope,Phalarope de Wilson,Charadriiformes,Scolopacidae,Phalaropus,tricolor,0.8787878787878788
-163,163,2250,1984,1990,2023,33,American Avocet,Avocette d'Amérique,Charadriiformes,Recurvirostridae,Recurvirostra,americana,0.8787878787878788
-367,367,4310,1853,1991,2023,32,Anna's Hummingbird,Colibri d'Anna,Apodiformes,Trochilidae,Calypte,anna,0.875
-24,24,315,8,2007,2015,8,unid. Common Murre / Thick-billed Murre,unid Guillemot marmette / Guillemot de Brünnich,Charadriiformes,Laridae,Uria,aalge / lomvia,0.875
-0,0,10,1007,1991,2023,32,Western Grebe,Grèbe élégant,Podicipediformes,Podicipedidae,Aechmophorus,occidentalis,0.875
-25,25,320,28,1999,2023,24,Razorbill,Petit Pingouin,Charadriiformes,Alcidae,Alca,torda,0.875
-72,72,1230,117,1991,2023,32,Pelagic Cormorant,Cormoran pélagique,Suliformes,Phalacrocoracidae,Urile,pelagicus,0.875
-357,357,4220,228,1991,2023,32,Black Swift,Martinet sombre,Apodiformes,Apodidae,Cypseloides,niger,0.875
-680,680,7280,16012,1987,2023,36,Red-breasted Nuthatch,Sittelle à poitrine rousse,Passeriformes,Sittidae,Sitta,canadensis,0.8611111111111112
-496,496,5380,1349,1990,2023,33,Chestnut-collared Longspur,Plectrophane à ventre noir,Passeriformes,Calcariidae,Calcarius,ornatus,0.8484848484848485
-38,38,534,893,1990,2023,33,unid. gull,unid Goéland sp.,Charadriiformes,Laridae,Gull,sp.,0.8484848484848485
-195,195,2640,3689,1990,2023,33,Long-billed Curlew,Courlis à long bec,Charadriiformes,Scolopacidae,Numenius,americanus,0.8484848484848485
-152,152,2111,34,1997,2023,26,Ridgway's Rail,Râle de Californie,Gruiformes,Rallidae,Rallus,obsoletus,0.8461538461538461
-486,486,5270,53,1997,2023,26,Hoary Redpoll,Sizerin blanchâtre,Passeriformes,Fringillidae,Acanthis,hornemanni,0.8461538461538461
-383,383,4451,24,1997,2023,26,Thick-billed Kingbird,Tyran à bec épais,Passeriformes,Tyrannidae,Tyrannus,crassirostris,0.8461538461538461
-104,104,1550,204,1991,2023,32,Harlequin Duck,Arlequin plongeur,Anseriformes,Anatidae,Histrionicus,histrionicus,0.84375
-21,21,290,163,1991,2023,32,Pigeon Guillemot,Guillemot colombin,Charadriiformes,Alcidae,Cepphus,columba,0.84375
-32,32,470,764,1987,2023,36,Great Black-backed Gull,Goéland marin,Charadriiformes,Laridae,Larus,marinus,0.8333333333333334
-135,135,1945,38,2005,2023,18,unid. heron / egret,unid héron / aigrette sp.,Pelecaniformes,Ardeidae,Ardeid,sp.,0.8333333333333334
-536,536,5840,8914,1987,2023,36,Swamp Sparrow,Bruant des marais,Passeriformes,Passerellidae,Melospiza,georgiana,0.8333333333333334
-66,66,1200,4919,1987,2023,36,Double-crested Cormorant,Cormoran à aigrettes,Suliformes,Phalacrocoracidae,Nannopterum,auritum,0.8333333333333334
-36,36,510,2621,1987,2023,36,Herring Gull,Goéland argenté,Charadriiformes,Laridae,Larus,argentatus,0.8333333333333334
-207,207,2820,5,2003,2009,6,Surfbird,Bécasseau du ressac,Charadriiformes,Scolopacidae,Calidris,virgata,0.8333333333333334
-222,222,2973,43,1998,2022,24,unid. Dusky Grouse / Sooty Grouse,unid Tétras sombre / Tétras fuligineux,Galliformes,Phasianidae,Dendragapus,obscurus / fuliginosus,0.8333333333333334
-350,350,4172,30,1997,2023,26,Mexican Whip-poor-will,Engoulevent d'Arizona,Caprimulgiformes,Caprimulgidae,Antrostomus,arizonae,0.8076923076923077
-156,156,2160,29,1997,2023,26,Black Rail,Râle noir,Gruiformes,Rallidae,Laterallus,jamaicensis,0.8076923076923077
-54,54,700,632,1987,2023,36,Common Tern,Sterne pierregarin,Charadriiformes,Laridae,Sterna,hirundo,0.8055555555555556
-619,619,6610,1942,1987,2023,36,Blackpoll Warbler,Paruline rayée,Passeriformes,Parulidae,Setophaga,striata,0.8055555555555556
-535,535,5830,8539,1982,2023,41,Lincoln's Sparrow,Bruant de Lincoln,Passeriformes,Passerellidae,Melospiza,lincolnii,0.8048780487804879
-733,733,51830,5,2017,2022,5,Nanday Parakeet,Conure nanday,Psittaciformes,Psittacidae,Aratinga,nenday,0.8
-693,693,7353,26,1998,2022,24,unid. Black-capped Chickadee / Mountain Chickadee,unid Mésange à tête noire / Mésange de Gambel,Passeriformes,Paridae,Poecile,atricapillus / gambeli,0.7916666666666666
-715,715,7571,11,1997,2011,14,Bicknell's Thrush,Grive de Bicknell,Passeriformes,Turdidae,Catharus,bicknelli,0.7857142857142857
-722,722,7650,31,1997,2015,18,Northern Wheatear,Traquet motteux,Passeriformes,Muscicapidae,Oenanthe,oenanthe,0.7777777777777778
-329,329,4000,679,1987,2023,36,Black-backed Woodpecker,Pic à dos noir,Piciformes,Picidae,Picoides,arcticus,0.7777777777777778
-87,87,1390,2882,1987,2023,36,Green-winged Teal,Sarcelle d'hiver,Anseriformes,Anatidae,Anas,crecca,0.7777777777777778
-22,22,300,38,1997,2019,22,Common Murre,Guillemot marmette,Charadriiformes,Alcidae,Uria,aalge,0.7727272727272727
-16,16,150,27,1997,2023,26,Rhinoceros Auklet,Macareux rhinocéros,Charadriiformes,Alcidae,Cerorhinca,monocerata,0.7692307692307693
-231,231,3089,26,1997,2023,26,Gunnison Sage-Grouse,Tétras du Gunnison,Galliformes,Phasianidae,Centrocercus,minimus,0.7692307692307693
-80,80,1326,18,2005,2022,17,hybrid Mallard x Black / Mexican / Mottled Duck,hybride Canard colvert x noir / Mexique / brun,Anseriformes,Anatidae,Anas,platyrhynchos x rubripes / diazi / fulvigula,0.7647058823529411
-179,179,2430,35,1998,2023,25,Dunlin,Bécasseau variable,Charadriiformes,Scolopacidae,Calidris,alpina,0.76
-90,90,1420,3672,1982,2023,41,Northern Shoveler,Canard souchet,Anseriformes,Anatidae,Spatula,clypeata,0.7560975609756098
-183,183,2490,2523,1982,2023,41,Marbled Godwit,Barge marbrée,Charadriiformes,Scolopacidae,Limosa,fedoa,0.7560975609756098
-44,44,590,1839,1982,2023,41,Franklin's Gull,Mouette de Franklin,Charadriiformes,Laridae,Leucophaeus,pipixcan,0.7560975609756098
-370,370,4335,19,2010,2022,12,unid. Rufous Hummingbird / Allen's Hummingbird,unid Colibri roux / Colibri d'Allen,Apodiformes,Trochilidae,Selasphorus,rufus / sasin,0.75
-729,729,19510,3,2019,2023,4,Pin-tailed Whydah,Veuve dominicaine,Passeriformes,Viduidae,Vidua,macroura,0.75
-345,345,4125,20,2004,2023,19,hybrid Northern Flicker (Red x Yellow-shafted),hybride Pic flamboyant (cafer x auratus),Piciformes,Picidae,Colaptes,auratus auratus x auratus cafer,0.7368421052631579
-654,654,7000,1308,1982,2023,41,Sprague's Pipit,Pipit de Sprague,Passeriformes,Motacillidae,Anthus,spragueii,0.7317073170731707
-537,537,5850,5688,1982,2023,41,Fox Sparrow,Bruant fauve,Passeriformes,Passerellidae,Passerella,iliaca,0.7317073170731707
-212,212,2881,1382,1982,2023,41,Gray Partridge,Perdrix grise,Galliformes,Phasianidae,Perdix,perdix,0.7317073170731707
-187,187,2550,1364,1982,2023,41,Lesser Yellowlegs,Petit Chevalier,Charadriiformes,Scolopacidae,Tringa,flavipes,0.7317073170731707
-488,488,5280,1651,1982,2023,41,Common Redpoll,Sizerin flammé,Passeriformes,Fringillidae,Acanthis,flammea,0.7317073170731707
-500,500,5450,1094,1982,2023,41,Baird's Sparrow,Bruant de Baird,Passeriformes,Passerellidae,Centronyx,bairdii,0.7317073170731707
-258,258,3310,8097,1982,2023,41,Northern Harrier,Busard des marais,Accipitriformes,Accipitridae,Circus,hudsonius,0.7317073170731707
-52,52,670,35,1997,2023,26,Sandwich Tern,Sterne caugek,Charadriiformes,Laridae,Thalasseus,sandvicensis,0.7307692307692307
-721,721,7640,43,1997,2023,26,Bluethroat,Gorgebleue à miroir,Passeriformes,Muscicapidae,Cyanecula,svecica,0.7307692307692307
-145,145,2035,34,1997,2023,26,unid Black-crowned / Yellow-crowned Night-Heron,unid Bihoreau gris / Bihoreau violacé,Pelecaniformes,Ardeidae,Nycticorax / Nyctanassa,nycticorax / violacea,0.7307692307692307
-2,2,12,39,1997,2023,26,unid. Western Grebe / Clark's Grebe,unid Grèbe élégant / Grèbe à face blanche,Podicipediformes,Podicipedidae,Aechmophorus,occidentalis / clarkii,0.7307692307692307
-718,718,7610,59588,1968,2023,55,American Robin,Merle d'Amérique,Passeriformes,Turdidae,Turdus,migratorius,0.7272727272727273
-714,714,7570,1277,1983,2023,40,Gray-cheeked Thrush,Grive à joues grises,Passeriformes,Turdidae,Catharus,minimus,0.725
-170,170,2330,17,2004,2022,18,Stilt Sandpiper,Bécasseau à échasses,Charadriiformes,Scolopacidae,Calidris,himantopus,0.7222222222222222
-257,257,3300,23,1997,2022,25,Snail Kite,Milan des marais,Accipitriformes,Accipitridae,Rostrhamus,sociabilis,0.72
-508,508,5530,24,1998,2023,25,Harris's Sparrow,Bruant à face noire,Passeriformes,Passerellidae,Zonotrichia,querula,0.72
-449,449,4970,7262,1977,2023,46,Yellow-headed Blackbird,Carouge à tête jaune,Passeriformes,Icteridae,Xanthocephalus,xanthocephalus,0.717391304347826
-727,727,10210,49,2009,2023,14,Muscovy Duck,Canard musqué,Anseriformes,Anatidae,Cairina,moschata,0.7142857142857143
-450,450,4980,57456,1967,2023,56,Red-winged Blackbird,Carouge à épaulettes,Passeriformes,Icteridae,Agelaius,phoeniceus,0.7142857142857143
-86,86,1370,3260,1982,2023,41,American Wigeon,Canard d'Amérique,Anseriformes,Anatidae,Mareca,americana,0.7073170731707317
-5,5,40,1098,1982,2023,41,Eared Grebe,Grèbe à cou noir,Podicipediformes,Podicipedidae,Podiceps,nigricollis,0.7073170731707317
-299,299,3750,7006,1983,2023,40,Great Horned Owl,Grand-duc d'Amérique,Strigiformes,Strigidae,Bubo,virginianus,0.7
-272,272,3450,20,2003,2023,20,Common Black Hawk,Buse noire,Accipitriformes,Accipitridae,Buteogallus,anthracinus,0.7
-445,445,4950,56305,1967,2023,56,Brown-headed Cowbird,Vacher à tête brune,Passeriformes,Icteridae,Molothrus,ater,0.6964285714285714
-201,201,2730,43474,1967,2023,56,Killdeer,Pluvier kildir,Charadriiformes,Charadriidae,Charadrius,vociferus,0.6964285714285714
-322,322,3930,21307,1977,2023,46,Hairy Woodpecker,Pic chevelu,Piciformes,Picidae,Dryobates,villosus,0.6956521739130435
-154,154,2140,5009,1977,2023,46,Sora,Marouette de Caroline,Gruiformes,Rallidae,Porzana,carolina,0.6956521739130435
-431,431,4840,5650,1977,2023,46,Canada Jay,Mésangeai du Canada,Passeriformes,Corvidae,Perisoreus,canadensis,0.6956521739130435
-8,8,70,5231,1977,2023,46,Common Loon,Plongeon huard,Gaviiformes,Gaviidae,Gavia,immer,0.6956521739130435
-91,91,1430,2986,1977,2023,46,Northern Pintail,Canard pilet,Anseriformes,Anatidae,Anas,acuta,0.6956521739130435
-208,208,2830,11,1997,2010,13,Ruddy Turnstone,Tournepierre à collier,Charadriiformes,Scolopacidae,Arenaria,interpres,0.6923076923076923
-305,305,3810,30,1997,2023,26,Elf Owl,Chevêchette des saguaros,Strigiformes,Strigidae,Micrathene,whitneyi,0.6923076923076923
-293,293,3710,40,1997,2023,26,Boreal Owl,Nyctale de Tengmalm,Strigiformes,Strigidae,Aegolius,funereus,0.6923076923076923
-374,374,4390,25,1997,2023,26,Buff-bellied Hummingbird,Ariane du Yucatan,Apodiformes,Trochilidae,Amazilia,yucatanensis,0.6923076923076923
-249,249,3240,9,1998,2011,13,California Condor,Condor de Californie,Cathartiformes,Cathartidae,Gymnogyps,californianus,0.6923076923076923
-118,118,1740,19,1997,2023,26,(Black Brant) Brant,Bernache cravant (groupe nigricans),Anseriformes,Anatidae,Branta,bernicla nigricans,0.6923076923076923
-567,567,6130,52899,1968,2023,55,Barn Swallow,Hirondelle rustique,Passeriformes,Hirundinidae,Hirundo,rustica,0.6909090909090909
-432,432,4860,31365,1968,2023,55,Common Raven,Grand Corbeau,Passeriformes,Corvidae,Corvus,corax,0.6909090909090909
-442,442,4930,51033,1968,2023,55,European Starling,Étourneau sansonnet,Passeriformes,Sturnidae,Sturnus,vulgaris,0.6909090909090909
-79,79,1320,24726,1972,2023,51,Mallard,Canard colvert,Anseriformes,Anatidae,Anas,platyrhynchos,0.6862745098039216
-477,477,5195,34,2004,2023,19,unid. Purple Finch / Cassin's Finch / House Finch,unid Roselin pourpré / de Cassin / familier,Passeriformes,Fringillidae,Carpodacus,purpureus / cassinii / mexicanus,0.6842105263157895
-613,613,6556,640,1982,2023,41,(unid. Myrtle / Audubon's) Yellow-rumped Warbler,Par. à croupion jaune (sous-espèce non identifié),Passeriformes,Parulidae,Setophaga,coronata,0.6829268292682927
-279,279,3540,27,1997,2022,25,Gyrfalcon,Faucon gerfaut,Falconiformes,Falconidae,Falco,rusticolus,0.68
-243,243,3160,62703,1967,2023,56,Mourning Dove,Tourterelle triste,Columbiformes,Columbidae,Zenaida,macroura,0.6785714285714286
-316,316,3880,5169,1977,2023,46,Black-billed Cuckoo,Coulicou à bec noir,Cuculiformes,Cuculidae,Coccyzus,erythropthalmus,0.6739130434782609
-625,625,6670,9418,1977,2023,46,Black-throated Green Warbler,Paruline à gorge noire,Passeriformes,Parulidae,Setophaga,virens,0.6739130434782609
-472,472,5140,3919,1977,2023,46,Evening Grosbeak,Gros-bec errant,Passeriformes,Fringillidae,Coccothraustes,vespertinus,0.6739130434782609
-603,603,6450,8628,1977,2023,46,Nashville Warbler,Paruline à joues grises,Passeriformes,Parulidae,Leiothlypis,ruficapilla,0.6739130434782609
-84,84,1350,4985,1977,2023,46,Gadwall,Canard chipeau,Anseriformes,Anatidae,Mareca,strepera,0.6739130434782609
-583,583,6290,9400,1977,2023,46,Blue-headed Vireo,Viréo à tête bleue,Passeriformes,Vireonidae,Vireo,solitarius,0.6739130434782609
-593,593,6360,14199,1977,2023,46,Black-and-white Warbler,Paruline noir et blanc,Passeriformes,Parulidae,Mniotilta,varia,0.6739130434782609
-435,435,4880,54303,1968,2023,55,American Crow,Corneille d'Amérique,Passeriformes,Corvidae,Corvus,brachyrhynchos,0.6727272727272727
-489,489,5290,39711,1968,2023,55,American Goldfinch,Chardonneret jaune,Passeriformes,Fringillidae,Spinus,tristis,0.6727272727272727
-579,579,6240,37623,1968,2023,55,Red-eyed Vireo,Viréo aux yeux rouges,Passeriformes,Vireonidae,Vireo,olivaceus,0.6727272727272727
-498,498,5400,18836,1968,2023,55,Vesper Sparrow,Bruant vespéral,Passeriformes,Passerellidae,Pooecetes,gramineus,0.6727272727272727
-716,716,7580,13033,1968,2023,55,Swainson's Thrush,Grive à dos olive,Passeriformes,Turdidae,Catharus,ustulatus,0.6727272727272727
-499,499,5420,22565,1968,2023,55,Savannah Sparrow,Bruant des prés,Passeriformes,Passerellidae,Passerculus,sandwichensis,0.6727272727272727
-380,380,4440,36079,1968,2023,55,Eastern Kingbird,Tyran tritri,Passeriformes,Tyrannidae,Tyrannus,tyrannus,0.6727272727272727
-88,88,1400,5097,1972,2023,51,Blue-winged Teal,Sarcelle à ailes bleues,Anseriformes,Anatidae,Spatula,discors,0.6666666666666666
-116,116,1720,21940,1972,2023,51,Canada Goose,Bernache du Canada,Anseriformes,Anatidae,Branta,canadensis,0.6666666666666666
-6,6,50,37,1996,2023,27,Least Grebe,Grèbe minime,Podicipediformes,Podicipedidae,Tachybaptus,dominicus,0.6666666666666666
-134,134,1940,24952,1967,2023,56,Great Blue Heron,Grand Héron,Pelecaniformes,Ardeidae,Ardea,herodias,0.6607142857142857
-648,648,6882,42503,1967,2023,56,House Sparrow,Moineau domestique,Passeriformes,Passeridae,Passer,domesticus,0.6607142857142857
-301,301,3770,120,1982,2023,41,Northern Hawk Owl,Chouette épervière,Strigiformes,Strigidae,Surnia,ulula,0.6585365853658537
-574,574,6190,27510,1968,2023,55,Cedar Waxwing,Jaseur d'Amérique,Passeriformes,Bombycillidae,Bombycilla,cedrorum,0.6545454545454545
-454,454,5011,22574,1968,2023,55,Western Meadowlark,Sturnelle de l'Ouest,Passeriformes,Icteridae,Sturnella,neglecta,0.6545454545454545
-568,568,6140,30671,1968,2023,55,Tree Swallow,Hirondelle bicolore,Passeriformes,Hirundinidae,Tachycineta,bicolor,0.6545454545454545
-717,717,7590,17575,1968,2023,55,Hermit Thrush,Grive solitaire,Passeriformes,Turdidae,Catharus,guttatus,0.6545454545454545
-534,534,5810,40599,1968,2023,55,Song Sparrow,Bruant chanteur,Passeriformes,Passerellidae,Melospiza,melodia,0.6545454545454545
-641,641,6810,46575,1968,2023,55,Common Yellowthroat,Paruline masquée,Passeriformes,Parulidae,Geothlypis,trichas,0.6545454545454545
-467,467,5100,17458,1968,2023,55,Brewer's Blackbird,Quiscale de Brewer,Passeriformes,Icteridae,Euphagus,cyanocephalus,0.6545454545454545
-166,166,2300,15193,1968,2023,55,Wilson's Snipe,Bécassine de Wilson,Charadriiformes,Scolopacidae,Gallinago,delicata,0.6545454545454545
-673,673,7220,20,1997,2023,26,unid. Pacific Wren / Winter Wren,unid Troglodyte des forêts / Troglodyte de Baird,Passeriformes,Troglodytidae,Troglodytes,pacificus / hiemalis,0.6538461538461539
-481,481,5225,27,1997,2023,26,unid. Red Crossbill / White-winged Crossbill,unid Bec-croisé des sapins / Bec-croisé bifascié,Passeriformes,Fringillidae,Loxia,curvirostra / leucoptera,0.6538461538461539
-362,362,4270,22,1997,2023,26,Blue-throated Mountain-gem,Colibri à gorge bleue,Apodiformes,Trochilidae,Lampornis,clemenciae,0.6538461538461539
-172,172,2356,19,1997,2023,26,Rock Sandpiper,Bécasseau des Aléoutiennes,Charadriiformes,Scolopacidae,Calidris,ptilocnemis,0.6538461538461539
-632,632,6720,939,1977,2023,46,Palm Warbler,Paruline à couronne rousse,Passeriformes,Parulidae,Setophaga,palmarum,0.6521739130434783
-698,698,7400,2501,1977,2023,46,Boreal Chickadee,Mésange à tête brune,Passeriformes,Paridae,Poecile,hudsonicus,0.6521739130434783
-402,402,4630,2519,1977,2023,46,Yellow-bellied Flycatcher,Moucherolle à ventre jaune,Passeriformes,Tyrannidae,Empidonax,flaviventris,0.6521739130434783
-331,331,4020,9785,1977,2023,46,Yellow-bellied Sapsucker,Pic maculé,Piciformes,Picidae,Sphyrapicus,varius,0.6521739130434783
-620,620,6620,5933,1977,2023,46,Blackburnian Warbler,Paruline à gorge orangée,Passeriformes,Parulidae,Setophaga,fusca,0.6521739130434783
-618,618,6600,1282,1977,2023,46,Bay-breasted Warbler,Paruline à poitrine baie,Passeriformes,Parulidae,Setophaga,castanea,0.6521739130434783
-298,298,3740,13,1999,2019,20,Flammulated Owl,Petit-duc nain,Strigiformes,Strigidae,Psiloscops,flammeolus,0.65
-178,178,2429,35,2003,2023,20,unid. small ''peep'' sandpiper,unid petit Bécasseau sp.,Charadriiformes,Scolopacidae,Calidris,sp.,0.65
-509,509,5540,6940,1972,2023,51,White-crowned Sparrow,Bruant à couronne blanche,Passeriformes,Passerellidae,Zonotrichia,leucophrys,0.6470588235294118
-239,239,3131,26570,1967,2023,56,Rock Pigeon,Pigeon biset,Columbiformes,Columbidae,Columba,livia,0.6428571428571429
-420,420,4740,25106,1967,2023,56,Horned Lark,Alouette hausse-col,Passeriformes,Alaudidae,Eremophila,alpestris,0.6428571428571429
-264,264,3370,36843,1968,2023,55,Red-tailed Hawk,Buse à queue rousse,Accipitriformes,Accipitridae,Buteo,jamaicensis,0.6363636363636364
-513,513,5600,47967,1968,2023,55,Chipping Sparrow,Bruant familier,Passeriformes,Passerellidae,Spizella,passerina,0.6363636363636364
-604,604,6460,9238,1968,2023,55,Orange-crowned Warbler,Paruline verdâtre,Passeriformes,Parulidae,Leiothlypis,celata,0.6363636363636364
-672,672,7210,33909,1968,2023,55,House Wren,Troglodyte familier,Passeriformes,Troglodytidae,Troglodytes,aedon,0.6363636363636364
-690,690,7350,25872,1968,2023,55,Black-capped Chickadee,Mésange à tête noire,Passeriformes,Paridae,Poecile,atricapillus,0.6363636363636364
-408,408,4661,13206,1968,2023,55,Alder Flycatcher,Moucherolle des aulnes,Passeriformes,Tyrannidae,Empidonax,alnorum,0.6363636363636364
-610,610,6520,35413,1968,2023,55,Yellow Warbler,Paruline jaune,Passeriformes,Parulidae,Setophaga,petechia,0.6363636363636364
-468,468,5110,42560,1968,2023,55,Common Grackle,Quiscale bronzé,Passeriformes,Icteridae,Quiscalus,quiscula,0.6363636363636364
-343,343,4120,29953,1968,2023,55,(Yellow-shafted Flicker) Northern Flicker,Pic flamboyant (groupe auratus),Piciformes,Picidae,Colaptes,auratus auratus,0.6363636363636364
-638,638,6780,827,1977,2023,46,Connecticut Warbler,Paruline à gorge grise,Passeriformes,Parulidae,Oporornis,agilis,0.6304347826086957
-99,99,1510,1193,1977,2023,46,Common Goldeneye,Garrot à oeil d'or,Anseriformes,Anatidae,Bucephala,clangula,0.6304347826086957
-504,504,5490,22,1996,2023,27,Saltmarsh Sparrow,Bruant à queue aiguë,Passeriformes,Passerellidae,Ammospiza,caudacuta,0.6296296296296297
-492,492,5330,9778,1972,2023,51,Pine Siskin,Tarin des pins,Passeriformes,Fringillidae,Spinus,pinus,0.6274509803921569
-283,283,3590,6,2004,2012,8,Aplomado Falcon,Faucon aplomado,Falconiformes,Falconidae,Falco,femoralis,0.625
-384,384,4460,20,1999,2023,24,Tropical Kingbird,Tyran mélancolique,Passeriformes,Tyrannidae,Tyrannus,melancholicus,0.625
-209,209,2840,15,1997,2018,21,Black Turnstone,Tournepierre noir,Charadriiformes,Scolopacidae,Arenaria,melanocephala,0.6190476190476191
-323,323,3940,34105,1968,2023,55,Downy Woodpecker,Pic mineur,Piciformes,Picidae,Dryobates,pubescens,0.6181818181818182
-194,194,2630,7370,1968,2023,55,Spotted Sandpiper,Chevalier grivelé,Charadriiformes,Scolopacidae,Actitis,macularius,0.6181818181818182
-398,398,4590,8282,1968,2023,55,Olive-sided Flycatcher,Moucherolle à côtés olive,Passeriformes,Tyrannidae,Contopus,cooperi,0.6181818181818182
-318,318,3900,11454,1968,2023,55,Belted Kingfisher,Martin-pêcheur d'Amérique,Coraciiformes,Alcedinidae,Megaceryle,alcyon,0.6181818181818182
-564,564,6120,25461,1968,2023,55,Cliff Swallow,Hirondelle à front blanc,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota,0.6181818181818182
-410,410,4670,14906,1968,2023,55,Least Flycatcher,Moucherolle tchébec,Passeriformes,Tyrannidae,Empidonax,minimus,0.6181818181818182
-514,514,5610,7647,1968,2023,55,Clay-colored Sparrow,Bruant des plaines,Passeriformes,Passerellidae,Spizella,pallida,0.6181818181818182
-713,713,7560,13617,1968,2023,55,Veery,Grive fauve,Passeriformes,Turdidae,Catharus,fuscescens,0.6181818181818182
-519,519,5670,8813,1968,2023,55,(Slate-colored Junco) Dark-eyed Junco,Junco ardoisé (groupe hyemalis),Passeriformes,Passerellidae,Junco,hyemalis hyemalis,0.6181818181818182
-421,421,4750,12616,1968,2023,55,Black-billed Magpie,Pie d'Amérique,Passeriformes,Corvidae,Pica,hudsonia,0.6181818181818182
-423,423,4770,41627,1968,2023,55,Blue Jay,Geai bleu,Passeriformes,Corvidae,Cyanocitta,cristata,0.6181818181818182
-188,188,2555,26,1997,2023,26,unid. Greater Yellowlegs / Lesser Yellowlegs,unid Grand Chevalier / Petit Chevalier,Charadriiformes,Scolopacidae,Tringa,melanoleuca / flavipes,0.6153846153846154
-33,33,480,8,2005,2018,13,Slaty-backed Gull,Goéland à manteau ardoisé,Charadriiformes,Laridae,Larus,schistisagus,0.6153846153846154
-271,271,3440,12,2003,2021,18,Short-tailed Hawk,Buse à queue courte,Accipitriformes,Accipitridae,Buteo,brachyurus,0.6111111111111112
-260,260,3330,5190,1977,2023,46,Cooper's Hawk,Épervier de Cooper,Accipitriformes,Accipitridae,Accipiter,cooperii,0.6086956521739131
-45,45,600,456,1977,2023,46,Bonaparte's Gull,Mouette de Bonaparte,Charadriiformes,Laridae,Chroicocephalus,philadelphia,0.6086956521739131
-73,73,1250,2486,1977,2023,46,American White Pelican,Pélican d'Amérique,Pelecaniformes,Pelecanidae,Pelecanus,erythrorhynchos,0.6086956521739131
-251,251,3255,27,2000,2023,23,unid. Black Vulture / Turkey Vulture,unid Urubu noir / Urubu à tête rouge,Cathartiformes,Cathartidae,Coragyps / Cathartes,atratus / aura,0.6086956521739131
-640,640,6800,7381,1972,2023,51,MacGillivray's Warbler,Paruline des buissons,Passeriformes,Parulidae,Geothlypis,tolmiei,0.6078431372549019
-614,614,6560,8821,1972,2023,51,(Audubon's Warbler) Yellow-rumped Warbler,Paruline à croupion jaune (groupe auduboni),Passeriformes,Parulidae,Setophaga,coronata audoboni,0.6078431372549019
-674,674,7221,4125,1972,2023,51,Pacific Wren,Troglodyte de Baird,Passeriformes,Troglodytidae,Troglodytes,pacificus,0.6078431372549019
-369,369,4330,2860,1972,2023,51,Rufous Hummingbird,Colibri roux,Apodiformes,Trochilidae,Selasphorus,rufus,0.6078431372549019
-644,644,6850,7868,1972,2023,51,Wilson's Warbler,Paruline à calotte noire,Passeriformes,Parulidae,Cardellina,pusilla,0.6078431372549019
-720,720,7630,4528,1972,2023,51,Varied Thrush,Grive à collier,Passeriformes,Turdidae,Ixoreus,naevius,0.6078431372549019
-705,705,7480,8725,1972,2023,51,Golden-crowned Kinglet,Roitelet à couronne dorée,Passeriformes,Regulidae,Regulus,satrapa,0.6078431372549019
-353,353,4200,16014,1967,2023,56,Common Nighthawk,Engoulevent d'Amérique,Caprimulgiformes,Caprimulgidae,Chordeiles,minor,0.6071428571428571
-581,581,6270,29114,1968,2023,55,Warbling Vireo,Viréo mélodieux,Passeriformes,Vireonidae,Vireo,gilvus,0.6
-171,171,2340,3,2017,2022,5,Red Knot,Bécasseau maubèche,Charadriiformes,Scolopacidae,Calidris,canutus,0.6
-612,612,6550,10073,1968,2023,55,(Myrtle Warbler) Yellow-rumped Warbler,Paruline à croupion jaune (groupe coronata),Passeriformes,Parulidae,Setophaga,coronata coronata,0.6
-660,660,7050,30171,1968,2023,55,Brown Thrasher,Moqueur roux,Passeriformes,Mimidae,Toxostoma,rufum,0.6
-634,634,6740,21995,1968,2023,55,Ovenbird,Paruline couronnée,Passeriformes,Parulidae,Seiurus,aurocapilla,0.6
-646,646,6870,18219,1968,2023,55,American Redstart,Paruline flamboyante,Passeriformes,Parulidae,Setophaga,ruticilla,0.6
-659,659,7040,31057,1968,2023,55,Gray Catbird,Moqueur chat,Passeriformes,Mimidae,Dumetella,carolinensis,0.6
-444,444,4940,13531,1968,2023,55,Bobolink,Goglu des prés,Passeriformes,Icteridae,Dolichonyx,oryzivorus,0.6
-462,462,5070,21504,1968,2023,55,Baltimore Oriole,Oriole de Baltimore,Passeriformes,Icteridae,Icterus,galbula,0.6
-391,391,4520,31958,1968,2023,55,Great Crested Flycatcher,Tyran huppé,Passeriformes,Tyrannidae,Myiarchus,crinitus,0.6
-395,395,4560,29500,1968,2023,55,Eastern Phoebe,Moucherolle phébi,Passeriformes,Tyrannidae,Sayornis,phoebe,0.6
-549,549,5950,16151,1968,2023,55,Rose-breasted Grosbeak,Cardinal à poitrine rose,Passeriformes,Cardinalidae,Pheucticus,ludovicianus,0.6
-476,476,5190,31795,1968,2023,55,House Finch,Roselin familier,Passeriformes,Fringillidae,Haemorhous,mexicanus,0.6
-569,569,6150,9685,1968,2023,55,Violet-green Swallow,Hirondelle à face blanche,Passeriformes,Hirundinidae,Tachycineta,thalassina,0.6
-485,485,5261,3,2018,2023,5,European Goldfinch,Chardonneret élégant,Passeriformes,Fringillidae,Carduelis,carduelis,0.6
-401,401,4620,13837,1968,2023,55,Western Wood-Pewee,Pioui de l'Ouest,Passeriformes,Tyrannidae,Contopus,sordidulus,0.6
-501,501,5460,14505,1968,2023,55,Grasshopper Sparrow,Bruant sauterelle,Passeriformes,Passerellidae,Ammodramus,savannarum,0.6
-511,511,5580,9657,1968,2023,55,White-throated Sparrow,Bruant à gorge blanche,Passeriformes,Passerellidae,Zonotrichia,albicollis,0.6
-706,706,7490,11025,1968,2023,55,Ruby-crowned Kinglet,Roitelet à couronne rubis,Passeriformes,Regulidae,Corthylio,calendula,0.6
-286,286,3640,6035,1969,2023,54,Osprey,Balbuzard pêcheur,Accipitriformes,Pandionidae,Pandion,haliaetus,0.5925925925925926
-453,453,5010,27873,1967,2023,56,Eastern Meadowlark,Sturnelle des prés,Passeriformes,Icteridae,Sturnella,magna,0.5892857142857143
-546,546,5930,36951,1967,2023,56,Northern Cardinal,Cardinal rouge,Passeriformes,Cardinalidae,Cardinalis,cardinalis,0.5892857142857143
-250,250,3250,33749,1967,2023,56,Turkey Vulture,Urubu à tête rouge,Cathartiformes,Cathartidae,Cathartes,aura,0.5892857142857143
-190,190,2580,3811,1967,2023,56,Willet,Chevalier semipalmé,Charadriiformes,Scolopacidae,Tringa,semipalmata,0.5892857142857143
-31,31,440,795,1972,2023,51,Glaucous-winged Gull,Goéland à ailes grises,Charadriiformes,Laridae,Larus,glaucescens,0.5882352941176471
-153,153,2120,699,1977,2023,46,Virginia Rail,Râle de Virginie,Gruiformes,Rallidae,Rallus,limicola,0.5869565217391305
-261,261,3333,151,1977,2023,46,unid. Accipiter hawk,unid épervier sp.,Accipitriformes,Accipitridae,Accipiter,sp.,0.5869565217391305
-404,404,4641,4012,1968,2023,55,(Pacific-slope Flycatcher) Western Flycatcher,Moucherolle obscur (groupe difficilis),Passeriformes,Tyrannidae,Empidonax,difficilis difficilis,0.5818181818181818
-520,520,5671,7601,1968,2023,55,(Oregon Junco) Dark-eyed Junco,Junco ardoisé (groupe oreganus),Passeriformes,Passerellidae,Junco,hyemalis oreganus,0.5818181818181818
-58,58,770,2318,1968,2023,55,Black Tern,Guifette noire,Charadriiformes,Laridae,Chlidonias,niger,0.5818181818181818
-699,699,7410,3184,1968,2023,55,Chestnut-backed Chickadee,Mésange à dos marron,Passeriformes,Paridae,Poecile,rufescens,0.5818181818181818
-550,550,5960,10483,1968,2023,55,Black-headed Grosbeak,Cardinal à tête noire,Passeriformes,Cardinalidae,Pheucticus,melanocephalus,0.5818181818181818
-712,712,7550,25226,1968,2023,55,Wood Thrush,Grive des bois,Passeriformes,Turdidae,Hylocichla,mustelina,0.5818181818181818
-635,635,6750,7355,1968,2023,55,Northern Waterthrush,Paruline des ruisseaux,Passeriformes,Parulidae,Parkesia,noveboracensis,0.5818181818181818
-284,284,3600,20770,1968,2023,55,American Kestrel,Crécerelle d'Amérique,Falconiformes,Falconidae,Falco,sparverius,0.5818181818181818
-552,552,5980,33532,1968,2023,55,Indigo Bunting,Passerin indigo,Passeriformes,Cardinalidae,Passerina,cyanea,0.5818181818181818
-346,346,4130,13793,1968,2023,55,(Red-shafted Flicker) Northern Flicker,Pic flamboyant (groupe cafer),Piciformes,Picidae,Colaptes,auratus cafer,0.5818181818181818
-559,559,6070,11613,1968,2023,55,Western Tanager,Piranga à tête rouge,Passeriformes,Cardinalidae,Piranga,ludoviciana,0.5818181818181818
-358,358,4230,27286,1968,2023,55,Chimney Swift,Martinet ramoneur,Apodiformes,Apodidae,Chaetura,pelagica,0.5818181818181818
-400,400,4610,29750,1968,2023,55,Eastern Wood-Pewee,Pioui de l'Est,Passeriformes,Tyrannidae,Contopus,virens,0.5818181818181818
-387,387,4470,16129,1968,2023,55,Western Kingbird,Tyran de l'Ouest,Passeriformes,Tyrannidae,Tyrannus,verticalis,0.5818181818181818
-615,615,6570,7067,1968,2023,55,Magnolia Warbler,Paruline à tête cendrée,Passeriformes,Parulidae,Setophaga,magnolia,0.5818181818181818
-438,438,4890,767,1972,2022,50,,,,,,,0.58
-463,463,5077,35,1997,2023,26,unid. Bullock's Oriole / Baltimore Oriole,unid Oriole de Baltimore / Oriole de Bullock's,Passeriformes,Icteridae,Icterus,bullockii / galbula,0.5769230769230769
-291,291,3690,22,1997,2023,26,Spotted Owl,Chouette tachetée,Strigiformes,Strigidae,Strix,occidentalis,0.5769230769230769
-142,142,2010,11564,1969,2023,54,Green Heron,Héron vert,Pelecaniformes,Ardeidae,Butorides,virescens,0.5740740740740741
-214,214,2890,19671,1967,2023,56,Northern Bobwhite,Colin de Virginie,Galliformes,Odontophoridae,Colinus,virginianus,0.5714285714285714
-314,314,3870,24127,1967,2023,56,Yellow-billed Cuckoo,Coulicou à bec jaune,Cuculiformes,Cuculidae,Coccyzus,americanus,0.5714285714285714
-42,42,570,17,1998,2019,21,Heermann's Gull,Goéland de Heermann,Charadriiformes,Laridae,Larus,heermanni,0.5714285714285714
-657,657,7030,32341,1967,2023,56,Northern Mockingbird,Moqueur polyglotte,Passeriformes,Mimidae,Mimus,polyglottos,0.5714285714285714
-551,551,5970,20042,1967,2023,56,Blue Grosbeak,Guiraca bleu,Passeriformes,Cardinalidae,Passerina,caerulea,0.5714285714285714
-359,359,4240,1252,1972,2023,51,Vaux's Swift,Martinet de Vaux,Apodiformes,Apodidae,Chaetura,vauxi,0.5686274509803921
-237,237,3120,2575,1972,2023,51,Band-tailed Pigeon,Pigeon à queue barrée,Columbiformes,Columbidae,Patagioenas,fasciata,0.5686274509803921
-321,321,3920,1977,1977,2023,46,unid. woodpecker,unid Pic sp.,Piciformes,Picidae,Woodpecker,sp.,0.5652173913043478
-695,695,7360,19077,1968,2023,55,Carolina Chickadee,Mésange de Caroline,Passeriformes,Paridae,Poecile,carolinensis,0.5636363636363636
-702,702,7430,2996,1968,2023,55,Bushtit,Orite buissonnière,Passeriformes,Aegithalidae,Psaltriparus,minimus,0.5636363636363636
-406,406,4650,13992,1968,2023,55,Acadian Flycatcher,Moucherolle vert,Passeriformes,Tyrannidae,Empidonax,virescens,0.5636363636363636
-639,639,6790,5803,1968,2023,55,Mourning Warbler,Paruline triste,Passeriformes,Parulidae,Geothlypis,philadelphia,0.5636363636363636
-605,605,6470,3258,1968,2023,55,Tennessee Warbler,Paruline obscure,Passeriformes,Parulidae,Leiothlypis,peregrina,0.5636363636363636
-424,424,4780,7696,1968,2023,55,Steller's Jay,Geai de Steller,Passeriformes,Corvidae,Cyanocitta,stelleri,0.5636363636363636
-642,642,6830,19707,1968,2023,55,Yellow-breasted Chat,Ictérie polyglotte,Passeriformes,Icteriidae,Icteria,virens,0.5636363636363636
-539,539,5870,26141,1968,2023,55,Eastern Towhee,Tohi à flancs roux,Passeriformes,Passerellidae,Pipilo,erythrophthalmus,0.5636363636363636
-606,606,6480,17453,1968,2023,55,Northern Parula,Paruline à collier,Passeriformes,Parulidae,Setophaga,americana,0.5636363636363636
-617,617,6590,11347,1968,2023,55,Chestnut-sided Warbler,Paruline à flancs marron,Passeriformes,Parulidae,Setophaga,pensylvanica,0.5636363636363636
-631,631,6710,16616,1968,2023,55,Pine Warbler,Paruline des pins,Passeriformes,Parulidae,Setophaga,pinus,0.5636363636363636
-461,461,5060,19830,1968,2023,55,Orchard Oriole,Oriole des vergers,Passeriformes,Icteridae,Icterus,spurius,0.5636363636363636
-270,270,3430,4753,1968,2023,55,Broad-winged Hawk,Petite Buse,Accipitriformes,Accipitridae,Buteo,platypterus,0.5636363636363636
-503,503,5480,2074,1968,2023,55,LeConte's Sparrow,Bruant de LeConte,Passeriformes,Passerellidae,Ammospiza,leconteii,0.5636363636363636
-683,683,7310,28759,1968,2023,55,Tufted Titmouse,Mésange bicolore,Passeriformes,Paridae,Baeolophus,bicolor,0.5636363636363636
-670,670,7180,25099,1968,2023,55,Carolina Wren,Troglodyte de Caroline,Passeriformes,Troglodytidae,Thryothorus,ludovicianus,0.5636363636363636
-336,336,4050,25608,1968,2023,55,Pileated Woodpecker,Grand Pic,Piciformes,Picidae,Dryocopus,pileatus,0.5636363636363636
-516,516,5630,22929,1968,2023,55,Field Sparrow,Bruant des champs,Passeriformes,Passerellidae,Spizella,pusilla,0.5636363636363636
-541,541,5880,10909,1968,2023,55,Spotted Towhee,Tohi tacheté,Passeriformes,Passerellidae,Pipilo,maculatus,0.5636363636363636
-474,474,5170,9988,1968,2023,55,Purple Finch,Roselin pourpré,Passeriformes,Fringillidae,Haemorhous,purpureus,0.5636363636363636
-554,554,5990,6625,1968,2023,55,Lazuli Bunting,Passerin azuré,Passeriformes,Cardinalidae,Passerina,amoena,0.5636363636363636
-340,340,4090,30495,1968,2023,55,Red-bellied Woodpecker,Pic à ventre roux,Piciformes,Picidae,Melanerpes,carolinus,0.5636363636363636
-233,233,3091,13289,1968,2023,55,Ring-necked Pheasant,Faisan de Colchide,Galliformes,Phasianidae,Phasianus,colchicus,0.5636363636363636
-584,584,6291,4779,1968,2023,55,Cassin's Vireo,Viréo de Cassin,Passeriformes,Vireonidae,Vireo,cassinii,0.5636363636363636
-560,560,6080,16700,1968,2023,55,Scarlet Tanager,Piranga écarlate,Passeriformes,Cardinalidae,Piranga,olivacea,0.5636363636363636
-582,582,6280,15818,1968,2023,55,Yellow-throated Vireo,Viréo à gorge jaune,Passeriformes,Vireonidae,Vireo,flavifrons,0.5636363636363636
-9,9,77,23,1998,2023,25,unid. loon,plongeon sp.,Gaviiformes,Gaviidae,Gavia,sp.,0.56
-563,563,6110,19489,1969,2023,54,Purple Martin,Hirondelle noire,Passeriformes,Hirundinidae,Progne,subis,0.5555555555555556
-439,439,4900,9355,1969,2023,54,Fish Crow,Corneille de rivage,Passeriformes,Corvidae,Corvus,ossifragus,0.5555555555555556
-348,348,4160,5912,1969,2023,54,Chuck-will's-widow,Engoulevent de Caroline,Caprimulgiformes,Caprimulgidae,Antrostomus,carolinensis,0.5555555555555556
-589,589,6310,17839,1969,2023,54,White-eyed Vireo,Viréo aux yeux blancs,Passeriformes,Vireonidae,Vireo,griseus,0.5555555555555556
-117,117,1725,21,2005,2023,18,Cackling Goose,Bernache de Hutchins,Anseriformes,Anatidae,Branta,hutchinsii,0.5555555555555556
-707,707,7510,23345,1969,2023,54,Blue-gray Gnatcatcher,Gobemoucheron gris-bleu,Passeriformes,Polioptilidae,Polioptila,caerulea,0.5555555555555556
-7,7,60,3653,1967,2023,56,Pied-billed Grebe,Grèbe à bec bigarré,Podicipediformes,Podicipedidae,Podilymbus,podiceps,0.5535714285714286
-92,92,1440,8657,1972,2023,51,Wood Duck,Canard branchu,Anseriformes,Anatidae,Aix,sponsa,0.5490196078431373
-131,131,1900,3385,1972,2023,51,American Bittern,Butor d'Amérique,Pelecaniformes,Ardeidae,Botaurus,lentiginosus,0.5490196078431373
-643,643,6840,10719,1968,2023,55,Hooded Warbler,Paruline à capuchon,Passeriformes,Parulidae,Setophaga,citrina,0.5454545454545454
-637,637,6770,7846,1968,2023,55,Kentucky Warbler,Paruline du Kentucky,Passeriformes,Parulidae,Geothlypis,formosa,0.5454545454545454
-465,465,5080,9493,1968,2023,55,Bullock's Oriole,Oriole de Bullock,Passeriformes,Icteridae,Icterus,bullockii,0.5454545454545454
-623,623,6650,3695,1968,2023,55,Black-throated Gray Warbler,Paruline grise,Passeriformes,Parulidae,Setophaga,nigrescens,0.5454545454545454
-633,633,6730,9477,1968,2023,55,Prairie Warbler,Paruline des prés,Passeriformes,Parulidae,Setophaga,discolor,0.5454545454545454
-679,679,7270,26134,1968,2023,55,White-breasted Nuthatch,Sittelle à poitrine blanche,Passeriformes,Sittidae,Sitta,carolinensis,0.5454545454545454
-671,671,7190,6861,1968,2023,55,Bewick's Wren,Troglodyte de Bewick,Passeriformes,Troglodytidae,Thryomanes,bewickii,0.5454545454545454
-723,723,7660,30707,1968,2023,55,Eastern Bluebird,Merlebleu de l'Est,Passeriformes,Turdidae,Sialia,sialis,0.5454545454545454
-570,570,6160,6559,1968,2023,55,Bank Swallow,Hirondelle de rivage,Passeriformes,Hirundinidae,Riparia,riparia,0.5454545454545454
-482,482,5240,13,1997,2019,22,Gray-crowned Rosy-Finch,Roselin à tête grise,Passeriformes,Fringillidae,Leucosticte,tephrocotis,0.5454545454545454
-192,192,2610,5405,1968,2023,55,Upland Sandpiper,Maubèche des champs,Charadriiformes,Scolopacidae,Bartramia,longicauda,0.5454545454545454
-484,484,5260,13,1997,2021,24,Brown-capped Rosy-Finch,Roselin à tête brune,Passeriformes,Fringillidae,Leucosticte,australis,0.5416666666666666
-65,65,1190,19,1997,2021,24,Great Cormorant,Grand Cormoran,Suliformes,Phalacrocoracidae,Phalacrocorax,carbo,0.5416666666666666
-184,184,2500,25,1997,2023,26,Bar-tailed Godwit,Barge rousse,Charadriiformes,Scolopacidae,Limosa,lapponica,0.5384615384615384
-354,354,4205,22,1997,2023,26,unid. Lesser Nighthawk / Common Nighthawk,unid Engoulevent minime / Engoulevent d'Amérique,Caprimulgiformes,Caprimulgidae,Chordeiles,acutipennis / minor,0.5384615384615384
-252,252,3260,10286,1969,2023,54,Black Vulture,Urubu noir,Cathartiformes,Cathartidae,Coragyps,atratus,0.5370370370370371
-349,349,4171,2535,1969,2023,54,Eastern Whip-poor-will,Engoulevent bois-pourri,Caprimulgiformes,Caprimulgidae,Antrostomus,vociferus,0.5370370370370371
-363,363,4280,15423,1969,2023,54,Ruby-throated Hummingbird,Colibri à gorge rubis,Apodiformes,Trochilidae,Archilochus,colubris,0.5370370370370371
-636,636,6760,5664,1969,2023,54,Louisiana Waterthrush,Paruline hochequeue,Passeriformes,Parulidae,Parkesia,motacilla,0.5370370370370371
-43,43,580,1856,1967,2023,56,Laughing Gull,Mouette atricille,Charadriiformes,Laridae,Leucophaeus,atricilla,0.5357142857142857
-577,577,6220,12410,1967,2023,56,Loggerhead Shrike,Pie-grièche migratrice,Passeriformes,Laniidae,Lanius,ludovicianus,0.5357142857142857
-507,507,5520,14285,1967,2023,56,Lark Sparrow,Bruant à joues marron,Passeriformes,Passerellidae,Chondestes,grammacus,0.5357142857142857
-141,141,2001,6862,1967,2023,56,Cattle Egret,Héron garde-boeufs,Pelecaniformes,Ardeidae,Bubulcus,ibis,0.5357142857142857
-688,688,7332,8,1997,2012,15,unid. Oak Titmouse / Juniper Titmouse,unid unid Mésange unicolore / Mésange des genévrie,Passeriformes,Paridae,Baeolophus,inornatus / ridgwayi,0.5333333333333333
-197,197,2680,10,1997,2014,17,Bristle-thighed Curlew,Courlis d'Alaska,Charadriiformes,Scolopacidae,Numenius,tahitiensis,0.5294117647058824
-338,338,4070,2138,1968,2023,55,Acorn Woodpecker,Pic glandivore,Piciformes,Picidae,Melanerpes,formicivorus,0.5272727272727272
-590,590,6320,2006,1968,2023,55,Hutton's Vireo,Viréo de Hutton,Passeriformes,Vireonidae,Vireo,huttoni,0.5272727272727272
-266,266,3390,13273,1968,2023,55,Red-shouldered Hawk,Buse à épaulettes,Accipitriformes,Accipitridae,Buteo,lineatus,0.5272727272727272
-700,700,7420,1724,1968,2023,55,Wrentit,Cama brune,Passeriformes,Sylviidae,Chamaea,fasciata,0.5272727272727272
-143,143,2020,1989,1968,2023,55,Black-crowned Night-Heron,Bihoreau gris,Pelecaniformes,Ardeidae,Nycticorax,nycticorax,0.5272727272727272
-686,686,7330,1355,1968,2023,55,Oak Titmouse,Mésange unicolore,Passeriformes,Paridae,Baeolophus,inornatus,0.5272727272727272
-393,393,4540,8093,1968,2023,55,Ash-throated Flycatcher,Tyran à gorge cendrée,Passeriformes,Tyrannidae,Myiarchus,cinerascens,0.5272727272727272
-724,724,7670,3714,1968,2023,55,Western Bluebird,Merlebleu de l'Ouest,Passeriformes,Turdidae,Sialia,mexicana,0.5272727272727272
-230,230,3080,1280,1968,2023,55,Sharp-tailed Grouse,Tétras à queue fine,Galliformes,Phasianidae,Tympanuchus,phasianellus,0.5272727272727272
-217,217,2940,4625,1968,2023,55,California Quail,Colin de Californie,Galliformes,Odontophoridae,Callipepla,californica,0.5272727272727272
-427,427,4812,2703,1968,2023,55,California Scrub-Jay,Geai buissonnier,Passeriformes,Corvidae,Aphelocoma,californica,0.5272727272727272
-490,490,5300,4545,1968,2023,55,Lesser Goldfinch,Chardonneret mineur,Passeriformes,Fringillidae,Spinus,psaltria,0.5272727272727272
-215,215,2920,1573,1968,2023,55,Mountain Quail,Colin des montagnes,Galliformes,Odontophoridae,Oreortyx,pictus,0.5272727272727272
-127,127,1860,585,1969,2023,54,Glossy Ibis,Ibis falcinelle,Pelecaniformes,Threskiornithidae,Plegadis,falcinellus,0.5185185185185185
-556,556,6010,5087,1967,2023,56,Painted Bunting,Passerin nonpareil,Passeriformes,Cardinalidae,Passerina,ciris,0.5178571428571429
-136,136,1960,8061,1967,2023,56,Great Egret,Grande Aigrette,Pelecaniformes,Ardeidae,Ardea,alba,0.5178571428571429
-557,557,6040,13647,1967,2023,56,Dickcissel,Dickcissel d'Amérique,Passeriformes,Cardinalidae,Spiza,americana,0.5178571428571429
-544,544,5911,1575,1968,2023,55,California Towhee,Tohi de Californie,Passeriformes,Passerellidae,Melozone,crissalis,0.509090909090909
-397,397,4580,1907,1968,2023,55,Black Phoebe,Moucherolle noir,Passeriformes,Tyrannidae,Sayornis,nigricans,0.509090909090909
-664,664,7100,660,1968,2023,55,California Thrasher,Moqueur de Californie,Passeriformes,Mimidae,Toxostoma,redivivum,0.509090909090909
-326,326,3970,1077,1968,2023,55,Nuttall's Woodpecker,Pic de Nuttall,Piciformes,Picidae,Dryobates,nuttallii,0.509090909090909
-10,10,80,10,2005,2023,18,Yellow-billed Loon,Plongeon à bec blanc,Gaviiformes,Gaviidae,Gavia,adamsii,0.5
-15,15,140,3,2005,2011,6,Horned Puffin,Macareux cornu,Charadriiformes,Alcidae,Fratercula,corniculata,0.5
-696,696,7370,13,1997,2023,26,Mexican Chickadee,Mésange grise,Passeriformes,Paridae,Poecile,sclateri,0.5
-53,53,690,1022,1967,2023,56,Forster's Tern,Sterne de Forster,Charadriiformes,Laridae,Sterna,forsteri,0.5
-379,379,4430,5036,1967,2023,56,Scissor-tailed Flycatcher,Tyran à longue queue,Passeriformes,Tyrannidae,Tyrannus,forficatus,0.5
-443,443,4932,11,2002,2022,20,Common Myna,Martin triste,Passeriformes,Sturnidae,Acridotheres,tristis,0.5
-598,598,6412,9,1998,2014,16,Brewster's Warbler (Golden-winged x Blue-winged),Paruline de Brewster,Passeriformes,Parulidae,Vermivora,cyanoptera x chrysoptera,0.5
-120,120,1770,1540,1967,2023,56,Black-bellied Whistling-Duck,Dendrocygne à ventre noir,Anseriformes,Anatidae,Dendrocygna,autumnalis,0.5
-137,137,1970,2601,1967,2023,56,Snowy Egret,Aigrette neigeuse,Pelecaniformes,Ardeidae,Egretta,thula,0.5
-164,164,2260,1586,1967,2023,56,Black-necked Stilt,Échasse d'Amérique,Charadriiformes,Recurvirostridae,Himantopus,mexicanus,0.5
-531,531,5780,3550,1967,2023,56,Cassin's Sparrow,Bruant de Cassin,Passeriformes,Passerellidae,Peucaea,cassinii,0.5
-57,57,740,555,1967,2023,56,Least Tern,Petite Sterne,Charadriiformes,Laridae,Sternula,antillarum,0.5
-26,26,360,9,2007,2023,16,Pomarine Jaeger,Labbe pomarin,Charadriiformes,Stercorariidae,Stercorarius,pomarinus,0.5
-19,19,240,2,1997,2001,4,Kittlitz's Murrelet,Guillemot de Kittlitz,Charadriiformes,Alcidae,Brachyramphus,brevirostris,0.5
-121,121,1780,417,1967,2023,56,Fulvous Whistling-Duck,Dendrocygne fauve,Anseriformes,Anatidae,Dendrocygna,bicolor,0.5
-365,365,4295,3,2012,2018,6,unid. Ruby-throated / Black-chinned Hummingbird,unid Colibri à gorge rubis / Colibri à gorge noire,Apodiformes,Trochilidae,Archilochus,colubris / alexandri,0.5
-470,470,5130,1863,1967,2023,56,Boat-tailed Grackle,Quiscale des marais,Passeriformes,Icteridae,Quiscalus,major,0.5
-59,59,800,241,1967,2023,56,Black Skimmer,Bec-en-ciseaux noir,Charadriiformes,Laridae,Rynchops,niger,0.5
-371,371,4340,316,1968,2023,55,Allen's Hummingbird,Colibri d'Allen,Apodiformes,Trochilidae,Selasphorus,sasin,0.4909090909090909
-540,540,5871,70,1972,2023,51,unid. Spotted Towhee / Eastern Towhee,unid Tohi tacheté / Tohi à flancs roux,Passeriformes,Passerellidae,Pipilo,maculatus / erythrophthalmus,0.49019607843137253
-139,139,1990,1211,1967,2023,56,Tricolored Heron,Aigrette tricolore,Pelecaniformes,Ardeidae,Egretta,tricolor,0.48214285714285715
-138,138,1980,138,1967,2023,56,Reddish Egret,Aigrette roussâtre,Pelecaniformes,Ardeidae,Egretta,rufescens,0.48214285714285715
-149,149,2080,224,1967,2023,56,King Rail,Râle élégant,Gruiformes,Rallidae,Rallus,elegans,0.48214285714285715
-157,157,2180,157,1967,2023,56,Purple Gallinule,Talève violacée,Gruiformes,Rallidae,Porphyrio,martinicus,0.48214285714285715
-151,151,2110,484,1967,2023,56,Clapper Rail,Râle tapageur,Gruiformes,Rallidae,Rallus,crepitans,0.48214285714285715
-83,83,1340,872,1967,2023,56,Mottled Duck,Canard brun,Anseriformes,Anatidae,Anas,fulvigula,0.48214285714285715
-129,129,1870,1131,1967,2023,56,White-faced Ibis,Ibis à face blanche,Pelecaniformes,Threskiornithidae,Plegadis,chihi,0.48214285714285715
-47,47,630,241,1967,2023,56,Gull-billed Tern,Sterne hansel,Charadriiformes,Laridae,Gelochelidon,nilotica,0.48214285714285715
-125,125,1830,554,1967,2023,56,Roseate Spoonbill,Spatule rosée,Pelecaniformes,Threskiornithidae,Platalea,ajaja,0.48214285714285715
-317,317,3890,16,1998,2023,25,Elegant Trogon,Trogon élégant,Trogoniformes,Trogonidae,Trogon,elegans,0.48
-41,41,551,10,1997,2019,22,Black-headed Gull,Mouette rieuse,Charadriiformes,Laridae,Chroicocephalus,ridibundus,0.45454545454545453
-375,375,4391,4,2004,2013,9,Violet-crowned Hummingbird,Ariane à couronne violette,Apodiformes,Trochilidae,Ramosomyia,violiceps,0.4444444444444444
-227,227,3040,12,1997,2022,25,White-tailed Ptarmigan,Lagopède à queue blanche,Galliformes,Phasianidae,Lagopus,leucura,0.44
-67,67,1205,13,2000,2023,23,unid. Neotropic / Double-crested Cormorant,Cormoran vigua / Cormoran à aigrettes,Suliformes,Phalacrocoracidae,Nannopterum,brasilianum / auritum,0.43478260869565216
-448,448,4961,8,1999,2018,19,Shiny Cowbird,Vacher luisant,Passeriformes,Icteridae,Molothrus,bonariensis,0.42105263157894735
-709,709,7530,12,2003,2022,19,California Gnatcatcher,Gobemoucheron de Californie,Passeriformes,Polioptilidae,Polioptila,californica,0.42105263157894735
-35,35,495,9,1999,2018,19,hybrid Western Gull x Glaucous-winged Gull,hybride Goéland à ailes grises x d'Audubon,Charadriiformes,Laridae,Larus,occidentalis x glaucescens,0.42105263157894735
-203,203,2770,6,2007,2019,12,Piping Plover,Pluvier siffleur,Charadriiformes,Charadriidae,Charadrius,melodus,0.4166666666666667
-242,242,3152,5,1999,2011,12,African Collared-Dove (a.k.a. Ringed Turtle-Dove),Tourterelle rieuse,Columbiformes,Columbidae,Streptopelia,roseogrisea,0.4166666666666667
-175,175,2410,5,2011,2023,12,Baird's Sandpiper,Bécasseau de Baird,Charadriiformes,Scolopacidae,Calidris,bairdii,0.4166666666666667
-607,607,6490,9,1997,2019,22,Tropical Parula,Paruline à joues noires,Passeriformes,Parulidae,Setophaga,pitiayumi,0.4090909090909091
-114,114,1690,10,2001,2023,22,Snow Goose,Oie des neiges,Anseriformes,Anatidae,Anser,caerulescens,0.4090909090909091
-146,146,2040,6,2006,2021,15,Whooping Crane,Grue blanche,Gruiformes,Gruidae,Grus,americana,0.4
-198,198,2700,8,1998,2018,20,Black-bellied Plover,Pluvier argenté,Charadriiformes,Charadriidae,Pluvialis,squatarola,0.4
-241,241,3151,7,2004,2017,13,Spotted Dove,Tourterelle tigrine,Columbiformes,Columbidae,Streptopelia,chinensis,0.38461538461538464
-361,361,4260,11,1997,2023,26,Rivoli's Hummingbird,Colibri de Rivoli,Apodiformes,Trochilidae,Eugenes,fulgens,0.38461538461538464
-409,409,4665,31,1972,2022,50,unid. Alder Flycatcher / Willow Flycatcher,unid Moucherolle des aulnes / des saules,Passeriformes,Tyrannidae,Empidonax,alnorum / traillii,0.38
-458,458,5032,3,2002,2010,8,Spot-breasted Oriole,Oriole maculé,Passeriformes,Icteridae,Icterus,pectoralis,0.375
-85,85,1360,6,2001,2018,17,Eurasian Wigeon,Canard siffleur,Anseriformes,Anatidae,Mareca,penelope,0.35294117647058826
-446,446,4955,10,1997,2023,26,unid. Bronzed Cowbird / Brown-headed Cowbird,unid Vacher bronzé / à tête brune,Passeriformes,Icteridae,Molothrus,aeneus / ater,0.34615384615384615
-483,483,5250,3,1997,2006,9,Black Rosy-Finch,Roselin noir,Passeriformes,Fringillidae,Leucosticte,atrata,0.3333333333333333
-111,111,1657,9,2001,2023,22,unid. scoter,unid macreuse sp.,Anseriformes,Anatidae,Melanitta,sp.,0.3181818181818182
-573,573,6185,6,2004,2023,19,unid. Cedar Waxwing / Bohemian Waxwing,unid Jaseur sp.,Passeriformes,Bombycillidae,Bombycilla,garrulus / cedrorum,0.3157894736842105
-493,493,5340,8,1997,2023,26,Snow Bunting,Plectrophane des neiges,Passeriformes,Calcariidae,Plectrophenax,nivalis,0.3076923076923077
-553,553,5986,4,2009,2022,13,hybrid Lazuli Bunting x Indigo Bunting,hybride Passerin azuré x Passerin indigo,Passeriformes,Cardinalidae,Passerina,amoena x cyanea,0.3076923076923077
-169,169,2327,5,2000,2013,13,unid. Short-billed / Long-billed Dowitcher,unid Bécassin roux / Bécassin à long bec,Charadriiformes,Scolopacidae,Limnodromus,griseus / scolopaceus,0.3076923076923077
-386,386,4462,7,2000,2023,23,unid. Tropical Kingbird / Couch's Kingbird,unid Tyran mélancolique / Tyran de Couch,Passeriformes,Tyrannidae,Tyrannus,melancholicus / couchii,0.30434782608695654
-173,173,2390,7,2003,2023,20,Pectoral Sandpiper,Bécasseau à poitrine cendrée,Charadriiformes,Scolopacidae,Calidris,melanotos,0.3
-320,320,3910,7,2002,2019,17,Green Kingfisher,Martin-pêcheur vert,Coraciiformes,Alcedinidae,Chloroceryle,americana,0.29411764705882354
-46,46,620,6,2006,2023,17,Sabine's Gull,Mouette de Sabine,Charadriiformes,Laridae,Xema,sabini,0.29411764705882354
-23,23,310,2,2004,2011,7,Thick-billed Murre,Guillemot de Brünnich,Charadriiformes,Alcidae,Uria,lomvia,0.2857142857142857
-150,150,2090,3,2011,2018,7,unid. Clapper / King Rail,unid Râle élégant / Râle Gris,Gruiformes,Rallidae,Rallus,crepitans / elegans,0.2857142857142857
-300,300,3760,3,2011,2022,11,Snowy Owl,Harfang des neiges,Strigiformes,Strigidae,Bubo,scandiacus,0.2727272727272727
-373,373,4370,3,2006,2018,12,Lucifer Hummingbird,Colibri lucifer,Apodiformes,Trochilidae,Calothorax,lucifer,0.25
-310,310,3830,5,1999,2015,16,Smooth-billed Ani,Ani à bec lisse,Cuculiformes,Cuculidae,Crotophaga,ani,0.25
-304,304,3800,4,1998,2014,16,Ferruginous Pygmy-Owl,Chevêchette brune,Strigiformes,Strigidae,Glaucidium,brasilianum,0.25
-694,694,7354,5,1998,2019,21,unid. Black-capped Chickadee / Boreal Chickadee,unid Mésange à tête noire / Mésange à tête brune,Passeriformes,Paridae,Poecile,atricapillus / hudsonicus,0.23809523809523808
-586,586,6295,19,1968,2023,55,unid. Cassin's Vireo / Blue-headed Vireo,unid Viréo de Cassin / Viréo à tête bleue,Passeriformes,Vireonidae,Vireo,cassinii / solitarius,0.23636363636363636
-587,587,6296,6,1997,2023,26,unid. Plumbeous Vireo / Cassin's Vireo,unid Viréo plombé / Viréo de Cassin,Passeriformes,Vireonidae,Vireo,plumbeus / cassinii,0.23076923076923078
-306,306,3822,2,1999,2008,9,Budgerigar,Perruche ondulée,Psittaciformes,Psittaculidae,Melopsittacus,undulatus,0.2222222222222222
-168,168,2320,6,2004,2023,19,Long-billed Dowitcher,Bécassin à long bec,Charadriiformes,Scolopacidae,Limnodromus,scolopaceus,0.21052631578947367
-108,108,1620,4,2004,2023,19,King Eider,Eider à tête grise,Anseriformes,Anatidae,Somateria,spectabilis,0.21052631578947367
-457,457,5031,6,1997,2023,26,Altamira Oriole,Oriole à gros bec,Passeriformes,Icteridae,Icterus,gularis,0.19230769230769232
-319,319,3901,5,1998,2022,24,Ringed Kingfisher,Martin-pêcheur à ventre roux,Coraciiformes,Alcedinidae,Megaceryle,torquata,0.16666666666666666
-238,238,3130,3,1997,2021,24,Red-billed Pigeon,Pigeon à bec rouge,Columbiformes,Columbidae,Patagioenas,flavirostris,0.125
-247,247,3201,2,2003,2021,18,Ruddy Ground Dove,Colombe rousse,Columbiformes,Columbidae,Columbina,talpacoti,0.1111111111111111
-599,599,6413,2,2001,2023,22,Lawrence's Warbler (Golden-winged x Blue-winged),Paruline de Lawrence,Passeriformes,Parulidae,Vermivora,chrysoptera x cyanoptera,0.09090909090909091
-60,60,860,1,2005,2005,0,Northern Fulmar,Fulmar boréal,Procellariiformes,Procellariidae,Fulmarus,glacialis,0.0
-68,68,1206,2,2012,2012,0,unid. Double-crested Cormorant / Great Cormorant,Cormoran à aigrettes / Grand Cormoran,Suliformes,Phalacrocoracidae,Nannopterum,auritus / carbo,0.0
-62,62,1150,1,2007,2007,0,Brown Booby,Fou brun,Suliformes,Sulidae,Sula,leucogaster,0.0
-710,710,7539,1,1997,1997,0,unid. Blue-gray / Black-tailed Gnatcatcher,unid Gobemoucheron gris-bleu / à queue noire,Passeriformes,Polioptilidae,Polioptila,caerulea / melanura,0.0
-309,309,3827,1,2010,2010,0,unid. White-winged / Yellow-chevroned Parakeet,Toui à ailes variées / Toui à ailes jaunes,Psittaciformes,Psittacidae,Brotogeris,versicolurus / chiriri,0.0
-296,296,3731,1,1998,1998,0,Whiskered Screech-Owl,Petit-duc à moustaches,Strigiformes,Strigidae,Megascops,trichopsis,0.0
-254,254,3271,1,2009,2009,0,Hook-billed Kite,Bec-en-croc de Temminck,Accipitriformes,Accipitridae,Chondrohierax,uncinatus,0.0
-355,355,4206,1,2004,2004,0,unid. Common Nighthawk / Antillean Nighthawk,unid Engoulevent d'Amérique / piramidig,Caprimulgiformes,Caprimulgidae,Chordeiles,minor / gundlachii,0.0
-182,182,2480,1,2010,2010,0,Sanderling,Bécasseau sanderling,Charadriiformes,Scolopacidae,Calidris,alba,0.0
-177,177,2422,1,2023,2023,0,Red-necked Stint,Bécasseau à col roux,Charadriiformes,Scolopacidae,Calidris,ruficollis,0.0
-452,452,5009,22,2023,2023,0,Chihuahuan Meadowlark,Sturnelle de Lilian,Passeriformes,Icteridae,Sturnella,lilianae,0.0
-416,416,4700,1,1997,1997,0,Buff-breasted Flycatcher,Moucherolle beige,Passeriformes,Tyrannidae,Empidonax,fulvifrons,0.0
-419,419,4730,1,2002,2002,0,Eurasian Skylark,Alouette des champs,Passeriformes,Alaudidae,Alauda,arvensis,0.0
-378,378,4411,1,2019,2019,0,Rose-throated Becard,Bécarde à gorge rose,Passeriformes,Tityridae,Pachyramphus,aglaiae,0.0
-658,658,7031,1,2002,2002,0,Bahama Mockingbird,Moqueur des Bahamas,Passeriformes,Mimidae,Mimus,gundlachii,0.0
-119,119,1760,1,2012,2012,0,Emperor Goose,Oie empereur,Anseriformes,Anatidae,Anser,canagicus,0.0
-17,17,210,1,1997,1997,0,Ancient Murrelet,Guillemot à cou blanc,Charadriiformes,Alcidae,Synthliboramphus,antiquus,0.0
-11,11,90,1,2011,2011,0,Arctic Loon,Plongeon arctique,Gaviiformes,Gaviidae,Gavia,arctica,0.0
-14,14,120,1,2007,2007,0,Tufted Puffin,Macareux huppé,Charadriiformes,Alcidae,Fratercula,cirrhata,0.0
-728,728,16600,1,2009,2009,0,Sinaloa Wren,Troglodyte du Sinaloa,Passeriformes,Troglodytidae,Thryophilus,sinaloa,0.0
-731,731,21930,1,2010,2010,0,Purple Swamphen,Talève sultane,Gruiformes,Rallidae,Porphyrio,porphyrio,0.0
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,AOU,n_rutas,first_year,last_year,timeseries length,English_Common_Name,French_Common_Name,Order,Family,Genus,Species,prct_years
+2,2,193,193,2620,2,2021,2022,1,Buff-breasted Sandpiper,Bécasseau roussâtre,Charadriiformes,Scolopacidae,Calidris,subruficollis,2.0
+0,0,730,730,20630,2,2018,2019,1,Egyptian Goose,Ouette d'Égypte,Anseriformes,Anatidae,Alopochen,aegyptiaca,2.0
+4,4,51,51,660,2,2014,2015,1,Elegant Tern,Sterne élégante,Charadriiformes,Laridae,Thalasseus,elegans,2.0
+1,1,734,734,52021,2,2005,2006,1,Yellow-chevroned Parakeet,Toui à ailes jaunes,Psittaciformes,Psittacidae,Brotogeris,chiriri,2.0
+3,3,464,464,5078,2,2017,2018,1,hybrid Bullock's Oriole x Baltimore Oriole,hybride Oriole de Baltimore x Oriole de Bullock's,Passeriformes,Icteridae,Icterus,bullockii x galbula,2.0
+7,7,106,106,1580,3,2021,2023,2,Spectacled Eider,Eider à lunettes,Anseriformes,Anatidae,Somateria,fischeri,1.5
+6,6,160,160,2220,3,2021,2023,2,Red Phalarope,Phalarope à bec large,Charadriiformes,Scolopacidae,Phalaropus,fulicarius,1.5
+5,5,174,174,2400,3,2021,2023,2,White-rumped Sandpiper,Bécasseau à croupion blanc,Charadriiformes,Scolopacidae,Calidris,fuscicollis,1.5
+8,8,105,105,1570,3,2021,2023,2,Steller's Eider,Eider de Steller,Anseriformes,Anatidae,Polysticta,stelleri,1.5
+9,9,701,701,7421,3,2021,2023,2,Swinhoe’s White-eye,Zostérops de Swinhoe,Passeriformes,Zosteropidae,Zosterops,simplex,1.5
+10,10,628,628,6686,5,2013,2017,4,hybrid Townsend's Warbler x Hermit Warbler,hybride Paruline de Townsend x à tête jaune,Passeriformes,Parulidae,Setophaga,townsendi x occidentalis,1.25
+11,11,61,61,900,5,2004,2008,4,Manx Shearwater,Puffin des Anglais,Procellariiformes,Procellariidae,Puffinus,puffinus,1.25
+225,225,132,132,1910,413,1996,2023,27,Least Bittern,Petit Blongios,Pelecaniformes,Ardeidae,Ixobrychus,exilis,1.0
+224,224,144,144,2030,989,1997,2023,26,Yellow-crowned Night-Heron,Bihoreau violacé,Pelecaniformes,Ardeidae,Nyctanassa,violacea,1.0
+237,237,396,396,4570,8302,1995,2023,28,Say's Phoebe,Moucherolle à ventre roux,Passeriformes,Tyrannidae,Sayornis,saya,1.0
+64,64,487,487,5275,243,1997,2023,26,unid. Common Redpoll / Hoary Redpoll,unid Sizerin flame / Sizerin blanchâtre,Passeriformes,Fringillidae,Carduelis,flammea / hornemanni,1.0
+65,65,497,497,5390,688,1996,2023,27,Thick-billed Longspur,Plectrophane de McCown,Passeriformes,Calcariidae,Rhynchophanes,mccownii,1.0
+66,66,328,328,3990,794,1996,2023,27,White-headed Woodpecker,Pic à tête blanche,Piciformes,Picidae,Dryobates,albolarvatus,1.0
+67,67,494,494,5360,261,1997,2023,26,Lapland Longspur,Plectrophane lapon,Passeriformes,Calcariidae,Calcarius,lapponicus,1.0
+68,68,339,339,4080,725,1997,2023,26,Lewis's Woodpecker,Pic de Lewis,Piciformes,Picidae,Melanerpes,lewis,1.0
+69,69,200,200,2721,78,1997,2023,26,Pacific Golden-Plover,Pluvier fauve,Charadriiformes,Charadriidae,Pluvialis,fulva,1.0
+70,70,199,199,2720,126,1997,2023,26,American Golden-Plover,Pluvier bronzé,Charadriiformes,Charadriidae,Pluvialis,dominica,1.0
+71,71,189,189,2560,803,1995,2023,28,Solitary Sandpiper,Chevalier solitaire,Charadriiformes,Scolopacidae,Tringa,solitaria,1.0
+72,72,202,202,2740,246,1997,2023,26,Semipalmated Plover,Pluvier semipalmé,Charadriiformes,Charadriidae,Charadrius,semipalmatus,1.0
+73,73,206,206,2810,311,1996,2023,27,Mountain Plover,Pluvier montagnard,Charadriiformes,Charadriidae,Charadrius,montanus,1.0
+74,74,330,330,4010,1078,1997,2023,26,American Three-toed Woodpecker,Pic à dos rayé,Piciformes,Picidae,Picoides,dorsalis,1.0
+75,75,324,324,3950,365,1995,2023,28,Red-cockaded Woodpecker,Pic à face blanche,Piciformes,Picidae,Dryobates,borealis,1.0
+76,76,325,325,3960,3106,1996,2023,27,Ladder-backed Woodpecker,Pic arlequin,Piciformes,Picidae,Dryobates,scalaris,1.0
+77,77,148,148,2070,207,1997,2023,26,Limpkin,Courlan brun,Gruiformes,Aramidae,Aramus,guarauna,1.0
+78,78,158,158,2190,1083,1996,2023,27,Common Gallinule,Gallinule d'Amérique,Gruiformes,Rallidae,Gallinula,galeata,1.0
+79,79,502,502,5470,815,1996,2023,27,Henslow's Sparrow,Bruant de Henslow,Passeriformes,Passerellidae,Centronyx,henslowii,1.0
+80,80,505,505,5491,596,1996,2023,27,Nelson's Sparrow,Bruant de Nelson,Passeriformes,Passerellidae,Ammospiza,nelsoni,1.0
+81,81,506,506,5500,359,1997,2023,26,Seaside Sparrow,Bruant maritime,Passeriformes,Passerellidae,Ammospiza,maritima,1.0
+82,82,333,333,4022,321,1996,2023,27,unid. sapsucker,unid Sphyrapicus sp.,Piciformes,Picidae,Sphyrapicus,sp.,1.0
+83,83,334,334,4030,2552,1996,2023,27,Red-breasted Sapsucker,Pic à poitrine rouge,Piciformes,Picidae,Sphyrapicus,ruber,1.0
+226,226,140,140,2000,3999,1996,2023,27,Little Blue Heron,Aigrette bleue,Pelecaniformes,Ardeidae,Egretta,caerulea,1.0
+227,227,122,122,1782,365,1996,2023,27,Mute Swan,Cygne tuberculé,Anseriformes,Anatidae,Cygnus,olor,1.0
+228,228,89,89,1410,1921,1995,2023,28,Cinnamon Teal,Sarcelle cannelle,Anseriformes,Anatidae,Spatula,cyanoptera,1.0
+229,229,107,107,1590,144,1995,2023,28,Common Eider,Eider à duvet,Anseriformes,Anatidae,Somateria,mollissima,1.0
+230,230,93,93,1460,2026,1994,2023,29,Redhead,Fuligule à tête rouge,Anseriformes,Anatidae,Aythya,americana,1.0
+231,231,95,95,1480,353,1997,2023,26,Greater Scaup,Fuligule milouinan,Anseriformes,Anatidae,Aythya,marila,1.0
+232,232,392,392,4530,983,1996,2023,27,Brown-crested Flycatcher,Tyran de Wied,Passeriformes,Tyrannidae,Myiarchus,tyrannulus,1.0
+233,233,394,394,4550,126,1997,2023,26,Dusky-capped Flycatcher,Tyran olivâtre,Passeriformes,Tyrannidae,Myiarchus,tuberculifer,1.0
+234,234,98,98,1500,1925,1993,2023,30,Ring-necked Duck,Fuligule à collier,Anseriformes,Anatidae,Aythya,collaris,1.0
+235,235,123,123,1800,226,1997,2023,26,Tundra Swan,Cygne siffleur,Anseriformes,Anatidae,Cygnus,columbianus,1.0
+236,236,347,347,4140,348,1997,2023,26,Gilded Flicker,Pic chrysoïde,Piciformes,Picidae,Colaptes,chrysoides,1.0
+95,95,517,517,5650,605,1996,2023,27,Black-chinned Sparrow,Bruant à menton noir,Passeriformes,Passerellidae,Spizella,atrogularis,1.0
+96,96,518,518,5660,268,1997,2023,26,(White-winged Junco) Dark-eyed Junco,Junco ardoisé (à ailes blanches),Passeriformes,Passerellidae,Junco,hyemalis aikeni,1.0
+97,97,276,276,3480,2311,1996,2023,27,Ferruginous Hawk,Buse rouilleuse,Accipitriformes,Accipitridae,Buteo,regalis,1.0
+98,98,281,281,3560,482,1997,2023,26,Peregrine Falcon,Faucon pèlerin,Falconiformes,Falconidae,Falco,peregrinus,1.0
+99,99,602,602,6440,1446,1997,2023,26,Virginia's Warbler,Paruline de Virginia,Passeriformes,Parulidae,Leiothlypis,virginiae,1.0
+100,100,596,596,6390,4325,1995,2023,28,Worm-eating Warbler,Paruline vermivore,Passeriformes,Parulidae,Helmitheros,vermivorum,1.0
+101,101,627,627,6685,66,1997,2023,26,unid. Townsend's Warbler / Hermit Warbler,unid Paruline de Townsend / Paruline à tête jaune,Passeriformes,Parulidae,Setophaga,townsendi / occidentalis,1.0
+102,102,616,616,6580,1670,1996,2023,27,Cerulean Warbler,Paruline azurée,Passeriformes,Parulidae,Setophaga,cerulea,1.0
+103,103,609,609,6510,135,1997,2023,26,Olive Warbler,Fauvine des pins,Passeriformes,Peucedramidae,Peucedramus,taeniatus,1.0
+104,104,608,608,6500,1467,1996,2023,27,Cape May Warbler,Paruline tigrée,Passeriformes,Parulidae,Setophaga,tigrina,1.0
+105,105,650,650,6900,190,1997,2023,26,Red-faced Warbler,Paruline à face rouge,Passeriformes,Parulidae,Cardellina,rubrifrons,1.0
+106,106,651,651,6960,140,1997,2023,26,Eastern Yellow Wagtail,Bergeronnette de Béringie,Passeriformes,Motacillidae,Motacilla,tschutschensis,1.0
+107,107,629,629,6690,1814,1995,2023,28,Hermit Warbler,Paruline à tête jaune,Passeriformes,Parulidae,Setophaga,occidentalis,1.0
+108,108,630,630,6700,45,2000,2023,23,Kirtland's Warbler,Paruline de Kirtland,Passeriformes,Parulidae,Setophaga,kirtlandii,1.0
+109,109,621,621,6630,6209,1995,2023,28,Yellow-throated Warbler,Paruline à gorge jaune,Passeriformes,Parulidae,Setophaga,dominica,1.0
+110,110,180,180,2460,69,1997,2023,26,Semipalmated Sandpiper,Bécasseau semipalmé,Charadriiformes,Scolopacidae,Calidris,pusilla,1.0
+111,111,572,572,6180,552,1997,2023,26,Bohemian Waxwing,Jaseur boréal,Passeriformes,Bombycillidae,Bombycilla,garrulus,1.0
+112,112,585,585,6292,2664,1997,2023,26,Plumbeous Vireo,Viréo plombé,Passeriformes,Vireonidae,Vireo,plumbeus,1.0
+113,113,595,595,6380,1776,1995,2023,28,Swainson's Warbler,Paruline de Swainson,Passeriformes,Parulidae,Limnothlypis,swainsonii,1.0
+114,114,594,594,6370,5366,1995,2023,28,Prothonotary Warbler,Paruline orangée,Passeriformes,Parulidae,Protonotaria,citrea,1.0
+115,115,592,592,6340,795,1997,2023,26,Gray Vireo,Viréo gris,Passeriformes,Vireonidae,Vireo,vicinior,1.0
+116,116,565,565,6121,1060,1996,2023,27,Cave Swallow,Hirondelle à front brun,Passeriformes,Hirundinidae,Petrochelidon,fulva,1.0
+117,117,578,578,6230,86,1997,2021,24,Black-whiskered Vireo,Viréo à moustaches,Passeriformes,Vireonidae,Vireo,altiloquus,1.0
+118,118,575,575,6200,1317,1996,2023,27,Phainopepla,Phénopèple luisant,Passeriformes,Ptiliogonatidae,Phainopepla,nitens,1.0
+119,119,234,234,3095,9,2014,2023,9,Indian Peafowl,Paon bleu,Galliformes,Phasianidae,Pavo,cristatus,1.0
+120,120,228,228,3050,436,1997,2023,26,Greater Prairie-Chicken,Tétras des prairies,Galliformes,Phasianidae,Tympanuchus,cupido,1.0
+121,121,185,185,2510,36,1997,2018,21,Hudsonian Godwit,Barge hudsonienne,Charadriiformes,Scolopacidae,Limosa,haemastica,1.0
+122,122,295,295,3730,617,1997,2023,26,Eastern Screech-Owl,Petit-duc maculé,Strigiformes,Strigidae,Megascops,asio,1.0
+123,123,186,186,2540,1086,1995,2023,28,Greater Yellowlegs,Grand Chevalier,Charadriiformes,Scolopacidae,Tringa,melanoleuca,1.0
+124,124,588,588,6300,144,1997,2023,26,Black-capped Vireo,Viréo à tête noire,Passeriformes,Vireonidae,Vireo,atricapilla,1.0
+125,125,591,591,6330,3537,1996,2023,27,Bell's Vireo,Viréo de Bell,Passeriformes,Vireonidae,Vireo,bellii,1.0
+126,126,256,256,3290,3034,1996,2023,27,Mississippi Kite,Milan du Mississippi,Accipitriformes,Accipitridae,Ictinia,mississippiensis,1.0
+127,127,292,292,3700,130,1996,2023,27,Great Gray Owl,Chouette lapone,Strigiformes,Strigidae,Strix,nebulosa,1.0
+128,128,245,245,3190,3309,1996,2023,27,White-winged Dove,Tourterelle à ailes blanches,Columbiformes,Columbidae,Zenaida,asiatica,1.0
+129,129,275,275,3470,113,1997,2023,26,Rough-legged Hawk,Buse pattue,Accipitriformes,Accipitridae,Buteo,lagopus,1.0
+130,130,246,246,3200,3206,1996,2023,27,Common Ground Dove,Colombe à queue noire,Columbiformes,Columbidae,Columbina,passerina,1.0
+131,131,297,297,3732,112,1997,2023,26,Western Screech-Owl,Petit-duc des montagnes,Strigiformes,Strigidae,Megascops,kennicottii,1.0
+132,132,285,285,3620,1335,1996,2023,27,Crested Caracara,Caracara huppé,Falconiformes,Falconidae,Caracara,plancus,1.0
+133,133,287,287,3650,267,1997,2023,26,Barn Owl,Effraie des clochers,Strigiformes,Tytonidae,Tyto,alba,1.0
+134,134,289,289,3670,968,1996,2023,27,Short-eared Owl,Hibou des marais,Strigiformes,Strigidae,Asio,flammeus,1.0
+135,135,290,290,3680,5607,1996,2023,27,Barred Owl,Chouette rayée,Strigiformes,Strigidae,Strix,varia,1.0
+136,136,302,302,3780,2576,1996,2023,27,Burrowing Owl,Chevêche des terriers,Strigiformes,Strigidae,Athene,cunicularia,1.0
+137,137,303,303,3790,492,1996,2023,27,Northern Pygmy-Owl,Chevêchette naine,Strigiformes,Strigidae,Glaucidium,gnoma,1.0
+138,138,525,525,5730,4635,1995,2023,28,Black-throated Sparrow,Bruant à gorge noire,Passeriformes,Passerellidae,Amphispiza,bilineata,1.0
+139,139,527,527,5739,305,1996,2023,27,Bell's Sparrow,Bruant de Bell,Passeriformes,Passerellidae,Artemisiospiza,belli,1.0
+140,140,528,528,5740,136,1996,2023,27,unid. Sagebrush Sparrow / Bell's Sparrow,unid Bruant des armoises / Burant de Bell,Passeriformes,Passerellidae,Artemisiospiza,nevadensis / belli,1.0
+141,141,244,244,3180,195,1996,2023,27,White-tipped Dove,Colombe de Verreaux,Columbiformes,Columbidae,Leptotila,verreauxi,1.0
+142,142,545,545,5920,350,1997,2023,26,Abert's Towhee,Tohi d'Abert,Passeriformes,Passerellidae,Melozone,aberti,1.0
+143,143,547,547,5935,76,1997,2023,26,unid. Northern Cardinal / Pyrrhuloxia,unid Cardinal rouge / Cardinal pyrrhuloxia,Passeriformes,Cardinalidae,Cardinalis,cardinalis / sinuatus,1.0
+144,144,533,533,5800,1375,1996,2023,27,Rufous-crowned Sparrow,Tohi à calotte fauve,Passeriformes,Passerellidae,Aimophila,ruficeps,1.0
+145,145,216,216,2930,2078,1996,2023,27,Scaled Quail,Colin écaillé,Galliformes,Odontophoridae,Callipepla,squamata,1.0
+146,146,218,218,2950,1730,1996,2023,27,Gambel's Quail,Colin de Gambel,Galliformes,Odontophoridae,Callipepla,gambelii,1.0
+147,147,561,561,6090,565,1997,2023,26,Hepatic Tanager,Piranga orangé,Passeriformes,Cardinalidae,Piranga,flava,1.0
+84,84,335,335,4040,1203,1996,2023,27,Williamson's Sapsucker,Pic de Williamson,Piciformes,Picidae,Sphyrapicus,thyroideus,1.0
+85,85,337,337,4060,14051,1995,2023,28,Red-headed Woodpecker,Pic à tête rouge,Piciformes,Picidae,Melanerpes,erythrocephalus,1.0
+86,86,521,521,5677,743,1997,2023,26,(unid. race) Dark-eyed Junco,Junco ardoisé (groupe non identifié),Passeriformes,Passerellidae,Junco,hyemalis,1.0
+87,87,523,523,5690,2176,1997,2023,26,(Gray-headed Junco) Dark-eyed Junco,Junco ardoisé (à tête grise),Passeriformes,Passerellidae,Junco,hyemalis caniceps,1.0
+88,88,510,510,5570,530,1995,2023,28,Golden-crowned Sparrow,Bruant à couronne dorée,Passeriformes,Passerellidae,Zonotrichia,atricapilla,1.0
+89,89,512,512,5590,823,1997,2023,26,American Tree Sparrow,Bruant hudsonien,Passeriformes,Passerellidae,Spizelloides,arborea,1.0
+90,90,210,210,2860,128,1997,2023,26,American Oystercatcher,Huîtrier d'Amérique,Charadriiformes,Haematopodidae,Haematopus,palliatus,1.0
+91,91,196,196,2650,165,1997,2023,26,Whimbrel,Courlis corlieu,Charadriiformes,Scolopacidae,Numenius,phaeopus,1.0
+92,92,161,161,2230,154,1997,2023,26,Red-necked Phalarope,Phalarope à bec étroit,Charadriiformes,Scolopacidae,Phalaropus,lobatus,1.0
+93,93,529,529,5750,1216,1995,2023,28,Bachman's Sparrow,Bruant des pinèdes,Passeriformes,Passerellidae,Peucaea,aestivalis,1.0
+94,94,530,530,5760,142,1997,2023,26,Botteri's Sparrow,Bruant de Botteri,Passeriformes,Passerellidae,Peucaea,botterii,1.0
+158,158,49,49,640,815,1996,2023,27,Caspian Tern,Sterne caspienne,Charadriiformes,Laridae,Hydroprogne,caspia,1.0
+157,157,50,50,650,359,1997,2023,26,Royal Tern,Sterne royale,Charadriiformes,Laridae,Thalasseus,maximus,1.0
+156,156,542,542,5900,5132,1996,2023,27,Green-tailed Towhee,Tohi à queue verte,Passeriformes,Passerellidae,Pipilo,chlorurus,1.0
+155,155,555,555,6000,181,1997,2023,26,Varied Bunting,Passerin varié,Passeriformes,Cardinalidae,Passerina,versicolor,1.0
+154,154,548,548,5940,1608,1996,2023,27,Pyrrhuloxia,Cardinal pyrrhuloxia,Passeriformes,Cardinalidae,Cardinalis,sinuatus,1.0
+153,153,225,225,3010,329,1997,2023,26,Willow Ptarmigan,Lagopède des saules,Galliformes,Phasianidae,Lagopus,lagopus,1.0
+152,152,223,223,2980,162,1997,2023,26,Spruce Grouse,Tétras du Canada,Galliformes,Phasianidae,Canachites,canadensis,1.0
+151,151,221,221,2971,816,1996,2023,27,Sooty Grouse,Tétras fuligineux,Galliformes,Phasianidae,Dendragapus,fuliginosus,1.0
+150,150,220,220,2970,278,1997,2023,26,Dusky Grouse,Tétras sombre,Galliformes,Phasianidae,Dendragapus,obscurus,1.0
+149,149,235,235,3100,16141,1995,2023,28,Wild Turkey,Dindon sauvage,Galliformes,Phasianidae,Meleagris,gallopavo,1.0
+148,148,562,562,6100,14993,1994,2023,29,Summer Tanager,Piranga vermillon,Passeriformes,Cardinalidae,Piranga,rubra,1.0
+159,159,226,226,3020,81,1997,2023,26,Rock Ptarmigan,Lagopède alpin,Galliformes,Phasianidae,Lagopus,muta,1.0
+163,163,248,248,3210,1757,1996,2023,27,Inca Dove,Colombe inca,Columbiformes,Columbidae,Columbina,inca,1.0
+160,160,703,703,7460,2008,1996,2023,27,Verdin,Auripare verdin,Passeriformes,Remizidae,Auriparus,flaviceps,1.0
+161,161,48,48,634,104,1997,2023,26,unid. tern,unid Sterne sp.,Charadriiformes,Laridae,Tern,sp.,1.0
+162,162,719,719,7621,2,2021,2023,2,Clay-colored Thrush,Merle fauve,Passeriformes,Turdidae,Turdus,grayi,1.0
+175,175,415,415,4691,2397,1995,2023,28,Gray Flycatcher,Moucherolle gris,Passeriformes,Tyrannidae,Empidonax,wrightii,1.0
+176,176,675,675,7222,6433,1994,2023,29,Winter Wren,Troglodyte des forêts,Passeriformes,Troglodytidae,Troglodytes,hiemalis,1.0
+177,177,668,668,7150,7570,1994,2023,29,Rock Wren,Troglodyte des rochers,Passeriformes,Troglodytidae,Salpinctes,obsoletus,1.0
+178,178,682,682,7300,1826,1995,2023,28,Pygmy Nuthatch,Sittelle pygmée,Passeriformes,Sittidae,Sitta,pygmaea,1.0
+179,179,411,411,4679,694,1997,2023,26,unid. Empidonax flycatcher,unid Empidonax sp.,Passeriformes,Tyrannidae,Empidonax,sp.,1.0
+164,164,274,274,3460,109,1997,2023,26,Gray Hawk,Buse grise,Accipitriformes,Accipitridae,Buteo,plagiatus,1.0
+165,165,253,253,3270,1015,1997,2023,26,Swallow-tailed Kite,Naucler à queue fourchue,Accipitriformes,Accipitridae,Elanoides,forficatus,1.0
+166,166,255,255,3280,361,1996,2023,27,White-tailed Kite,Élanion à queue blanche,Accipitriformes,Accipitridae,Elanus,leucurus,1.0
+167,167,538,538,5860,510,1997,2023,26,Olive Sparrow,Tohi olive,Passeriformes,Passerellidae,Arremonops,rufivirgatus,1.0
+168,168,268,268,3410,224,1997,2023,26,White-tailed Hawk,Buse à queue blanche,Accipitriformes,Accipitridae,Geranoaetus,albicaudatus,1.0
+169,169,273,273,3451,319,1997,2023,26,unid. Buteo hawk,unid Buse sp.,Accipitriformes,Accipitridae,Buteo,sp.,1.0
+170,170,262,262,3340,576,1996,2023,27,American Goshawk,Autour d’Amérique,Accipitriformes,Accipitridae,Accipiter,atricapillus,1.0
+171,171,263,263,3350,461,1996,2023,27,Harris's Hawk,Buse de Harris,Accipitriformes,Accipitridae,Parabuteo,unicinctus,1.0
+172,172,267,267,3400,97,1997,2023,26,Zone-tailed Hawk,Buse à queue barrée,Accipitriformes,Accipitridae,Buteo,albonotatus,1.0
+173,173,543,543,5910,1672,1997,2023,26,Canyon Towhee,Tohi des canyons,Passeriformes,Passerellidae,Melozone,fusca,1.0
+174,174,661,661,7060,372,1996,2023,27,Long-billed Thrasher,Moqueur à long bec,Passeriformes,Mimidae,Toxostoma,longirostre,1.0
+191,191,428,428,4813,2347,1995,2023,28,Woodhouse's Scrub-Jay,Geai de Woodhouse,Passeriformes,Corvidae,Aphelocoma,woodhouseii,1.0
+192,192,447,447,4960,841,1996,2023,27,Bronzed Cowbird,Vacher bronzé,Passeriformes,Icteridae,Molothrus,aeneus,1.0
+193,193,451,451,5000,298,1997,2023,26,Tricolored Blackbird,Carouge de Californie,Passeriformes,Icteridae,Agelaius,tricolor,1.0
+194,194,436,436,4881,1344,1996,2023,27,unid. American Crow / Fish Crow,unid Corneille d'Amérique / Corneille de rivage,Passeriformes,Corvidae,Corvus,brachyrhynchos / ossifragus,1.0
+195,195,429,429,4820,181,1997,2023,26,Mexican Jay,Geai du Mexique,Passeriformes,Corvidae,Aphelocoma,wollweberi,1.0
+196,196,376,376,4402,1065,1996,2023,27,unid. hummingbird,unid Colibri sp.,Apodiformes,Trochilidae,Trochilid,sp.,1.0
+197,197,460,460,5050,821,1996,2023,27,Hooded Oriole,Oriole masqué,Passeriformes,Icteridae,Icterus,cucullatus,1.0
+198,198,466,466,5090,785,1995,2023,28,Rusty Blackbird,Quiscale rouilleux,Passeriformes,Icteridae,Euphagus,carolinus,1.0
+199,199,455,455,5012,361,1997,2023,26,unid. Meadowlark,unid Sturnelle,Passeriformes,Icteridae,Sturnella,sp.,1.0
+200,200,456,456,5030,167,1996,2023,27,Audubon's Oriole,Oriole d'Audubon,Passeriformes,Icteridae,Icterus,graduacauda,1.0
+201,201,115,115,1710,187,1997,2023,26,Greater White-fronted Goose,Oie rieuse,Anseriformes,Anatidae,Anser,albifrons,1.0
+202,202,101,101,1520,527,1995,2023,28,Barrow's Goldeneye,Garrot d'Islande,Anseriformes,Anatidae,Bucephala,islandica,1.0
+203,203,459,459,5040,1946,1996,2023,27,Scott's Oriole,Oriole jaune-verdâtre,Passeriformes,Icteridae,Icterus,parisorum,1.0
+204,204,103,103,1540,170,1997,2023,26,Long-tailed Duck,Harelde kakawi,Anseriformes,Anatidae,Clangula,hyemalis,1.0
+205,205,63,63,1170,131,1997,2023,26,Northern Gannet,Fou de Bassan,Suliformes,Sulidae,Morus,bassanus,1.0
+206,206,55,55,710,574,1997,2023,26,Arctic Tern,Sterne arctique,Charadriiformes,Laridae,Sterna,paradisaea,1.0
+207,207,64,64,1180,1489,1997,2023,26,Anhinga,Anhinga d'Amérique,Suliformes,Anhingidae,Anhinga,anhinga,1.0
+208,208,82,82,1331,113,1997,2023,26,Mexican Duck,Canard du Mexique,Anseriformes,Anatidae,Anas,diazi,1.0
+209,209,70,70,1210,347,1997,2023,26,Neotropic Cormorant,Cormoran vigua,Suliformes,Phalacrocoracidae,Nannopterum,brasilianum,1.0
+210,210,71,71,1220,63,1997,2019,22,Brandt's Cormorant,Cormoran de Brandt,Suliformes,Phalacrocoracidae,Urile,penicillatus,1.0
+211,211,74,74,1260,516,1997,2023,26,Brown Pelican,Pélican brun,Pelecaniformes,Pelecanidae,Pelecanus,occidentalis,1.0
+180,180,405,405,4642,229,1996,2023,27,(unid. Cordilleran / Pac-slope) Western Flycatcher,Moucherolle obscur (groupe non identifié),Passeriformes,Tyrannidae,Empidonax,difficilis,1.0
+181,181,418,418,4720,84,1997,2023,26,Northern Beardless-Tyrannulet,Tyranneau imberbe,Passeriformes,Tyrannidae,Camptostoma,imberbe,1.0
+182,182,417,417,4710,875,1997,2023,26,Vermilion Flycatcher,Moucherolle vermillon,Passeriformes,Tyrannidae,Pyrocephalus,rubinus,1.0
+183,183,704,704,7470,324,1997,2023,26,Arctic Warbler,Pouillot boréal,Passeriformes,Phylloscopidae,Phylloscopus,borealis,1.0
+184,184,708,708,7520,1044,1996,2023,27,Black-tailed Gnatcatcher,Gobemoucheron à queue noire,Passeriformes,Polioptilidae,Polioptila,melanura,1.0
+185,185,662,662,7070,2023,1996,2023,27,Curve-billed Thrasher,Moqueur à bec courbe,Passeriformes,Mimidae,Toxostoma,curvirostre,1.0
+186,186,422,422,4760,514,1996,2023,27,Yellow-billed Magpie,Pie à bec jaune,Passeriformes,Corvidae,Pica,nuttalli,1.0
+187,187,434,434,4870,1585,1996,2023,27,Chihuahuan Raven,Corbeau à cou blanc,Passeriformes,Corvidae,Corvus,cryptoleucus,1.0
+188,188,441,441,4920,2237,1995,2023,28,Pinyon Jay,Geai des pinèdes,Passeriformes,Corvidae,Gymnorhinus,cyanocephalus,1.0
+189,189,440,440,4910,3199,1995,2023,28,Clark's Nutcracker,Cassenoix d'Amérique,Passeriformes,Corvidae,Nucifraga,columbiana,1.0
+190,190,430,430,4830,269,1997,2023,26,Green Jay,Geai vert,Passeriformes,Corvidae,Cyanocorax,yncas,1.0
+222,222,124,124,1810,866,1997,2023,26,Trumpeter Swan,Cygne trompette,Anseriformes,Anatidae,Cygnus,buccinator,1.0
+221,221,126,126,1840,2740,1995,2023,28,White Ibis,Ibis blanc,Pelecaniformes,Threskiornithidae,Eudocimus,albus,1.0
+220,220,130,130,1880,820,1996,2023,27,Wood Stork,Tantale d'Amérique,Ciconiiformes,Ciconiidae,Mycteria,americana,1.0
+219,219,34,34,490,208,1997,2023,26,Western Gull,Goéland d'Audubon,Charadriiformes,Laridae,Larus,occidentalis,1.0
+218,218,30,30,420,170,1997,2023,26,Glaucous Gull,Goéland bourgmestre,Charadriiformes,Laridae,Larus,hyperboreus,1.0
+217,217,29,29,400,137,1997,2023,26,Black-legged Kittiwake,Mouette tridactyle,Charadriiformes,Laridae,Rissa,tridactyla,1.0
+216,216,433,433,4865,343,1997,2023,26,unid. Chihuahuan Raven / Common Raven,unid Grand Corbeau / Corbeau à cou blanc,Passeriformes,Corvidae,Corvus,cryptoleucus / corax,1.0
+215,215,425,425,4790,116,1997,2023,26,Florida Scrub-Jay,Geai à gorge blanche,Passeriformes,Corvidae,Aphelocoma,coerulescens,1.0
+214,214,77,77,1300,391,1997,2023,26,Red-breasted Merganser,Harle huppé,Anseriformes,Anatidae,Mergus,serrator,1.0
+213,213,667,667,7130,2591,1996,2023,27,Cactus Wren,Troglodyte des cactus,Passeriformes,Troglodytidae,Campylorhynchus,brunneicapillus,1.0
+212,212,666,666,7120,462,1997,2023,26,Crissal Thrasher,Moqueur cul-roux,Passeriformes,Mimidae,Toxostoma,crissale,1.0
+223,223,81,81,1330,871,1996,2023,27,American Black Duck,Canard noir,Anseriformes,Anatidae,Anas,rubripes,1.0
+12,12,663,663,7080,280,1997,2023,26,Bendire's Thrasher,Moqueur de Bendire,Passeriformes,Mimidae,Toxostoma,bendirei,1.0
+13,13,665,665,7110,164,1997,2023,26,LeConte's Thrasher,Moqueur de LeConte,Passeriformes,Mimidae,Toxostoma,lecontei,1.0
+14,14,12,12,100,291,1997,2023,26,Pacific Loon,Plongeon du Pacifique,Gaviiformes,Gaviidae,Gavia,pacifica,1.0
+15,15,403,403,4640,2369,1996,2023,27,(Cordilleran Flycatcher) Western Flycatcher,Moucherolle obscur (groupe occidentalis),Passeriformes,Tyrannidae,Empidonax,difficilis occidentalis,1.0
+16,16,388,388,4480,2314,1996,2023,27,Cassin's Kingbird,Tyran de Cassin,Passeriformes,Tyrannidae,Tyrannus,vociferans,1.0
+17,17,389,389,4490,306,1996,2023,27,Great Kiskadee,Tyran quiquivi,Passeriformes,Tyrannidae,Pitangus,sulphuratus,1.0
+18,18,360,360,4250,1910,1995,2023,28,White-throated Swift,Martinet à gorge blanche,Apodiformes,Apodidae,Aeronautes,saxatalis,1.0
+19,19,351,351,4180,1108,1996,2023,27,Common Poorwill,Engoulevent de Nuttall,Caprimulgiformes,Caprimulgidae,Phalaenoptilus,nuttallii,1.0
+20,20,352,352,4190,136,1997,2023,26,Common Pauraque,Engoulevent pauraqué,Caprimulgiformes,Caprimulgidae,Nyctidromus,albicollis,1.0
+21,21,341,341,4100,1274,1996,2023,27,Golden-fronted Woodpecker,Pic à front doré,Piciformes,Picidae,Melanerpes,aurifrons,1.0
+22,22,342,342,4110,556,1997,2023,26,Gila Woodpecker,Pic des saguaros,Piciformes,Picidae,Melanerpes,uropygialis,1.0
+23,23,344,344,4123,1182,1997,2023,26,(unid. Red / Yellow Shafted) Northern Flicker,Pic flamboyant (groupe non identifié),Piciformes,Picidae,Colaptes,auratus,1.0
+24,24,475,475,5180,3965,1995,2023,28,Cassin's Finch,Roselin de Cassin,Passeriformes,Fringillidae,Haemorhous,cassinii,1.0
+25,25,364,364,4290,2319,1996,2023,27,Black-chinned Hummingbird,Colibri à gorge noire,Apodiformes,Trochilidae,Archilochus,alexandri,1.0
+26,26,366,366,4300,372,1997,2023,26,Costa's Hummingbird,Colibri de Costa,Apodiformes,Trochilidae,Calypte,costae,1.0
+27,27,382,382,4450,110,1997,2023,26,Gray Kingbird,Tyran gris,Passeriformes,Tyrannidae,Tyrannus,dominicensis,1.0
+28,28,385,385,4461,451,1996,2023,27,Couch's Kingbird,Tyran de Couch,Passeriformes,Tyrannidae,Tyrannus,couchii,1.0
+29,29,356,356,4210,1445,1996,2023,27,Lesser Nighthawk,Engoulevent minime,Caprimulgiformes,Caprimulgidae,Chordeiles,acutipennis,1.0
+30,30,368,368,4320,3065,1997,2023,26,Broad-tailed Hummingbird,Colibri à queue large,Apodiformes,Trochilidae,Selasphorus,platycercus,1.0
+31,31,597,597,6410,3471,1995,2023,28,Blue-winged Warbler,Paruline à ailes bleues,Passeriformes,Parulidae,Vermivora,cyanoptera,1.0
+32,32,611,611,6540,5285,1994,2023,29,Black-throated Blue Warbler,Paruline bleue,Passeriformes,Parulidae,Setophaga,caerulescens,1.0
+33,33,600,600,6420,1235,1997,2023,26,Golden-winged Warbler,Paruline à ailes dorées,Passeriformes,Parulidae,Vermivora,chrysoptera,1.0
+34,34,601,601,6430,790,1996,2023,27,Lucy's Warbler,Paruline de Lucy,Passeriformes,Parulidae,Leiothlypis,luciae,1.0
+35,35,689,689,7340,189,1997,2023,26,Bridled Titmouse,Mésange arlequin,Passeriformes,Paridae,Baeolophus,wollweberi,1.0
+36,36,691,691,7351,146,1997,2023,26,unid. western chickadee species,unid Mésange sp. de l'Ouest,Passeriformes,Paridae,Poecile,sp.,1.0
+37,37,678,678,7260,6532,1995,2023,28,Brown Creeper,Grimpereau brun,Passeriformes,Certhiidae,Certhia,americana,1.0
+38,38,687,687,7331,1420,1997,2023,26,Juniper Titmouse,Mésange des genévriers,Passeriformes,Paridae,Baeolophus,ridgwayi,1.0
+39,39,681,681,7290,4933,1994,2023,29,Brown-headed Nuthatch,Sittelle à tête brune,Passeriformes,Sittidae,Sitta,pusilla,1.0
+40,40,13,13,110,318,1997,2023,26,Red-throated Loon,Plongeon catmarin,Gaviiformes,Gaviidae,Gavia,stellata,1.0
+41,41,18,18,230,354,1997,2023,26,Marbled Murrelet,Guillemot marbré,Charadriiformes,Alcidae,Brachyramphus,marmoratus,1.0
+42,42,726,726,8110,7,2016,2023,7,Scaly-breasted Munia,Capucin damier,Passeriformes,Estrildidae,Lonchura,punctulata,1.0
+43,43,684,684,7315,74,1997,2023,26,unid. Tufted Titmouse / Black-crested Titmouse,unid Mésange bicolore / Mésange à plumet noir,Passeriformes,Paridae,Baeolophus,bicolor / atricristatus,1.0
+44,44,685,685,7320,1098,1996,2023,27,Black-crested Titmouse,Mésange à plumet noir,Passeriformes,Paridae,Baeolophus,atricristatus,1.0
+45,45,732,732,22860,13959,1997,2023,26,Eurasian Collared-Dove,Tourterelle turque,Columbiformes,Columbidae,Streptopelia,decaocto,1.0
+46,46,622,622,6640,780,1997,2023,26,Grace's Warbler,Paruline de Grace,Passeriformes,Parulidae,Setophaga,graciae,1.0
+47,47,652,652,6970,240,1997,2023,26,American Pipit,Pipit d'Amérique,Passeriformes,Motacillidae,Anthus,rubescens,1.0
+48,48,653,653,6990,2,2006,2008,2,Red-throated Pipit,Pipit à gorge rousse,Passeriformes,Motacillidae,Anthus,cervinus,1.0
+49,49,655,655,7010,893,1996,2023,27,American Dipper,Cincle d'Amérique,Passeriformes,Cinclidae,Cinclus,mexicanus,1.0
+50,50,647,647,6880,153,1997,2023,26,Painted Redstart,Paruline à ailes blanches,Passeriformes,Parulidae,Myioborus,pictus,1.0
+51,51,649,649,6883,463,1997,2023,26,Eurasian Tree Sparrow,Moineau friquet,Passeriformes,Passeridae,Passer,montanus,1.0
+52,52,491,491,5310,427,1996,2023,27,Lawrence's Goldfinch,Chardonneret gris,Passeriformes,Fringillidae,Spinus,lawrencei,1.0
+53,53,480,480,5220,2317,1996,2023,27,White-winged Crossbill,Bec-croisé bifascié,Passeriformes,Fringillidae,Loxia,leucoptera,1.0
+54,54,469,469,5120,4114,1996,2023,27,Great-tailed Grackle,Quiscale à longue queue,Passeriformes,Icteridae,Quiscalus,mexicanus,1.0
+55,55,471,471,5135,85,1997,2023,26,unid. Boat-tailed Grackle / Great-tailed Grackle,unid Quiscale des marais / Quiscale à longue queue,Passeriformes,Icteridae,Quiscalus,major / mexicanus,1.0
+56,56,78,78,1310,944,1996,2023,27,Hooded Merganser,Harle couronné,Anseriformes,Anatidae,Lophodytes,cucullatus,1.0
+57,57,426,426,4810,111,1997,2022,25,unid. California Scrub-Jay / Woodhouse's Scrub-Jay,unid Geai buissonnier / Geai de Woodhouse,Passeriformes,Corvidae,Aphelocoma,californica / woodhouseii,1.0
+58,58,413,413,4689,231,1997,2023,26,unid. Hammond's Flycatcher / Dusky Flycatcher,unid Moucherolle Hammond's / Moucherolle Dusky,Passeriformes,Tyrannidae,Empidonax,hammondii / oberholseri,1.0
+59,59,28,28,380,203,1997,2023,26,Long-tailed Jaeger,Labbe à longue queue,Charadriiformes,Stercorariidae,Stercorarius,longicaudus,1.0
+60,60,40,40,550,1088,1995,2023,28,Short-billed Gull,Goéland à bec court,Charadriiformes,Laridae,Larus,brachyrhynchus,1.0
+61,61,312,312,3850,2873,1996,2023,27,Greater Roadrunner,Grand Géocoucou,Cuculiformes,Cuculidae,Geococcyx,californianus,1.0
+62,62,311,311,3840,112,1997,2023,26,Groove-billed Ani,Ani à bec cannelé,Cuculiformes,Cuculidae,Crotophaga,sulcirostris,1.0
+63,63,308,308,3826,3,2019,2022,3,Red-crowned Parrot,Amazone à joues vertes,Psittaciformes,Psittacidae,Amazona,viridigenalis,1.0
+238,238,269,269,3420,8172,1990,2023,33,Swainson's Hawk,Buse de Swainson,Accipitriformes,Accipitridae,Buteo,swainsoni,0.9696969696969696
+240,240,725,725,7680,7772,1991,2023,32,Mountain Bluebird,Merlebleu azuré,Passeriformes,Turdidae,Sialia,currucoides,0.96875
+239,239,571,571,6170,18960,1991,2023,32,Northern Rough-winged Swallow,Hirondelle à ailes hérissées,Passeriformes,Hirundinidae,Stelgidopteryx,serripennis,0.96875
+241,241,407,407,4660,12669,1991,2023,32,Willow Flycatcher,Moucherolle des saules,Passeriformes,Tyrannidae,Empidonax,traillii,0.96875
+247,247,3,3,20,1160,1993,2023,30,Red-necked Grebe,Grèbe jougris,Podicipediformes,Podicipedidae,Podiceps,grisegena,0.9666666666666668
+244,244,97,97,1490,2713,1993,2023,30,Lesser Scaup,Petit Fuligule,Anseriformes,Anatidae,Aythya,affinis,0.9666666666666668
+246,246,677,677,7250,3957,1993,2023,30,Marsh Wren,Troglodyte des marais,Passeriformes,Troglodytidae,Cistothorus,palustris,0.9666666666666668
+243,243,580,580,6260,1697,1993,2023,30,Philadelphia Vireo,Viréo de Philadelphie,Passeriformes,Vireonidae,Vireo,philadelphicus,0.9666666666666668
+242,242,113,113,1670,2259,1993,2023,30,Ruddy Duck,Érismature rousse,Anseriformes,Anatidae,Oxyura,jamaicensis,0.9666666666666668
+245,245,224,224,3000,3717,1993,2023,30,Ruffed Grouse,Gélinotte huppée,Galliformes,Phasianidae,Bonasa,umbellus,0.9666666666666668
+248,248,669,669,7170,1721,1994,2023,29,Canyon Wren,Troglodyte des canyons,Passeriformes,Troglodytidae,Catherpes,mexicanus,0.9655172413793104
+249,249,645,645,6860,3127,1994,2023,29,Canada Warbler,Paruline du Canada,Passeriformes,Parulidae,Cardellina,canadensis,0.9655172413793104
+252,252,213,213,2882,984,1995,2023,28,Chukar,Perdrix choukar,Galliformes,Phasianidae,Alectoris,chukar,0.9642857142857144
+251,251,176,176,2420,229,1995,2023,28,Least Sandpiper,Bécasseau minuscule,Charadriiformes,Scolopacidae,Calidris,minutilla,0.9642857142857144
+254,254,165,165,2280,471,1995,2023,28,American Woodcock,Bécasse d'Amérique,Charadriiformes,Scolopacidae,Scolopax,minor,0.9642857142857144
+253,253,1,1,11,266,1995,2023,28,Clark's Grebe,Grèbe à face blanche,Podicipediformes,Podicipedidae,Aechmophorus,clarkii,0.9642857142857144
+250,250,96,96,1489,131,1995,2023,28,unid. Greater Scaup / Lesser Scaup,unid Fuligule milouinan / Petit Fuligule,Anseriformes,Anatidae,Aythya,marila / affinis,0.9642857142857144
+255,255,294,294,3720,101,1996,2023,27,Northern Saw-whet Owl,Petite Nyctale,Strigiformes,Strigidae,Aegolius,acadicus,0.9629629629629628
+256,256,288,288,3660,64,1997,2023,26,Long-eared Owl,Hibou moyen-duc,Strigiformes,Strigidae,Asio,otus,0.9615384615384616
+267,267,265,265,3380,80,1997,2023,26,(Harlan's Hawk) Red-tailed Hawk,Buse à queue rousse (groupe harlani),Accipitriformes,Accipitridae,Buteo,jamaicensis harlani,0.9615384615384616
+257,257,27,27,370,68,1997,2023,26,Parasitic Jaeger,Labbe parasite,Charadriiformes,Stercorariidae,Stercorarius,parasiticus,0.9615384615384616
+258,258,112,112,1660,78,1997,2023,26,Surf Scoter,Macreuse à front blanc,Anseriformes,Anatidae,Melanitta,perspicillata,0.9615384615384616
+263,263,167,167,2310,70,1997,2023,26,Short-billed Dowitcher,Bécassin roux,Charadriiformes,Scolopacidae,Limnodromus,griseus,0.9615384615384616
+259,259,155,155,2150,162,1997,2023,26,Yellow Rail,Râle jaune,Gruiformes,Rallidae,Coturnicops,noveboracensis,0.9615384615384616
+262,262,56,56,730,66,1997,2023,26,Aleutian Tern,Sterne des Aléoutiennes,Charadriiformes,Laridae,Onychoprion,aleuticus,0.9615384615384616
+261,261,495,495,5370,52,1997,2023,26,Smith's Longspur,Plectrophane de Smith,Passeriformes,Calcariidae,Calcarius,pictus,0.9615384615384616
+260,260,128,128,1861,162,1997,2023,26,unid. Glossy Ibis / White-faced Ibis,unid Ibis falcinelle / Ibis à face blanche,Pelecaniformes,Threskiornithidae,Plegadis,falcinellus / chihi,0.9615384615384616
+264,264,327,327,3975,53,1997,2023,26,Arizona Woodpecker,Pic d'Arizona,Piciformes,Picidae,Dryobates,arizonae,0.9615384615384616
+266,266,307,307,3824,50,1997,2023,26,Monk Parakeet,Conure veuve,Psittaciformes,Psittacidae,Myiopsitta,monachus,0.9615384615384616
+265,265,377,377,4410,59,1997,2023,26,Broad-billed Hummingbird,Colibri circé,Apodiformes,Trochilidae,Cynanthus,latirostris,0.9615384615384616
+268,268,109,109,1630,74,1997,2023,26,Black Scoter,Macreuse à bec jaune,Anseriformes,Anatidae,Melanitta,americana,0.9615384615384616
+270,270,566,566,6122,181,1998,2023,25,unid. Cave Swallow / Cliff Swallow,unid Hirondelle à front blanc / à front brun,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota / fulva,0.96
+272,272,522,522,5680,96,1998,2023,25,(Pink-sided Junco) Dark-eyed Junco,Junco ardoisé (groupe mearnsi),Passeriformes,Passerellidae,Junco,hyemalis mearnsi,0.96
+271,271,240,240,3140,56,1998,2023,25,White-crowned Pigeon,Pigeon à couronne blanche,Columbiformes,Columbidae,Patagioenas,leucocephala,0.96
+269,269,381,381,4447,72,1998,2023,25,unid. Cassin's Kingbird / Western Kingbird,unid Tyran de Cassin / Tyran de l'Ouest,Passeriformes,Tyrannidae,Tyrannus,vociferans / verticalis,0.96
+273,273,100,100,1512,51,1999,2023,24,unid. Common Goldeneye / Barrow's Goldeneye,unid Garrot à oeil d'or / Garrot d'Islande,Anseriformes,Anatidae,Bucephala,clangula / islandica,0.9583333333333334
+274,274,437,437,4882,25,1998,2021,23,,,,,,,0.9565217391304348
+275,275,313,313,3860,34,1997,2018,21,Mangrove Cuckoo,Coulicou manioc,Cuculiformes,Cuculidae,Coccyzus,minor,0.9523809523809524
+288,288,676,676,7240,4142,1991,2023,32,Sedge Wren,Troglodyte à bec court,Passeriformes,Troglodytidae,Cistothorus,stellaris,0.9375
+279,279,626,626,6680,3577,1991,2023,32,Townsend's Warbler,Paruline de Townsend,Passeriformes,Parulidae,Setophaga,townsendi,0.9375
+278,278,656,656,7020,4490,1991,2023,32,Sage Thrasher,Moqueur des armoises,Passeriformes,Mimidae,Oreoscoptes,montanus,0.9375
+277,277,478,478,5210,5276,1991,2023,32,Red Crossbill,Bec-croisé des sapins,Passeriformes,Fringillidae,Loxia,curvirostra,0.9375
+276,276,711,711,7540,4216,1991,2023,32,Townsend's Solitaire,Solitaire de Townsend,Passeriformes,Turdidae,Myadestes,townsendi,0.9375
+283,283,412,412,4680,5771,1991,2023,32,Hammond's Flycatcher,Moucherolle de Hammond,Passeriformes,Tyrannidae,Empidonax,hammondii,0.9375
+282,282,515,515,5620,7343,1991,2023,32,Brewer's Sparrow,Bruant de Brewer,Passeriformes,Passerellidae,Spizella,breweri,0.9375
+281,281,526,526,5738,2331,1991,2023,32,Sagebrush Sparrow,Bruant des armoises,Passeriformes,Passerellidae,Artemisiospiza,nevadensis,0.9375
+280,280,414,414,4690,6428,1991,2023,32,Dusky Flycatcher,Moucherolle sombre,Passeriformes,Tyrannidae,Empidonax,oberholseri,0.9375
+284,284,332,332,4021,3556,1991,2023,32,Red-naped Sapsucker,Pic à nuque rouge,Piciformes,Picidae,Sphyrapicus,nuchalis,0.9375
+285,285,278,278,3520,5660,1991,2023,32,Bald Eagle,Pygargue à tête blanche,Accipitriformes,Accipitridae,Haliaeetus,leucocephalus,0.9375
+286,286,39,39,540,5989,1991,2023,32,Ring-billed Gull,Goéland à bec cerclé,Charadriiformes,Laridae,Larus,delawarensis,0.9375
+287,287,697,697,7380,6948,1991,2023,32,Mountain Chickadee,Mésange de Gambel,Passeriformes,Paridae,Poecile,gambeli,0.9375
+289,289,280,280,3550,1570,1992,2023,31,Prairie Falcon,Faucon des prairies,Falconiformes,Falconidae,Falco,mexicanus,0.935483870967742
+294,294,4,4,30,623,1993,2023,30,Horned Grebe,Grèbe esclavon,Podicipediformes,Podicipedidae,Podiceps,auritus,0.9333333333333332
+293,293,94,94,1470,1151,1993,2023,30,Canvasback,Fuligule à dos blanc,Anseriformes,Anatidae,Aythya,valisineria,0.9333333333333332
+291,291,110,110,1650,123,1993,2023,30,White-winged Scoter,Macreuse à ailes blanches,Anseriformes,Anatidae,Melanitta,deglandi,0.9333333333333332
+292,292,282,282,3570,1694,1993,2023,30,Merlin,Faucon émerillon,Falconiformes,Falconidae,Falco,columbarius,0.9333333333333332
+290,290,102,102,1530,1362,1993,2023,30,Bufflehead,Petit Garrot,Anseriformes,Anatidae,Bucephala,albeola,0.9333333333333332
+295,295,211,211,2870,91,1994,2023,29,Black Oystercatcher,Huîtrier de Bachman,Charadriiformes,Haematopodidae,Haematopus,bachmani,0.9310344827586208
+299,299,576,576,6210,55,1997,2023,26,Northern Shrike,Pie-grièche boréale,Passeriformes,Laniidae,Lanius,borealis,0.9230769230769232
+297,297,69,69,1207,36,1997,2023,26,unid. west coast cormorant,unid Cormoran de la côte ouest,Suliformes,Phalacrocoracidae,Urile,sp.,0.9230769230769232
+298,298,624,624,6660,60,1997,2023,26,Golden-cheeked Warbler,Paruline à dos noir,Passeriformes,Parulidae,Setophaga,chrysoparia,0.9230769230769232
+296,296,219,219,2960,92,1997,2023,26,Montezuma Quail,Colin arlequin,Galliformes,Odontophoridae,Cyrtonyx,montezumae,0.9230769230769232
+301,301,229,229,3070,63,1997,2021,24,Lesser Prairie-Chicken,Tétras pâle,Galliformes,Phasianidae,Tympanuchus,pallidicinctus,0.9166666666666666
+300,300,315,315,3875,65,1999,2023,24,unid. Yellow-billed Cuckoo / Black-billed Cuckoo,unid Coulicou à bec jaune / Coulicou à bec noir,Cuculiformes,Cuculidae,Coccyzus,americanus / erythropthalmus,0.9166666666666666
+302,302,75,75,1280,53,1997,2021,24,Magnificent Frigatebird,Frégate superbe,Suliformes,Fregatidae,Fregata,magnificens,0.9166666666666666
+303,303,37,37,530,1850,1990,2023,33,California Gull,Goéland de Californie,Charadriiformes,Laridae,Larus,californicus,0.9090909090909092
+304,304,76,76,1290,3307,1990,2023,33,Common Merganser,Grand Harle,Anseriformes,Anatidae,Mergus,merganser,0.9090909090909092
+305,305,159,159,2210,5058,1991,2023,32,American Coot,Foulque d'Amérique,Gruiformes,Rallidae,Fulica,americana,0.90625
+309,309,372,372,4360,1071,1991,2023,32,Calliope Hummingbird,Colibri calliope,Apodiformes,Trochilidae,Selasphorus,calliope,0.90625
+306,306,277,277,3490,2815,1991,2023,32,Golden Eagle,Aigle royal,Accipitriformes,Accipitridae,Aquila,chrysaetos,0.90625
+307,307,558,558,6050,3825,1991,2023,32,Lark Bunting,Bruant noir et blanc,Passeriformes,Passerellidae,Calamospiza,melanocorys,0.90625
+308,308,259,259,3320,1726,1991,2023,32,Sharp-shinned Hawk,Épervier brun,Accipitriformes,Accipitridae,Accipiter,striatus,0.90625
+311,311,147,147,2060,7519,1991,2023,32,Sandhill Crane,Grue du Canada,Gruiformes,Gruidae,Antigone,canadensis,0.90625
+310,310,473,473,5150,1571,1991,2023,32,Pine Grosbeak,Durbec des sapins,Passeriformes,Fringillidae,Pinicola,enucleator,0.90625
+312,312,232,232,3090,521,1991,2023,32,Greater Sage-Grouse,Tétras des armoises,Galliformes,Phasianidae,Centrocercus,urophasianus,0.90625
+313,313,133,133,1920,27,1999,2018,19,(Great White Heron) Great Blue Heron,Grand Héron (blanche),Pelecaniformes,Ardeidae,Ardea,herodias occidentalis,0.8947368421052632
+314,314,20,20,270,53,1995,2023,28,Black Guillemot,Guillemot à miroir,Charadriiformes,Alcidae,Cepphus,grylle,0.8928571428571429
+319,319,479,479,5212,23,1997,2023,26,unid. Cassia Crossbill / Red Crossbill,Unid Bec-croisé de l'Idaho / des sapins,Passeriformes,Fringillidae,Loxia,sinesciuris / curvirostra,0.8846153846153846
+322,322,181,181,2470,78,1997,2023,26,Western Sandpiper,Bécasseau d'Alaska,Charadriiformes,Scolopacidae,Calidris,mauri,0.8846153846153846
+318,318,399,399,4600,46,1997,2023,26,Greater Pewee,Moucherolle de Coues,Passeriformes,Tyrannidae,Contopus,pertinax,0.8846153846153846
+323,323,692,692,7352,70,1997,2023,26,unid. Carolina Chickadee / Black-capped Chickadee,unid Mésange de Caroline / Mésange à tête noire,Passeriformes,Paridae,Poecile,carolinensis / atricapillus,0.8846153846153846
+321,321,524,524,5700,56,1997,2023,26,Yellow-eyed Junco,Junco aux yeux jaunes,Passeriformes,Passerellidae,Junco,phaeonotus,0.8846153846153846
+317,317,390,390,4510,39,1997,2023,26,Sulphur-bellied Flycatcher,Tyran tigré,Passeriformes,Tyrannidae,Myiodynastes,luteiventris,0.8846153846153846
+316,316,205,205,2800,49,1997,2023,26,Wilson's Plover,Pluvier de Wilson,Charadriiformes,Charadriidae,Charadrius,wilsonia,0.8846153846153846
+315,315,236,236,3110,33,1997,2023,26,Plain Chachalaca,Ortalide chacamel,Galliformes,Cracidae,Ortalis,vetula,0.8846153846153846
+320,320,204,204,2780,70,1997,2023,26,Snowy Plover,Pluvier neigeux,Charadriiformes,Charadriidae,Charadrius,nivosus,0.8846153846153846
+325,325,191,191,2590,53,1998,2023,25,Wandering Tattler,Chevalier errant,Charadriiformes,Scolopacidae,Tringa,incana,0.88
+324,324,532,532,5790,81,1998,2023,25,Rufous-winged Sparrow,Bruant à épaulettes,Passeriformes,Passerellidae,Peucaea,carpalis,0.88
+327,327,163,163,2250,1984,1990,2023,33,American Avocet,Avocette d'Amérique,Charadriiformes,Recurvirostridae,Recurvirostra,americana,0.8787878787878788
+326,326,162,162,2240,2365,1990,2023,33,Wilson's Phalarope,Phalarope de Wilson,Charadriiformes,Scolopacidae,Phalaropus,tricolor,0.8787878787878788
+333,333,357,357,4220,228,1991,2023,32,Black Swift,Martinet sombre,Apodiformes,Apodidae,Cypseloides,niger,0.875
+328,328,367,367,4310,1853,1991,2023,32,Anna's Hummingbird,Colibri d'Anna,Apodiformes,Trochilidae,Calypte,anna,0.875
+332,332,72,72,1230,117,1991,2023,32,Pelagic Cormorant,Cormoran pélagique,Suliformes,Phalacrocoracidae,Urile,pelagicus,0.875
+330,330,0,0,10,1007,1991,2023,32,Western Grebe,Grèbe élégant,Podicipediformes,Podicipedidae,Aechmophorus,occidentalis,0.875
+331,331,25,25,320,28,1999,2023,24,Razorbill,Petit Pingouin,Charadriiformes,Alcidae,Alca,torda,0.875
+329,329,24,24,315,8,2007,2015,8,unid. Common Murre / Thick-billed Murre,unid Guillemot marmette / Guillemot de Brünnich,Charadriiformes,Laridae,Uria,aalge / lomvia,0.875
+334,334,680,680,7280,16012,1987,2023,36,Red-breasted Nuthatch,Sittelle à poitrine rousse,Passeriformes,Sittidae,Sitta,canadensis,0.8611111111111112
+335,335,496,496,5380,1349,1990,2023,33,Chestnut-collared Longspur,Plectrophane à ventre noir,Passeriformes,Calcariidae,Calcarius,ornatus,0.8484848484848485
+337,337,195,195,2640,3689,1990,2023,33,Long-billed Curlew,Courlis à long bec,Charadriiformes,Scolopacidae,Numenius,americanus,0.8484848484848485
+336,336,38,38,534,893,1990,2023,33,unid. gull,unid Goéland sp.,Charadriiformes,Laridae,Gull,sp.,0.8484848484848485
+340,340,383,383,4451,24,1997,2023,26,Thick-billed Kingbird,Tyran à bec épais,Passeriformes,Tyrannidae,Tyrannus,crassirostris,0.8461538461538461
+339,339,486,486,5270,53,1997,2023,26,Hoary Redpoll,Sizerin blanchâtre,Passeriformes,Fringillidae,Acanthis,hornemanni,0.8461538461538461
+338,338,152,152,2111,34,1997,2023,26,Ridgway's Rail,Râle de Californie,Gruiformes,Rallidae,Rallus,obsoletus,0.8461538461538461
+341,341,104,104,1550,204,1991,2023,32,Harlequin Duck,Arlequin plongeur,Anseriformes,Anatidae,Histrionicus,histrionicus,0.84375
+342,342,21,21,290,163,1991,2023,32,Pigeon Guillemot,Guillemot colombin,Charadriiformes,Alcidae,Cepphus,columba,0.84375
+349,349,222,222,2973,43,1998,2022,24,unid. Dusky Grouse / Sooty Grouse,unid Tétras sombre / Tétras fuligineux,Galliformes,Phasianidae,Dendragapus,obscurus / fuliginosus,0.8333333333333334
+347,347,36,36,510,2621,1987,2023,36,Herring Gull,Goéland argenté,Charadriiformes,Laridae,Larus,argentatus,0.8333333333333334
+344,344,135,135,1945,38,2005,2023,18,unid. heron / egret,unid héron / aigrette sp.,Pelecaniformes,Ardeidae,Ardeid,sp.,0.8333333333333334
+348,348,207,207,2820,5,2003,2009,6,Surfbird,Bécasseau du ressac,Charadriiformes,Scolopacidae,Calidris,virgata,0.8333333333333334
+343,343,32,32,470,764,1987,2023,36,Great Black-backed Gull,Goéland marin,Charadriiformes,Laridae,Larus,marinus,0.8333333333333334
+346,346,66,66,1200,4919,1987,2023,36,Double-crested Cormorant,Cormoran à aigrettes,Suliformes,Phalacrocoracidae,Nannopterum,auritum,0.8333333333333334
+345,345,536,536,5840,8914,1987,2023,36,Swamp Sparrow,Bruant des marais,Passeriformes,Passerellidae,Melospiza,georgiana,0.8333333333333334
+351,351,156,156,2160,29,1997,2023,26,Black Rail,Râle noir,Gruiformes,Rallidae,Laterallus,jamaicensis,0.8076923076923077
+350,350,350,350,4172,30,1997,2023,26,Mexican Whip-poor-will,Engoulevent d'Arizona,Caprimulgiformes,Caprimulgidae,Antrostomus,arizonae,0.8076923076923077
+352,352,54,54,700,632,1987,2023,36,Common Tern,Sterne pierregarin,Charadriiformes,Laridae,Sterna,hirundo,0.8055555555555556
+353,353,619,619,6610,1942,1987,2023,36,Blackpoll Warbler,Paruline rayée,Passeriformes,Parulidae,Setophaga,striata,0.8055555555555556
+354,354,535,535,5830,8539,1982,2023,41,Lincoln's Sparrow,Bruant de Lincoln,Passeriformes,Passerellidae,Melospiza,lincolnii,0.8048780487804879
+355,355,733,733,51830,5,2017,2022,5,Nanday Parakeet,Conure nanday,Psittaciformes,Psittacidae,Aratinga,nenday,0.8
+356,356,693,693,7353,26,1998,2022,24,unid. Black-capped Chickadee / Mountain Chickadee,unid Mésange à tête noire / Mésange de Gambel,Passeriformes,Paridae,Poecile,atricapillus / gambeli,0.7916666666666666
+357,357,715,715,7571,11,1997,2011,14,Bicknell's Thrush,Grive de Bicknell,Passeriformes,Turdidae,Catharus,bicknelli,0.7857142857142857
+360,360,87,87,1390,2882,1987,2023,36,Green-winged Teal,Sarcelle d'hiver,Anseriformes,Anatidae,Anas,crecca,0.7777777777777778
+359,359,329,329,4000,679,1987,2023,36,Black-backed Woodpecker,Pic à dos noir,Piciformes,Picidae,Picoides,arcticus,0.7777777777777778
+358,358,722,722,7650,31,1997,2015,18,Northern Wheatear,Traquet motteux,Passeriformes,Muscicapidae,Oenanthe,oenanthe,0.7777777777777778
+361,361,22,22,300,38,1997,2019,22,Common Murre,Guillemot marmette,Charadriiformes,Alcidae,Uria,aalge,0.7727272727272727
+363,363,231,231,3089,26,1997,2023,26,Gunnison Sage-Grouse,Tétras du Gunnison,Galliformes,Phasianidae,Centrocercus,minimus,0.7692307692307693
+362,362,16,16,150,27,1997,2023,26,Rhinoceros Auklet,Macareux rhinocéros,Charadriiformes,Alcidae,Cerorhinca,monocerata,0.7692307692307693
+364,364,80,80,1326,18,2005,2022,17,hybrid Mallard x Black / Mexican / Mottled Duck,hybride Canard colvert x noir / Mexique / brun,Anseriformes,Anatidae,Anas,platyrhynchos x rubripes / diazi / fulvigula,0.7647058823529411
+365,365,179,179,2430,35,1998,2023,25,Dunlin,Bécasseau variable,Charadriiformes,Scolopacidae,Calidris,alpina,0.76
+368,368,44,44,590,1839,1982,2023,41,Franklin's Gull,Mouette de Franklin,Charadriiformes,Laridae,Leucophaeus,pipixcan,0.7560975609756098
+367,367,183,183,2490,2523,1982,2023,41,Marbled Godwit,Barge marbrée,Charadriiformes,Scolopacidae,Limosa,fedoa,0.7560975609756098
+366,366,90,90,1420,3672,1982,2023,41,Northern Shoveler,Canard souchet,Anseriformes,Anatidae,Spatula,clypeata,0.7560975609756098
+369,369,370,370,4335,19,2010,2022,12,unid. Rufous Hummingbird / Allen's Hummingbird,unid Colibri roux / Colibri d'Allen,Apodiformes,Trochilidae,Selasphorus,rufus / sasin,0.75
+370,370,729,729,19510,3,2019,2023,4,Pin-tailed Whydah,Veuve dominicaine,Passeriformes,Viduidae,Vidua,macroura,0.75
+371,371,345,345,4125,20,2004,2023,19,hybrid Northern Flicker (Red x Yellow-shafted),hybride Pic flamboyant (cafer x auratus),Piciformes,Picidae,Colaptes,auratus auratus x auratus cafer,0.7368421052631579
+377,377,500,500,5450,1094,1982,2023,41,Baird's Sparrow,Bruant de Baird,Passeriformes,Passerellidae,Centronyx,bairdii,0.7317073170731707
+373,373,537,537,5850,5688,1982,2023,41,Fox Sparrow,Bruant fauve,Passeriformes,Passerellidae,Passerella,iliaca,0.7317073170731707
+376,376,488,488,5280,1651,1982,2023,41,Common Redpoll,Sizerin flammé,Passeriformes,Fringillidae,Acanthis,flammea,0.7317073170731707
+375,375,187,187,2550,1364,1982,2023,41,Lesser Yellowlegs,Petit Chevalier,Charadriiformes,Scolopacidae,Tringa,flavipes,0.7317073170731707
+378,378,258,258,3310,8097,1982,2023,41,Northern Harrier,Busard des marais,Accipitriformes,Accipitridae,Circus,hudsonius,0.7317073170731707
+372,372,654,654,7000,1308,1982,2023,41,Sprague's Pipit,Pipit de Sprague,Passeriformes,Motacillidae,Anthus,spragueii,0.7317073170731707
+374,374,212,212,2881,1382,1982,2023,41,Gray Partridge,Perdrix grise,Galliformes,Phasianidae,Perdix,perdix,0.7317073170731707
+381,381,145,145,2035,34,1997,2023,26,unid Black-crowned / Yellow-crowned Night-Heron,unid Bihoreau gris / Bihoreau violacé,Pelecaniformes,Ardeidae,Nycticorax / Nyctanassa,nycticorax / violacea,0.7307692307692307
+379,379,52,52,670,35,1997,2023,26,Sandwich Tern,Sterne caugek,Charadriiformes,Laridae,Thalasseus,sandvicensis,0.7307692307692307
+380,380,721,721,7640,43,1997,2023,26,Bluethroat,Gorgebleue à miroir,Passeriformes,Muscicapidae,Cyanecula,svecica,0.7307692307692307
+382,382,2,2,12,39,1997,2023,26,unid. Western Grebe / Clark's Grebe,unid Grèbe élégant / Grèbe à face blanche,Podicipediformes,Podicipedidae,Aechmophorus,occidentalis / clarkii,0.7307692307692307
+383,383,718,718,7610,59588,1968,2023,55,American Robin,Merle d'Amérique,Passeriformes,Turdidae,Turdus,migratorius,0.7272727272727273
+384,384,714,714,7570,1277,1983,2023,40,Gray-cheeked Thrush,Grive à joues grises,Passeriformes,Turdidae,Catharus,minimus,0.725
+385,385,170,170,2330,17,2004,2022,18,Stilt Sandpiper,Bécasseau à échasses,Charadriiformes,Scolopacidae,Calidris,himantopus,0.7222222222222222
+387,387,508,508,5530,24,1998,2023,25,Harris's Sparrow,Bruant à face noire,Passeriformes,Passerellidae,Zonotrichia,querula,0.72
+386,386,257,257,3300,23,1997,2022,25,Snail Kite,Milan des marais,Accipitriformes,Accipitridae,Rostrhamus,sociabilis,0.72
+388,388,449,449,4970,7262,1977,2023,46,Yellow-headed Blackbird,Carouge à tête jaune,Passeriformes,Icteridae,Xanthocephalus,xanthocephalus,0.717391304347826
+389,389,727,727,10210,49,2009,2023,14,Muscovy Duck,Canard musqué,Anseriformes,Anatidae,Cairina,moschata,0.7142857142857143
+390,390,450,450,4980,57456,1967,2023,56,Red-winged Blackbird,Carouge à épaulettes,Passeriformes,Icteridae,Agelaius,phoeniceus,0.7142857142857143
+391,391,86,86,1370,3260,1982,2023,41,American Wigeon,Canard d'Amérique,Anseriformes,Anatidae,Mareca,americana,0.7073170731707317
+392,392,5,5,40,1098,1982,2023,41,Eared Grebe,Grèbe à cou noir,Podicipediformes,Podicipedidae,Podiceps,nigricollis,0.7073170731707317
+393,393,299,299,3750,7006,1983,2023,40,Great Horned Owl,Grand-duc d'Amérique,Strigiformes,Strigidae,Bubo,virginianus,0.7
+394,394,272,272,3450,20,2003,2023,20,Common Black Hawk,Buse noire,Accipitriformes,Accipitridae,Buteogallus,anthracinus,0.7
+395,395,445,445,4950,56305,1967,2023,56,Brown-headed Cowbird,Vacher à tête brune,Passeriformes,Icteridae,Molothrus,ater,0.6964285714285714
+396,396,201,201,2730,43474,1967,2023,56,Killdeer,Pluvier kildir,Charadriiformes,Charadriidae,Charadrius,vociferus,0.6964285714285714
+401,401,91,91,1430,2986,1977,2023,46,Northern Pintail,Canard pilet,Anseriformes,Anatidae,Anas,acuta,0.6956521739130435
+397,397,322,322,3930,21307,1977,2023,46,Hairy Woodpecker,Pic chevelu,Piciformes,Picidae,Dryobates,villosus,0.6956521739130435
+398,398,154,154,2140,5009,1977,2023,46,Sora,Marouette de Caroline,Gruiformes,Rallidae,Porzana,carolina,0.6956521739130435
+399,399,431,431,4840,5650,1977,2023,46,Canada Jay,Mésangeai du Canada,Passeriformes,Corvidae,Perisoreus,canadensis,0.6956521739130435
+400,400,8,8,70,5231,1977,2023,46,Common Loon,Plongeon huard,Gaviiformes,Gaviidae,Gavia,immer,0.6956521739130435
+404,404,293,293,3710,40,1997,2023,26,Boreal Owl,Nyctale de Tengmalm,Strigiformes,Strigidae,Aegolius,funereus,0.6923076923076923
+407,407,118,118,1740,19,1997,2023,26,(Black Brant) Brant,Bernache cravant (groupe nigricans),Anseriformes,Anatidae,Branta,bernicla nigricans,0.6923076923076923
+403,403,305,305,3810,30,1997,2023,26,Elf Owl,Chevêchette des saguaros,Strigiformes,Strigidae,Micrathene,whitneyi,0.6923076923076923
+405,405,374,374,4390,25,1997,2023,26,Buff-bellied Hummingbird,Ariane du Yucatan,Apodiformes,Trochilidae,Amazilia,yucatanensis,0.6923076923076923
+402,402,208,208,2830,11,1997,2010,13,Ruddy Turnstone,Tournepierre à collier,Charadriiformes,Scolopacidae,Arenaria,interpres,0.6923076923076923
+406,406,249,249,3240,9,1998,2011,13,California Condor,Condor de Californie,Cathartiformes,Cathartidae,Gymnogyps,californianus,0.6923076923076923
+408,408,567,567,6130,52899,1968,2023,55,Barn Swallow,Hirondelle rustique,Passeriformes,Hirundinidae,Hirundo,rustica,0.6909090909090909
+409,409,432,432,4860,31365,1968,2023,55,Common Raven,Grand Corbeau,Passeriformes,Corvidae,Corvus,corax,0.6909090909090909
+410,410,442,442,4930,51033,1968,2023,55,European Starling,Étourneau sansonnet,Passeriformes,Sturnidae,Sturnus,vulgaris,0.6909090909090909
+411,411,79,79,1320,24726,1972,2023,51,Mallard,Canard colvert,Anseriformes,Anatidae,Anas,platyrhynchos,0.6862745098039216
+412,412,477,477,5195,34,2004,2023,19,unid. Purple Finch / Cassin's Finch / House Finch,unid Roselin pourpré / de Cassin / familier,Passeriformes,Fringillidae,Carpodacus,purpureus / cassinii / mexicanus,0.6842105263157895
+413,413,613,613,6556,640,1982,2023,41,(unid. Myrtle / Audubon's) Yellow-rumped Warbler,Par. à croupion jaune (sous-espèce non identifié),Passeriformes,Parulidae,Setophaga,coronata,0.6829268292682927
+414,414,279,279,3540,27,1997,2022,25,Gyrfalcon,Faucon gerfaut,Falconiformes,Falconidae,Falco,rusticolus,0.68
+415,415,243,243,3160,62703,1967,2023,56,Mourning Dove,Tourterelle triste,Columbiformes,Columbidae,Zenaida,macroura,0.6785714285714286
+421,421,583,583,6290,9400,1977,2023,46,Blue-headed Vireo,Viréo à tête bleue,Passeriformes,Vireonidae,Vireo,solitarius,0.6739130434782609
+418,418,472,472,5140,3919,1977,2023,46,Evening Grosbeak,Gros-bec errant,Passeriformes,Fringillidae,Coccothraustes,vespertinus,0.6739130434782609
+419,419,603,603,6450,8628,1977,2023,46,Nashville Warbler,Paruline à joues grises,Passeriformes,Parulidae,Leiothlypis,ruficapilla,0.6739130434782609
+422,422,593,593,6360,14199,1977,2023,46,Black-and-white Warbler,Paruline noir et blanc,Passeriformes,Parulidae,Mniotilta,varia,0.6739130434782609
+417,417,625,625,6670,9418,1977,2023,46,Black-throated Green Warbler,Paruline à gorge noire,Passeriformes,Parulidae,Setophaga,virens,0.6739130434782609
+416,416,316,316,3880,5169,1977,2023,46,Black-billed Cuckoo,Coulicou à bec noir,Cuculiformes,Cuculidae,Coccyzus,erythropthalmus,0.6739130434782609
+420,420,84,84,1350,4985,1977,2023,46,Gadwall,Canard chipeau,Anseriformes,Anatidae,Mareca,strepera,0.6739130434782609
+429,429,380,380,4440,36079,1968,2023,55,Eastern Kingbird,Tyran tritri,Passeriformes,Tyrannidae,Tyrannus,tyrannus,0.6727272727272727
+427,427,716,716,7580,13033,1968,2023,55,Swainson's Thrush,Grive à dos olive,Passeriformes,Turdidae,Catharus,ustulatus,0.6727272727272727
+424,424,489,489,5290,39711,1968,2023,55,American Goldfinch,Chardonneret jaune,Passeriformes,Fringillidae,Spinus,tristis,0.6727272727272727
+428,428,499,499,5420,22565,1968,2023,55,Savannah Sparrow,Bruant des prés,Passeriformes,Passerellidae,Passerculus,sandwichensis,0.6727272727272727
+423,423,435,435,4880,54303,1968,2023,55,American Crow,Corneille d'Amérique,Passeriformes,Corvidae,Corvus,brachyrhynchos,0.6727272727272727
+426,426,498,498,5400,18836,1968,2023,55,Vesper Sparrow,Bruant vespéral,Passeriformes,Passerellidae,Pooecetes,gramineus,0.6727272727272727
+425,425,579,579,6240,37623,1968,2023,55,Red-eyed Vireo,Viréo aux yeux rouges,Passeriformes,Vireonidae,Vireo,olivaceus,0.6727272727272727
+432,432,6,6,50,37,1996,2023,27,Least Grebe,Grèbe minime,Podicipediformes,Podicipedidae,Tachybaptus,dominicus,0.6666666666666666
+431,431,116,116,1720,21940,1972,2023,51,Canada Goose,Bernache du Canada,Anseriformes,Anatidae,Branta,canadensis,0.6666666666666666
+430,430,88,88,1400,5097,1972,2023,51,Blue-winged Teal,Sarcelle à ailes bleues,Anseriformes,Anatidae,Spatula,discors,0.6666666666666666
+433,433,134,134,1940,24952,1967,2023,56,Great Blue Heron,Grand Héron,Pelecaniformes,Ardeidae,Ardea,herodias,0.6607142857142857
+434,434,648,648,6882,42503,1967,2023,56,House Sparrow,Moineau domestique,Passeriformes,Passeridae,Passer,domesticus,0.6607142857142857
+435,435,301,301,3770,120,1982,2023,41,Northern Hawk Owl,Chouette épervière,Strigiformes,Strigidae,Surnia,ulula,0.6585365853658537
+441,441,641,641,6810,46575,1968,2023,55,Common Yellowthroat,Paruline masquée,Passeriformes,Parulidae,Geothlypis,trichas,0.6545454545454545
+437,437,454,454,5011,22574,1968,2023,55,Western Meadowlark,Sturnelle de l'Ouest,Passeriformes,Icteridae,Sturnella,neglecta,0.6545454545454545
+438,438,568,568,6140,30671,1968,2023,55,Tree Swallow,Hirondelle bicolore,Passeriformes,Hirundinidae,Tachycineta,bicolor,0.6545454545454545
+440,440,534,534,5810,40599,1968,2023,55,Song Sparrow,Bruant chanteur,Passeriformes,Passerellidae,Melospiza,melodia,0.6545454545454545
+439,439,717,717,7590,17575,1968,2023,55,Hermit Thrush,Grive solitaire,Passeriformes,Turdidae,Catharus,guttatus,0.6545454545454545
+436,436,574,574,6190,27510,1968,2023,55,Cedar Waxwing,Jaseur d'Amérique,Passeriformes,Bombycillidae,Bombycilla,cedrorum,0.6545454545454545
+442,442,467,467,5100,17458,1968,2023,55,Brewer's Blackbird,Quiscale de Brewer,Passeriformes,Icteridae,Euphagus,cyanocephalus,0.6545454545454545
+443,443,166,166,2300,15193,1968,2023,55,Wilson's Snipe,Bécassine de Wilson,Charadriiformes,Scolopacidae,Gallinago,delicata,0.6545454545454545
+447,447,172,172,2356,19,1997,2023,26,Rock Sandpiper,Bécasseau des Aléoutiennes,Charadriiformes,Scolopacidae,Calidris,ptilocnemis,0.6538461538461539
+444,444,673,673,7220,20,1997,2023,26,unid. Pacific Wren / Winter Wren,unid Troglodyte des forêts / Troglodyte de Baird,Passeriformes,Troglodytidae,Troglodytes,pacificus / hiemalis,0.6538461538461539
+446,446,362,362,4270,22,1997,2023,26,Blue-throated Mountain-gem,Colibri à gorge bleue,Apodiformes,Trochilidae,Lampornis,clemenciae,0.6538461538461539
+445,445,481,481,5225,27,1997,2023,26,unid. Red Crossbill / White-winged Crossbill,unid Bec-croisé des sapins / Bec-croisé bifascié,Passeriformes,Fringillidae,Loxia,curvirostra / leucoptera,0.6538461538461539
+453,453,618,618,6600,1282,1977,2023,46,Bay-breasted Warbler,Paruline à poitrine baie,Passeriformes,Parulidae,Setophaga,castanea,0.6521739130434783
+449,449,698,698,7400,2501,1977,2023,46,Boreal Chickadee,Mésange à tête brune,Passeriformes,Paridae,Poecile,hudsonicus,0.6521739130434783
+452,452,620,620,6620,5933,1977,2023,46,Blackburnian Warbler,Paruline à gorge orangée,Passeriformes,Parulidae,Setophaga,fusca,0.6521739130434783
+450,450,402,402,4630,2519,1977,2023,46,Yellow-bellied Flycatcher,Moucherolle à ventre jaune,Passeriformes,Tyrannidae,Empidonax,flaviventris,0.6521739130434783
+451,451,331,331,4020,9785,1977,2023,46,Yellow-bellied Sapsucker,Pic maculé,Piciformes,Picidae,Sphyrapicus,varius,0.6521739130434783
+448,448,632,632,6720,939,1977,2023,46,Palm Warbler,Paruline à couronne rousse,Passeriformes,Parulidae,Setophaga,palmarum,0.6521739130434783
+455,455,178,178,2429,35,2003,2023,20,unid. small ''peep'' sandpiper,unid petit Bécasseau sp.,Charadriiformes,Scolopacidae,Calidris,sp.,0.65
+454,454,298,298,3740,13,1999,2019,20,Flammulated Owl,Petit-duc nain,Strigiformes,Strigidae,Psiloscops,flammeolus,0.65
+456,456,509,509,5540,6940,1972,2023,51,White-crowned Sparrow,Bruant à couronne blanche,Passeriformes,Passerellidae,Zonotrichia,leucophrys,0.6470588235294118
+457,457,239,239,3131,26570,1967,2023,56,Rock Pigeon,Pigeon biset,Columbiformes,Columbidae,Columba,livia,0.6428571428571429
+458,458,420,420,4740,25106,1967,2023,56,Horned Lark,Alouette hausse-col,Passeriformes,Alaudidae,Eremophila,alpestris,0.6428571428571429
+463,463,690,690,7350,25872,1968,2023,55,Black-capped Chickadee,Mésange à tête noire,Passeriformes,Paridae,Poecile,atricapillus,0.6363636363636364
+461,461,604,604,6460,9238,1968,2023,55,Orange-crowned Warbler,Paruline verdâtre,Passeriformes,Parulidae,Leiothlypis,celata,0.6363636363636364
+467,467,343,343,4120,29953,1968,2023,55,(Yellow-shafted Flicker) Northern Flicker,Pic flamboyant (groupe auratus),Piciformes,Picidae,Colaptes,auratus auratus,0.6363636363636364
+462,462,672,672,7210,33909,1968,2023,55,House Wren,Troglodyte familier,Passeriformes,Troglodytidae,Troglodytes,aedon,0.6363636363636364
+459,459,264,264,3370,36843,1968,2023,55,Red-tailed Hawk,Buse à queue rousse,Accipitriformes,Accipitridae,Buteo,jamaicensis,0.6363636363636364
+466,466,468,468,5110,42560,1968,2023,55,Common Grackle,Quiscale bronzé,Passeriformes,Icteridae,Quiscalus,quiscula,0.6363636363636364
+460,460,513,513,5600,47967,1968,2023,55,Chipping Sparrow,Bruant familier,Passeriformes,Passerellidae,Spizella,passerina,0.6363636363636364
+465,465,610,610,6520,35413,1968,2023,55,Yellow Warbler,Paruline jaune,Passeriformes,Parulidae,Setophaga,petechia,0.6363636363636364
+464,464,408,408,4661,13206,1968,2023,55,Alder Flycatcher,Moucherolle des aulnes,Passeriformes,Tyrannidae,Empidonax,alnorum,0.6363636363636364
+469,469,99,99,1510,1193,1977,2023,46,Common Goldeneye,Garrot à oeil d'or,Anseriformes,Anatidae,Bucephala,clangula,0.6304347826086957
+468,468,638,638,6780,827,1977,2023,46,Connecticut Warbler,Paruline à gorge grise,Passeriformes,Parulidae,Oporornis,agilis,0.6304347826086957
+470,470,504,504,5490,22,1996,2023,27,Saltmarsh Sparrow,Bruant à queue aiguë,Passeriformes,Passerellidae,Ammospiza,caudacuta,0.6296296296296297
+471,471,492,492,5330,9778,1972,2023,51,Pine Siskin,Tarin des pins,Passeriformes,Fringillidae,Spinus,pinus,0.6274509803921569
+472,472,283,283,3590,6,2004,2012,8,Aplomado Falcon,Faucon aplomado,Falconiformes,Falconidae,Falco,femoralis,0.625
+473,473,384,384,4460,20,1999,2023,24,Tropical Kingbird,Tyran mélancolique,Passeriformes,Tyrannidae,Tyrannus,melancholicus,0.625
+474,474,209,209,2840,15,1997,2018,21,Black Turnstone,Tournepierre noir,Charadriiformes,Scolopacidae,Arenaria,melanocephala,0.6190476190476191
+485,485,423,423,4770,41627,1968,2023,55,Blue Jay,Geai bleu,Passeriformes,Corvidae,Cyanocitta,cristata,0.6181818181818182
+484,484,421,421,4750,12616,1968,2023,55,Black-billed Magpie,Pie d'Amérique,Passeriformes,Corvidae,Pica,hudsonia,0.6181818181818182
+481,481,514,514,5610,7647,1968,2023,55,Clay-colored Sparrow,Bruant des plaines,Passeriformes,Passerellidae,Spizella,pallida,0.6181818181818182
+482,482,713,713,7560,13617,1968,2023,55,Veery,Grive fauve,Passeriformes,Turdidae,Catharus,fuscescens,0.6181818181818182
+483,483,519,519,5670,8813,1968,2023,55,(Slate-colored Junco) Dark-eyed Junco,Junco ardoisé (groupe hyemalis),Passeriformes,Passerellidae,Junco,hyemalis hyemalis,0.6181818181818182
+477,477,398,398,4590,8282,1968,2023,55,Olive-sided Flycatcher,Moucherolle à côtés olive,Passeriformes,Tyrannidae,Contopus,cooperi,0.6181818181818182
+478,478,318,318,3900,11454,1968,2023,55,Belted Kingfisher,Martin-pêcheur d'Amérique,Coraciiformes,Alcedinidae,Megaceryle,alcyon,0.6181818181818182
+479,479,564,564,6120,25461,1968,2023,55,Cliff Swallow,Hirondelle à front blanc,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota,0.6181818181818182
+480,480,410,410,4670,14906,1968,2023,55,Least Flycatcher,Moucherolle tchébec,Passeriformes,Tyrannidae,Empidonax,minimus,0.6181818181818182
+475,475,323,323,3940,34105,1968,2023,55,Downy Woodpecker,Pic mineur,Piciformes,Picidae,Dryobates,pubescens,0.6181818181818182
+476,476,194,194,2630,7370,1968,2023,55,Spotted Sandpiper,Chevalier grivelé,Charadriiformes,Scolopacidae,Actitis,macularius,0.6181818181818182
+486,486,188,188,2555,26,1997,2023,26,unid. Greater Yellowlegs / Lesser Yellowlegs,unid Grand Chevalier / Petit Chevalier,Charadriiformes,Scolopacidae,Tringa,melanoleuca / flavipes,0.6153846153846154
+487,487,33,33,480,8,2005,2018,13,Slaty-backed Gull,Goéland à manteau ardoisé,Charadriiformes,Laridae,Larus,schistisagus,0.6153846153846154
+488,488,271,271,3440,12,2003,2021,18,Short-tailed Hawk,Buse à queue courte,Accipitriformes,Accipitridae,Buteo,brachyurus,0.6111111111111112
+489,489,260,260,3330,5190,1977,2023,46,Cooper's Hawk,Épervier de Cooper,Accipitriformes,Accipitridae,Accipiter,cooperii,0.6086956521739131
+490,490,45,45,600,456,1977,2023,46,Bonaparte's Gull,Mouette de Bonaparte,Charadriiformes,Laridae,Chroicocephalus,philadelphia,0.6086956521739131
+491,491,73,73,1250,2486,1977,2023,46,American White Pelican,Pélican d'Amérique,Pelecaniformes,Pelecanidae,Pelecanus,erythrorhynchos,0.6086956521739131
+492,492,251,251,3255,27,2000,2023,23,unid. Black Vulture / Turkey Vulture,unid Urubu noir / Urubu à tête rouge,Cathartiformes,Cathartidae,Coragyps / Cathartes,atratus / aura,0.6086956521739131
+493,493,640,640,6800,7381,1972,2023,51,MacGillivray's Warbler,Paruline des buissons,Passeriformes,Parulidae,Geothlypis,tolmiei,0.6078431372549019
+494,494,614,614,6560,8821,1972,2023,51,(Audubon's Warbler) Yellow-rumped Warbler,Paruline à croupion jaune (groupe auduboni),Passeriformes,Parulidae,Setophaga,coronata audoboni,0.6078431372549019
+499,499,705,705,7480,8725,1972,2023,51,Golden-crowned Kinglet,Roitelet à couronne dorée,Passeriformes,Regulidae,Regulus,satrapa,0.6078431372549019
+496,496,369,369,4330,2860,1972,2023,51,Rufous Hummingbird,Colibri roux,Apodiformes,Trochilidae,Selasphorus,rufus,0.6078431372549019
+495,495,674,674,7221,4125,1972,2023,51,Pacific Wren,Troglodyte de Baird,Passeriformes,Troglodytidae,Troglodytes,pacificus,0.6078431372549019
+498,498,720,720,7630,4528,1972,2023,51,Varied Thrush,Grive à collier,Passeriformes,Turdidae,Ixoreus,naevius,0.6078431372549019
+497,497,644,644,6850,7868,1972,2023,51,Wilson's Warbler,Paruline à calotte noire,Passeriformes,Parulidae,Cardellina,pusilla,0.6078431372549019
+500,500,353,353,4200,16014,1967,2023,56,Common Nighthawk,Engoulevent d'Amérique,Caprimulgiformes,Caprimulgidae,Chordeiles,minor,0.6071428571428571
+501,501,581,581,6270,29114,1968,2023,55,Warbling Vireo,Viréo mélodieux,Passeriformes,Vireonidae,Vireo,gilvus,0.6
+510,510,391,391,4520,31958,1968,2023,55,Great Crested Flycatcher,Tyran huppé,Passeriformes,Tyrannidae,Myiarchus,crinitus,0.6
+502,502,171,171,2340,3,2017,2022,5,Red Knot,Bécasseau maubèche,Charadriiformes,Scolopacidae,Calidris,canutus,0.6
+509,509,462,462,5070,21504,1968,2023,55,Baltimore Oriole,Oriole de Baltimore,Passeriformes,Icteridae,Icterus,galbula,0.6
+508,508,444,444,4940,13531,1968,2023,55,Bobolink,Goglu des prés,Passeriformes,Icteridae,Dolichonyx,oryzivorus,0.6
+507,507,659,659,7040,31057,1968,2023,55,Gray Catbird,Moqueur chat,Passeriformes,Mimidae,Dumetella,carolinensis,0.6
+506,506,646,646,6870,18219,1968,2023,55,American Redstart,Paruline flamboyante,Passeriformes,Parulidae,Setophaga,ruticilla,0.6
+505,505,634,634,6740,21995,1968,2023,55,Ovenbird,Paruline couronnée,Passeriformes,Parulidae,Seiurus,aurocapilla,0.6
+504,504,660,660,7050,30171,1968,2023,55,Brown Thrasher,Moqueur roux,Passeriformes,Mimidae,Toxostoma,rufum,0.6
+503,503,612,612,6550,10073,1968,2023,55,(Myrtle Warbler) Yellow-rumped Warbler,Paruline à croupion jaune (groupe coronata),Passeriformes,Parulidae,Setophaga,coronata coronata,0.6
+511,511,395,395,4560,29500,1968,2023,55,Eastern Phoebe,Moucherolle phébi,Passeriformes,Tyrannidae,Sayornis,phoebe,0.6
+512,512,549,549,5950,16151,1968,2023,55,Rose-breasted Grosbeak,Cardinal à poitrine rose,Passeriformes,Cardinalidae,Pheucticus,ludovicianus,0.6
+513,513,476,476,5190,31795,1968,2023,55,House Finch,Roselin familier,Passeriformes,Fringillidae,Haemorhous,mexicanus,0.6
+514,514,569,569,6150,9685,1968,2023,55,Violet-green Swallow,Hirondelle à face blanche,Passeriformes,Hirundinidae,Tachycineta,thalassina,0.6
+515,515,485,485,5261,3,2018,2023,5,European Goldfinch,Chardonneret élégant,Passeriformes,Fringillidae,Carduelis,carduelis,0.6
+516,516,401,401,4620,13837,1968,2023,55,Western Wood-Pewee,Pioui de l'Ouest,Passeriformes,Tyrannidae,Contopus,sordidulus,0.6
+517,517,501,501,5460,14505,1968,2023,55,Grasshopper Sparrow,Bruant sauterelle,Passeriformes,Passerellidae,Ammodramus,savannarum,0.6
+519,519,706,706,7490,11025,1968,2023,55,Ruby-crowned Kinglet,Roitelet à couronne rubis,Passeriformes,Regulidae,Corthylio,calendula,0.6
+518,518,511,511,5580,9657,1968,2023,55,White-throated Sparrow,Bruant à gorge blanche,Passeriformes,Passerellidae,Zonotrichia,albicollis,0.6
+520,520,286,286,3640,6035,1969,2023,54,Osprey,Balbuzard pêcheur,Accipitriformes,Pandionidae,Pandion,haliaetus,0.5925925925925926
+521,521,453,453,5010,27873,1967,2023,56,Eastern Meadowlark,Sturnelle des prés,Passeriformes,Icteridae,Sturnella,magna,0.5892857142857143
+523,523,250,250,3250,33749,1967,2023,56,Turkey Vulture,Urubu à tête rouge,Cathartiformes,Cathartidae,Cathartes,aura,0.5892857142857143
+524,524,190,190,2580,3811,1967,2023,56,Willet,Chevalier semipalmé,Charadriiformes,Scolopacidae,Tringa,semipalmata,0.5892857142857143
+522,522,546,546,5930,36951,1967,2023,56,Northern Cardinal,Cardinal rouge,Passeriformes,Cardinalidae,Cardinalis,cardinalis,0.5892857142857143
+525,525,31,31,440,795,1972,2023,51,Glaucous-winged Gull,Goéland à ailes grises,Charadriiformes,Laridae,Larus,glaucescens,0.5882352941176471
+527,527,261,261,3333,151,1977,2023,46,unid. Accipiter hawk,unid épervier sp.,Accipitriformes,Accipitridae,Accipiter,sp.,0.5869565217391305
+526,526,153,153,2120,699,1977,2023,46,Virginia Rail,Râle de Virginie,Gruiformes,Rallidae,Rallus,limicola,0.5869565217391305
+533,533,712,712,7550,25226,1968,2023,55,Wood Thrush,Grive des bois,Passeriformes,Turdidae,Hylocichla,mustelina,0.5818181818181818
+530,530,58,58,770,2318,1968,2023,55,Black Tern,Guifette noire,Charadriiformes,Laridae,Chlidonias,niger,0.5818181818181818
+531,531,699,699,7410,3184,1968,2023,55,Chestnut-backed Chickadee,Mésange à dos marron,Passeriformes,Paridae,Poecile,rufescens,0.5818181818181818
+528,528,404,404,4641,4012,1968,2023,55,(Pacific-slope Flycatcher) Western Flycatcher,Moucherolle obscur (groupe difficilis),Passeriformes,Tyrannidae,Empidonax,difficilis difficilis,0.5818181818181818
+529,529,520,520,5671,7601,1968,2023,55,(Oregon Junco) Dark-eyed Junco,Junco ardoisé (groupe oreganus),Passeriformes,Passerellidae,Junco,hyemalis oreganus,0.5818181818181818
+532,532,550,550,5960,10483,1968,2023,55,Black-headed Grosbeak,Cardinal à tête noire,Passeriformes,Cardinalidae,Pheucticus,melanocephalus,0.5818181818181818
+542,542,615,615,6570,7067,1968,2023,55,Magnolia Warbler,Paruline à tête cendrée,Passeriformes,Parulidae,Setophaga,magnolia,0.5818181818181818
+534,534,635,635,6750,7355,1968,2023,55,Northern Waterthrush,Paruline des ruisseaux,Passeriformes,Parulidae,Parkesia,noveboracensis,0.5818181818181818
+541,541,387,387,4470,16129,1968,2023,55,Western Kingbird,Tyran de l'Ouest,Passeriformes,Tyrannidae,Tyrannus,verticalis,0.5818181818181818
+540,540,400,400,4610,29750,1968,2023,55,Eastern Wood-Pewee,Pioui de l'Est,Passeriformes,Tyrannidae,Contopus,virens,0.5818181818181818
+539,539,358,358,4230,27286,1968,2023,55,Chimney Swift,Martinet ramoneur,Apodiformes,Apodidae,Chaetura,pelagica,0.5818181818181818
+538,538,559,559,6070,11613,1968,2023,55,Western Tanager,Piranga à tête rouge,Passeriformes,Cardinalidae,Piranga,ludoviciana,0.5818181818181818
+537,537,346,346,4130,13793,1968,2023,55,(Red-shafted Flicker) Northern Flicker,Pic flamboyant (groupe cafer),Piciformes,Picidae,Colaptes,auratus cafer,0.5818181818181818
+536,536,552,552,5980,33532,1968,2023,55,Indigo Bunting,Passerin indigo,Passeriformes,Cardinalidae,Passerina,cyanea,0.5818181818181818
+535,535,284,284,3600,20770,1968,2023,55,American Kestrel,Crécerelle d'Amérique,Falconiformes,Falconidae,Falco,sparverius,0.5818181818181818
+543,543,438,438,4890,767,1972,2022,50,,,,,,,0.58
+544,544,463,463,5077,35,1997,2023,26,unid. Bullock's Oriole / Baltimore Oriole,unid Oriole de Baltimore / Oriole de Bullock's,Passeriformes,Icteridae,Icterus,bullockii / galbula,0.5769230769230769
+545,545,291,291,3690,22,1997,2023,26,Spotted Owl,Chouette tachetée,Strigiformes,Strigidae,Strix,occidentalis,0.5769230769230769
+546,546,142,142,2010,11564,1969,2023,54,Green Heron,Héron vert,Pelecaniformes,Ardeidae,Butorides,virescens,0.5740740740740741
+550,550,657,657,7030,32341,1967,2023,56,Northern Mockingbird,Moqueur polyglotte,Passeriformes,Mimidae,Mimus,polyglottos,0.5714285714285714
+549,549,42,42,570,17,1998,2019,21,Heermann's Gull,Goéland de Heermann,Charadriiformes,Laridae,Larus,heermanni,0.5714285714285714
+548,548,314,314,3870,24127,1967,2023,56,Yellow-billed Cuckoo,Coulicou à bec jaune,Cuculiformes,Cuculidae,Coccyzus,americanus,0.5714285714285714
+547,547,214,214,2890,19671,1967,2023,56,Northern Bobwhite,Colin de Virginie,Galliformes,Odontophoridae,Colinus,virginianus,0.5714285714285714
+551,551,551,551,5970,20042,1967,2023,56,Blue Grosbeak,Guiraca bleu,Passeriformes,Cardinalidae,Passerina,caerulea,0.5714285714285714
+552,552,359,359,4240,1252,1972,2023,51,Vaux's Swift,Martinet de Vaux,Apodiformes,Apodidae,Chaetura,vauxi,0.5686274509803921
+553,553,237,237,3120,2575,1972,2023,51,Band-tailed Pigeon,Pigeon à queue barrée,Columbiformes,Columbidae,Patagioenas,fasciata,0.5686274509803921
+554,554,321,321,3920,1977,1977,2023,46,unid. woodpecker,unid Pic sp.,Piciformes,Picidae,Woodpecker,sp.,0.5652173913043478
+574,574,474,474,5170,9988,1968,2023,55,Purple Finch,Roselin pourpré,Passeriformes,Fringillidae,Haemorhous,purpureus,0.5636363636363636
+573,573,541,541,5880,10909,1968,2023,55,Spotted Towhee,Tohi tacheté,Passeriformes,Passerellidae,Pipilo,maculatus,0.5636363636363636
+572,572,516,516,5630,22929,1968,2023,55,Field Sparrow,Bruant des champs,Passeriformes,Passerellidae,Spizella,pusilla,0.5636363636363636
+571,571,336,336,4050,25608,1968,2023,55,Pileated Woodpecker,Grand Pic,Piciformes,Picidae,Dryocopus,pileatus,0.5636363636363636
+558,558,639,639,6790,5803,1968,2023,55,Mourning Warbler,Paruline triste,Passeriformes,Parulidae,Geothlypis,philadelphia,0.5636363636363636
+557,557,406,406,4650,13992,1968,2023,55,Acadian Flycatcher,Moucherolle vert,Passeriformes,Tyrannidae,Empidonax,virescens,0.5636363636363636
+556,556,702,702,7430,2996,1968,2023,55,Bushtit,Orite buissonnière,Passeriformes,Aegithalidae,Psaltriparus,minimus,0.5636363636363636
+555,555,695,695,7360,19077,1968,2023,55,Carolina Chickadee,Mésange de Caroline,Passeriformes,Paridae,Poecile,carolinensis,0.5636363636363636
+570,570,670,670,7180,25099,1968,2023,55,Carolina Wren,Troglodyte de Caroline,Passeriformes,Troglodytidae,Thryothorus,ludovicianus,0.5636363636363636
+569,569,683,683,7310,28759,1968,2023,55,Tufted Titmouse,Mésange bicolore,Passeriformes,Paridae,Baeolophus,bicolor,0.5636363636363636
+568,568,503,503,5480,2074,1968,2023,55,LeConte's Sparrow,Bruant de LeConte,Passeriformes,Passerellidae,Ammospiza,leconteii,0.5636363636363636
+567,567,270,270,3430,4753,1968,2023,55,Broad-winged Hawk,Petite Buse,Accipitriformes,Accipitridae,Buteo,platypterus,0.5636363636363636
+566,566,461,461,5060,19830,1968,2023,55,Orchard Oriole,Oriole des vergers,Passeriformes,Icteridae,Icterus,spurius,0.5636363636363636
+565,565,631,631,6710,16616,1968,2023,55,Pine Warbler,Paruline des pins,Passeriformes,Parulidae,Setophaga,pinus,0.5636363636363636
+564,564,617,617,6590,11347,1968,2023,55,Chestnut-sided Warbler,Paruline à flancs marron,Passeriformes,Parulidae,Setophaga,pensylvanica,0.5636363636363636
+563,563,606,606,6480,17453,1968,2023,55,Northern Parula,Paruline à collier,Passeriformes,Parulidae,Setophaga,americana,0.5636363636363636
+562,562,539,539,5870,26141,1968,2023,55,Eastern Towhee,Tohi à flancs roux,Passeriformes,Passerellidae,Pipilo,erythrophthalmus,0.5636363636363636
+561,561,642,642,6830,19707,1968,2023,55,Yellow-breasted Chat,Ictérie polyglotte,Passeriformes,Icteriidae,Icteria,virens,0.5636363636363636
+560,560,424,424,4780,7696,1968,2023,55,Steller's Jay,Geai de Steller,Passeriformes,Corvidae,Cyanocitta,stelleri,0.5636363636363636
+559,559,605,605,6470,3258,1968,2023,55,Tennessee Warbler,Paruline obscure,Passeriformes,Parulidae,Leiothlypis,peregrina,0.5636363636363636
+578,578,584,584,6291,4779,1968,2023,55,Cassin's Vireo,Viréo de Cassin,Passeriformes,Vireonidae,Vireo,cassinii,0.5636363636363636
+577,577,233,233,3091,13289,1968,2023,55,Ring-necked Pheasant,Faisan de Colchide,Galliformes,Phasianidae,Phasianus,colchicus,0.5636363636363636
+580,580,582,582,6280,15818,1968,2023,55,Yellow-throated Vireo,Viréo à gorge jaune,Passeriformes,Vireonidae,Vireo,flavifrons,0.5636363636363636
+579,579,560,560,6080,16700,1968,2023,55,Scarlet Tanager,Piranga écarlate,Passeriformes,Cardinalidae,Piranga,olivacea,0.5636363636363636
+576,576,340,340,4090,30495,1968,2023,55,Red-bellied Woodpecker,Pic à ventre roux,Piciformes,Picidae,Melanerpes,carolinus,0.5636363636363636
+575,575,554,554,5990,6625,1968,2023,55,Lazuli Bunting,Passerin azuré,Passeriformes,Cardinalidae,Passerina,amoena,0.5636363636363636
+581,581,9,9,77,23,1998,2023,25,unid. loon,plongeon sp.,Gaviiformes,Gaviidae,Gavia,sp.,0.56
+582,582,563,563,6110,19489,1969,2023,54,Purple Martin,Hirondelle noire,Passeriformes,Hirundinidae,Progne,subis,0.5555555555555556
+586,586,117,117,1725,21,2005,2023,18,Cackling Goose,Bernache de Hutchins,Anseriformes,Anatidae,Branta,hutchinsii,0.5555555555555556
+585,585,589,589,6310,17839,1969,2023,54,White-eyed Vireo,Viréo aux yeux blancs,Passeriformes,Vireonidae,Vireo,griseus,0.5555555555555556
+584,584,348,348,4160,5912,1969,2023,54,Chuck-will's-widow,Engoulevent de Caroline,Caprimulgiformes,Caprimulgidae,Antrostomus,carolinensis,0.5555555555555556
+587,587,707,707,7510,23345,1969,2023,54,Blue-gray Gnatcatcher,Gobemoucheron gris-bleu,Passeriformes,Polioptilidae,Polioptila,caerulea,0.5555555555555556
+583,583,439,439,4900,9355,1969,2023,54,Fish Crow,Corneille de rivage,Passeriformes,Corvidae,Corvus,ossifragus,0.5555555555555556
+588,588,7,7,60,3653,1967,2023,56,Pied-billed Grebe,Grèbe à bec bigarré,Podicipediformes,Podicipedidae,Podilymbus,podiceps,0.5535714285714286
+590,590,131,131,1900,3385,1972,2023,51,American Bittern,Butor d'Amérique,Pelecaniformes,Ardeidae,Botaurus,lentiginosus,0.5490196078431373
+589,589,92,92,1440,8657,1972,2023,51,Wood Duck,Canard branchu,Anseriformes,Anatidae,Aix,sponsa,0.5490196078431373
+598,598,723,723,7660,30707,1968,2023,55,Eastern Bluebird,Merlebleu de l'Est,Passeriformes,Turdidae,Sialia,sialis,0.5454545454545454
+597,597,671,671,7190,6861,1968,2023,55,Bewick's Wren,Troglodyte de Bewick,Passeriformes,Troglodytidae,Thryomanes,bewickii,0.5454545454545454
+596,596,679,679,7270,26134,1968,2023,55,White-breasted Nuthatch,Sittelle à poitrine blanche,Passeriformes,Sittidae,Sitta,carolinensis,0.5454545454545454
+595,595,633,633,6730,9477,1968,2023,55,Prairie Warbler,Paruline des prés,Passeriformes,Parulidae,Setophaga,discolor,0.5454545454545454
+594,594,623,623,6650,3695,1968,2023,55,Black-throated Gray Warbler,Paruline grise,Passeriformes,Parulidae,Setophaga,nigrescens,0.5454545454545454
+601,601,192,192,2610,5405,1968,2023,55,Upland Sandpiper,Maubèche des champs,Charadriiformes,Scolopacidae,Bartramia,longicauda,0.5454545454545454
+600,600,482,482,5240,13,1997,2019,22,Gray-crowned Rosy-Finch,Roselin à tête grise,Passeriformes,Fringillidae,Leucosticte,tephrocotis,0.5454545454545454
+599,599,570,570,6160,6559,1968,2023,55,Bank Swallow,Hirondelle de rivage,Passeriformes,Hirundinidae,Riparia,riparia,0.5454545454545454
+592,592,637,637,6770,7846,1968,2023,55,Kentucky Warbler,Paruline du Kentucky,Passeriformes,Parulidae,Geothlypis,formosa,0.5454545454545454
+593,593,465,465,5080,9493,1968,2023,55,Bullock's Oriole,Oriole de Bullock,Passeriformes,Icteridae,Icterus,bullockii,0.5454545454545454
+591,591,643,643,6840,10719,1968,2023,55,Hooded Warbler,Paruline à capuchon,Passeriformes,Parulidae,Setophaga,citrina,0.5454545454545454
+602,602,484,484,5260,13,1997,2021,24,Brown-capped Rosy-Finch,Roselin à tête brune,Passeriformes,Fringillidae,Leucosticte,australis,0.5416666666666666
+603,603,65,65,1190,19,1997,2021,24,Great Cormorant,Grand Cormoran,Suliformes,Phalacrocoracidae,Phalacrocorax,carbo,0.5416666666666666
+604,604,184,184,2500,25,1997,2023,26,Bar-tailed Godwit,Barge rousse,Charadriiformes,Scolopacidae,Limosa,lapponica,0.5384615384615384
+605,605,354,354,4205,22,1997,2023,26,unid. Lesser Nighthawk / Common Nighthawk,unid Engoulevent minime / Engoulevent d'Amérique,Caprimulgiformes,Caprimulgidae,Chordeiles,acutipennis / minor,0.5384615384615384
+606,606,252,252,3260,10286,1969,2023,54,Black Vulture,Urubu noir,Cathartiformes,Cathartidae,Coragyps,atratus,0.5370370370370371
+607,607,349,349,4171,2535,1969,2023,54,Eastern Whip-poor-will,Engoulevent bois-pourri,Caprimulgiformes,Caprimulgidae,Antrostomus,vociferus,0.5370370370370371
+608,608,363,363,4280,15423,1969,2023,54,Ruby-throated Hummingbird,Colibri à gorge rubis,Apodiformes,Trochilidae,Archilochus,colubris,0.5370370370370371
+609,609,636,636,6760,5664,1969,2023,54,Louisiana Waterthrush,Paruline hochequeue,Passeriformes,Parulidae,Parkesia,motacilla,0.5370370370370371
+610,610,43,43,580,1856,1967,2023,56,Laughing Gull,Mouette atricille,Charadriiformes,Laridae,Leucophaeus,atricilla,0.5357142857142857
+611,611,577,577,6220,12410,1967,2023,56,Loggerhead Shrike,Pie-grièche migratrice,Passeriformes,Laniidae,Lanius,ludovicianus,0.5357142857142857
+612,612,507,507,5520,14285,1967,2023,56,Lark Sparrow,Bruant à joues marron,Passeriformes,Passerellidae,Chondestes,grammacus,0.5357142857142857
+613,613,141,141,2001,6862,1967,2023,56,Cattle Egret,Héron garde-boeufs,Pelecaniformes,Ardeidae,Bubulcus,ibis,0.5357142857142857
+614,614,688,688,7332,8,1997,2012,15,unid. Oak Titmouse / Juniper Titmouse,unid unid Mésange unicolore / Mésange des genévrie,Passeriformes,Paridae,Baeolophus,inornatus / ridgwayi,0.5333333333333333
+615,615,197,197,2680,10,1997,2014,17,Bristle-thighed Curlew,Courlis d'Alaska,Charadriiformes,Scolopacidae,Numenius,tahitiensis,0.5294117647058824
+616,616,338,338,4070,2138,1968,2023,55,Acorn Woodpecker,Pic glandivore,Piciformes,Picidae,Melanerpes,formicivorus,0.5272727272727272
+617,617,590,590,6320,2006,1968,2023,55,Hutton's Vireo,Viréo de Hutton,Passeriformes,Vireonidae,Vireo,huttoni,0.5272727272727272
+618,618,266,266,3390,13273,1968,2023,55,Red-shouldered Hawk,Buse à épaulettes,Accipitriformes,Accipitridae,Buteo,lineatus,0.5272727272727272
+619,619,700,700,7420,1724,1968,2023,55,Wrentit,Cama brune,Passeriformes,Sylviidae,Chamaea,fasciata,0.5272727272727272
+620,620,143,143,2020,1989,1968,2023,55,Black-crowned Night-Heron,Bihoreau gris,Pelecaniformes,Ardeidae,Nycticorax,nycticorax,0.5272727272727272
+621,621,686,686,7330,1355,1968,2023,55,Oak Titmouse,Mésange unicolore,Passeriformes,Paridae,Baeolophus,inornatus,0.5272727272727272
+622,622,393,393,4540,8093,1968,2023,55,Ash-throated Flycatcher,Tyran à gorge cendrée,Passeriformes,Tyrannidae,Myiarchus,cinerascens,0.5272727272727272
+623,623,724,724,7670,3714,1968,2023,55,Western Bluebird,Merlebleu de l'Ouest,Passeriformes,Turdidae,Sialia,mexicana,0.5272727272727272
+624,624,230,230,3080,1280,1968,2023,55,Sharp-tailed Grouse,Tétras à queue fine,Galliformes,Phasianidae,Tympanuchus,phasianellus,0.5272727272727272
+625,625,217,217,2940,4625,1968,2023,55,California Quail,Colin de Californie,Galliformes,Odontophoridae,Callipepla,californica,0.5272727272727272
+626,626,427,427,4812,2703,1968,2023,55,California Scrub-Jay,Geai buissonnier,Passeriformes,Corvidae,Aphelocoma,californica,0.5272727272727272
+627,627,490,490,5300,4545,1968,2023,55,Lesser Goldfinch,Chardonneret mineur,Passeriformes,Fringillidae,Spinus,psaltria,0.5272727272727272
+628,628,215,215,2920,1573,1968,2023,55,Mountain Quail,Colin des montagnes,Galliformes,Odontophoridae,Oreortyx,pictus,0.5272727272727272
+629,629,127,127,1860,585,1969,2023,54,Glossy Ibis,Ibis falcinelle,Pelecaniformes,Threskiornithidae,Plegadis,falcinellus,0.5185185185185185
+630,630,556,556,6010,5087,1967,2023,56,Painted Bunting,Passerin nonpareil,Passeriformes,Cardinalidae,Passerina,ciris,0.5178571428571429
+631,631,136,136,1960,8061,1967,2023,56,Great Egret,Grande Aigrette,Pelecaniformes,Ardeidae,Ardea,alba,0.5178571428571429
+632,632,557,557,6040,13647,1967,2023,56,Dickcissel,Dickcissel d'Amérique,Passeriformes,Cardinalidae,Spiza,americana,0.5178571428571429
+633,633,544,544,5911,1575,1968,2023,55,California Towhee,Tohi de Californie,Passeriformes,Passerellidae,Melozone,crissalis,0.509090909090909
+634,634,397,397,4580,1907,1968,2023,55,Black Phoebe,Moucherolle noir,Passeriformes,Tyrannidae,Sayornis,nigricans,0.509090909090909
+635,635,664,664,7100,660,1968,2023,55,California Thrasher,Moqueur de Californie,Passeriformes,Mimidae,Toxostoma,redivivum,0.509090909090909
+636,636,326,326,3970,1077,1968,2023,55,Nuttall's Woodpecker,Pic de Nuttall,Piciformes,Picidae,Dryobates,nuttallii,0.509090909090909
+637,637,10,10,80,10,2005,2023,18,Yellow-billed Loon,Plongeon à bec blanc,Gaviiformes,Gaviidae,Gavia,adamsii,0.5
+638,638,15,15,140,3,2005,2011,6,Horned Puffin,Macareux cornu,Charadriiformes,Alcidae,Fratercula,corniculata,0.5
+639,639,696,696,7370,13,1997,2023,26,Mexican Chickadee,Mésange grise,Passeriformes,Paridae,Poecile,sclateri,0.5
+640,640,53,53,690,1022,1967,2023,56,Forster's Tern,Sterne de Forster,Charadriiformes,Laridae,Sterna,forsteri,0.5
+654,654,59,59,800,241,1967,2023,56,Black Skimmer,Bec-en-ciseaux noir,Charadriiformes,Laridae,Rynchops,niger,0.5
+653,653,470,470,5130,1863,1967,2023,56,Boat-tailed Grackle,Quiscale des marais,Passeriformes,Icteridae,Quiscalus,major,0.5
+652,652,365,365,4295,3,2012,2018,6,unid. Ruby-throated / Black-chinned Hummingbird,unid Colibri à gorge rubis / Colibri à gorge noire,Apodiformes,Trochilidae,Archilochus,colubris / alexandri,0.5
+651,651,121,121,1780,417,1967,2023,56,Fulvous Whistling-Duck,Dendrocygne fauve,Anseriformes,Anatidae,Dendrocygna,bicolor,0.5
+650,650,19,19,240,2,1997,2001,4,Kittlitz's Murrelet,Guillemot de Kittlitz,Charadriiformes,Alcidae,Brachyramphus,brevirostris,0.5
+649,649,26,26,360,9,2007,2023,16,Pomarine Jaeger,Labbe pomarin,Charadriiformes,Stercorariidae,Stercorarius,pomarinus,0.5
+642,642,443,443,4932,11,2002,2022,20,Common Myna,Martin triste,Passeriformes,Sturnidae,Acridotheres,tristis,0.5
+643,643,598,598,6412,9,1998,2014,16,Brewster's Warbler (Golden-winged x Blue-winged),Paruline de Brewster,Passeriformes,Parulidae,Vermivora,cyanoptera x chrysoptera,0.5
+644,644,120,120,1770,1540,1967,2023,56,Black-bellied Whistling-Duck,Dendrocygne à ventre noir,Anseriformes,Anatidae,Dendrocygna,autumnalis,0.5
+645,645,137,137,1970,2601,1967,2023,56,Snowy Egret,Aigrette neigeuse,Pelecaniformes,Ardeidae,Egretta,thula,0.5
+646,646,164,164,2260,1586,1967,2023,56,Black-necked Stilt,Échasse d'Amérique,Charadriiformes,Recurvirostridae,Himantopus,mexicanus,0.5
+647,647,531,531,5780,3550,1967,2023,56,Cassin's Sparrow,Bruant de Cassin,Passeriformes,Passerellidae,Peucaea,cassinii,0.5
+648,648,57,57,740,555,1967,2023,56,Least Tern,Petite Sterne,Charadriiformes,Laridae,Sternula,antillarum,0.5
+641,641,379,379,4430,5036,1967,2023,56,Scissor-tailed Flycatcher,Tyran à longue queue,Passeriformes,Tyrannidae,Tyrannus,forficatus,0.5
+655,655,371,371,4340,316,1968,2023,55,Allen's Hummingbird,Colibri d'Allen,Apodiformes,Trochilidae,Selasphorus,sasin,0.4909090909090909
+656,656,540,540,5871,70,1972,2023,51,unid. Spotted Towhee / Eastern Towhee,unid Tohi tacheté / Tohi à flancs roux,Passeriformes,Passerellidae,Pipilo,maculatus / erythrophthalmus,0.4901960784313725
+663,663,129,129,1870,1131,1967,2023,56,White-faced Ibis,Ibis à face blanche,Pelecaniformes,Threskiornithidae,Plegadis,chihi,0.4821428571428571
+662,662,83,83,1340,872,1967,2023,56,Mottled Duck,Canard brun,Anseriformes,Anatidae,Anas,fulvigula,0.4821428571428571
+661,661,151,151,2110,484,1967,2023,56,Clapper Rail,Râle tapageur,Gruiformes,Rallidae,Rallus,crepitans,0.4821428571428571
+660,660,157,157,2180,157,1967,2023,56,Purple Gallinule,Talève violacée,Gruiformes,Rallidae,Porphyrio,martinicus,0.4821428571428571
+659,659,149,149,2080,224,1967,2023,56,King Rail,Râle élégant,Gruiformes,Rallidae,Rallus,elegans,0.4821428571428571
+665,665,125,125,1830,554,1967,2023,56,Roseate Spoonbill,Spatule rosée,Pelecaniformes,Threskiornithidae,Platalea,ajaja,0.4821428571428571
+657,657,139,139,1990,1211,1967,2023,56,Tricolored Heron,Aigrette tricolore,Pelecaniformes,Ardeidae,Egretta,tricolor,0.4821428571428571
+664,664,47,47,630,241,1967,2023,56,Gull-billed Tern,Sterne hansel,Charadriiformes,Laridae,Gelochelidon,nilotica,0.4821428571428571
+658,658,138,138,1980,138,1967,2023,56,Reddish Egret,Aigrette roussâtre,Pelecaniformes,Ardeidae,Egretta,rufescens,0.4821428571428571
+666,666,317,317,3890,16,1998,2023,25,Elegant Trogon,Trogon élégant,Trogoniformes,Trogonidae,Trogon,elegans,0.48
+667,667,41,41,551,10,1997,2019,22,Black-headed Gull,Mouette rieuse,Charadriiformes,Laridae,Chroicocephalus,ridibundus,0.4545454545454545
+668,668,375,375,4391,4,2004,2013,9,Violet-crowned Hummingbird,Ariane à couronne violette,Apodiformes,Trochilidae,Ramosomyia,violiceps,0.4444444444444444
+669,669,227,227,3040,12,1997,2022,25,White-tailed Ptarmigan,Lagopède à queue blanche,Galliformes,Phasianidae,Lagopus,leucura,0.44
+670,670,67,67,1205,13,2000,2023,23,unid. Neotropic / Double-crested Cormorant,Cormoran vigua / Cormoran à aigrettes,Suliformes,Phalacrocoracidae,Nannopterum,brasilianum / auritum,0.4347826086956521
+672,672,709,709,7530,12,2003,2022,19,California Gnatcatcher,Gobemoucheron de Californie,Passeriformes,Polioptilidae,Polioptila,californica,0.4210526315789473
+673,673,35,35,495,9,1999,2018,19,hybrid Western Gull x Glaucous-winged Gull,hybride Goéland à ailes grises x d'Audubon,Charadriiformes,Laridae,Larus,occidentalis x glaucescens,0.4210526315789473
+671,671,448,448,4961,8,1999,2018,19,Shiny Cowbird,Vacher luisant,Passeriformes,Icteridae,Molothrus,bonariensis,0.4210526315789473
+674,674,203,203,2770,6,2007,2019,12,Piping Plover,Pluvier siffleur,Charadriiformes,Charadriidae,Charadrius,melodus,0.4166666666666667
+676,676,175,175,2410,5,2011,2023,12,Baird's Sandpiper,Bécasseau de Baird,Charadriiformes,Scolopacidae,Calidris,bairdii,0.4166666666666667
+675,675,242,242,3152,5,1999,2011,12,African Collared-Dove (a.k.a. Ringed Turtle-Dove),Tourterelle rieuse,Columbiformes,Columbidae,Streptopelia,roseogrisea,0.4166666666666667
+678,678,114,114,1690,10,2001,2023,22,Snow Goose,Oie des neiges,Anseriformes,Anatidae,Anser,caerulescens,0.4090909090909091
+677,677,607,607,6490,9,1997,2019,22,Tropical Parula,Paruline à joues noires,Passeriformes,Parulidae,Setophaga,pitiayumi,0.4090909090909091
+680,680,198,198,2700,8,1998,2018,20,Black-bellied Plover,Pluvier argenté,Charadriiformes,Charadriidae,Pluvialis,squatarola,0.4
+679,679,146,146,2040,6,2006,2021,15,Whooping Crane,Grue blanche,Gruiformes,Gruidae,Grus,americana,0.4
+682,682,361,361,4260,11,1997,2023,26,Rivoli's Hummingbird,Colibri de Rivoli,Apodiformes,Trochilidae,Eugenes,fulgens,0.3846153846153846
+681,681,241,241,3151,7,2004,2017,13,Spotted Dove,Tourterelle tigrine,Columbiformes,Columbidae,Streptopelia,chinensis,0.3846153846153846
+683,683,409,409,4665,31,1972,2022,50,unid. Alder Flycatcher / Willow Flycatcher,unid Moucherolle des aulnes / des saules,Passeriformes,Tyrannidae,Empidonax,alnorum / traillii,0.38
+684,684,458,458,5032,3,2002,2010,8,Spot-breasted Oriole,Oriole maculé,Passeriformes,Icteridae,Icterus,pectoralis,0.375
+685,685,85,85,1360,6,2001,2018,17,Eurasian Wigeon,Canard siffleur,Anseriformes,Anatidae,Mareca,penelope,0.3529411764705882
+686,686,446,446,4955,10,1997,2023,26,unid. Bronzed Cowbird / Brown-headed Cowbird,unid Vacher bronzé / à tête brune,Passeriformes,Icteridae,Molothrus,aeneus / ater,0.3461538461538461
+687,687,483,483,5250,3,1997,2006,9,Black Rosy-Finch,Roselin noir,Passeriformes,Fringillidae,Leucosticte,atrata,0.3333333333333333
+688,688,111,111,1657,9,2001,2023,22,unid. scoter,unid macreuse sp.,Anseriformes,Anatidae,Melanitta,sp.,0.3181818181818182
+689,689,573,573,6185,6,2004,2023,19,unid. Cedar Waxwing / Bohemian Waxwing,unid Jaseur sp.,Passeriformes,Bombycillidae,Bombycilla,garrulus / cedrorum,0.3157894736842105
+690,690,493,493,5340,8,1997,2023,26,Snow Bunting,Plectrophane des neiges,Passeriformes,Calcariidae,Plectrophenax,nivalis,0.3076923076923077
+692,692,169,169,2327,5,2000,2013,13,unid. Short-billed / Long-billed Dowitcher,unid Bécassin roux / Bécassin à long bec,Charadriiformes,Scolopacidae,Limnodromus,griseus / scolopaceus,0.3076923076923077
+691,691,553,553,5986,4,2009,2022,13,hybrid Lazuli Bunting x Indigo Bunting,hybride Passerin azuré x Passerin indigo,Passeriformes,Cardinalidae,Passerina,amoena x cyanea,0.3076923076923077
+693,693,386,386,4462,7,2000,2023,23,unid. Tropical Kingbird / Couch's Kingbird,unid Tyran mélancolique / Tyran de Couch,Passeriformes,Tyrannidae,Tyrannus,melancholicus / couchii,0.3043478260869565
+694,694,173,173,2390,7,2003,2023,20,Pectoral Sandpiper,Bécasseau à poitrine cendrée,Charadriiformes,Scolopacidae,Calidris,melanotos,0.3
+696,696,46,46,620,6,2006,2023,17,Sabine's Gull,Mouette de Sabine,Charadriiformes,Laridae,Xema,sabini,0.2941176470588235
+695,695,320,320,3910,7,2002,2019,17,Green Kingfisher,Martin-pêcheur vert,Coraciiformes,Alcedinidae,Chloroceryle,americana,0.2941176470588235
+698,698,150,150,2090,3,2011,2018,7,unid. Clapper / King Rail,unid Râle élégant / Râle Gris,Gruiformes,Rallidae,Rallus,crepitans / elegans,0.2857142857142857
+697,697,23,23,310,2,2004,2011,7,Thick-billed Murre,Guillemot de Brünnich,Charadriiformes,Alcidae,Uria,lomvia,0.2857142857142857
+699,699,300,300,3760,3,2011,2022,11,Snowy Owl,Harfang des neiges,Strigiformes,Strigidae,Bubo,scandiacus,0.2727272727272727
+702,702,304,304,3800,4,1998,2014,16,Ferruginous Pygmy-Owl,Chevêchette brune,Strigiformes,Strigidae,Glaucidium,brasilianum,0.25
+701,701,310,310,3830,5,1999,2015,16,Smooth-billed Ani,Ani à bec lisse,Cuculiformes,Cuculidae,Crotophaga,ani,0.25
+700,700,373,373,4370,3,2006,2018,12,Lucifer Hummingbird,Colibri lucifer,Apodiformes,Trochilidae,Calothorax,lucifer,0.25
+703,703,694,694,7354,5,1998,2019,21,unid. Black-capped Chickadee / Boreal Chickadee,unid Mésange à tête noire / Mésange à tête brune,Passeriformes,Paridae,Poecile,atricapillus / hudsonicus,0.238095238095238
+704,704,586,586,6295,19,1968,2023,55,unid. Cassin's Vireo / Blue-headed Vireo,unid Viréo de Cassin / Viréo à tête bleue,Passeriformes,Vireonidae,Vireo,cassinii / solitarius,0.2363636363636363
+705,705,587,587,6296,6,1997,2023,26,unid. Plumbeous Vireo / Cassin's Vireo,unid Viréo plombé / Viréo de Cassin,Passeriformes,Vireonidae,Vireo,plumbeus / cassinii,0.2307692307692307
+706,706,306,306,3822,2,1999,2008,9,Budgerigar,Perruche ondulée,Psittaciformes,Psittaculidae,Melopsittacus,undulatus,0.2222222222222222
+707,707,168,168,2320,6,2004,2023,19,Long-billed Dowitcher,Bécassin à long bec,Charadriiformes,Scolopacidae,Limnodromus,scolopaceus,0.2105263157894736
+708,708,108,108,1620,4,2004,2023,19,King Eider,Eider à tête grise,Anseriformes,Anatidae,Somateria,spectabilis,0.2105263157894736
+709,709,457,457,5031,6,1997,2023,26,Altamira Oriole,Oriole à gros bec,Passeriformes,Icteridae,Icterus,gularis,0.1923076923076923
+710,710,319,319,3901,5,1998,2022,24,Ringed Kingfisher,Martin-pêcheur à ventre roux,Coraciiformes,Alcedinidae,Megaceryle,torquata,0.1666666666666666
+711,711,238,238,3130,3,1997,2021,24,Red-billed Pigeon,Pigeon à bec rouge,Columbiformes,Columbidae,Patagioenas,flavirostris,0.125
+712,712,247,247,3201,2,2003,2021,18,Ruddy Ground Dove,Colombe rousse,Columbiformes,Columbidae,Columbina,talpacoti,0.1111111111111111
+713,713,599,599,6413,2,2001,2023,22,Lawrence's Warbler (Golden-winged x Blue-winged),Paruline de Lawrence,Passeriformes,Parulidae,Vermivora,chrysoptera x cyanoptera,0.0909090909090909
+714,714,60,60,860,1,2005,2005,0,Northern Fulmar,Fulmar boréal,Procellariiformes,Procellariidae,Fulmarus,glacialis,0.0
+715,715,68,68,1206,2,2012,2012,0,unid. Double-crested Cormorant / Great Cormorant,Cormoran à aigrettes / Grand Cormoran,Suliformes,Phalacrocoracidae,Nannopterum,auritus / carbo,0.0
+716,716,62,62,1150,1,2007,2007,0,Brown Booby,Fou brun,Suliformes,Sulidae,Sula,leucogaster,0.0
+717,717,710,710,7539,1,1997,1997,0,unid. Blue-gray / Black-tailed Gnatcatcher,unid Gobemoucheron gris-bleu / à queue noire,Passeriformes,Polioptilidae,Polioptila,caerulea / melanura,0.0
+718,718,309,309,3827,1,2010,2010,0,unid. White-winged / Yellow-chevroned Parakeet,Toui à ailes variées / Toui à ailes jaunes,Psittaciformes,Psittacidae,Brotogeris,versicolurus / chiriri,0.0
+719,719,296,296,3731,1,1998,1998,0,Whiskered Screech-Owl,Petit-duc à moustaches,Strigiformes,Strigidae,Megascops,trichopsis,0.0
+720,720,254,254,3271,1,2009,2009,0,Hook-billed Kite,Bec-en-croc de Temminck,Accipitriformes,Accipitridae,Chondrohierax,uncinatus,0.0
+721,721,355,355,4206,1,2004,2004,0,unid. Common Nighthawk / Antillean Nighthawk,unid Engoulevent d'Amérique / piramidig,Caprimulgiformes,Caprimulgidae,Chordeiles,minor / gundlachii,0.0
+722,722,182,182,2480,1,2010,2010,0,Sanderling,Bécasseau sanderling,Charadriiformes,Scolopacidae,Calidris,alba,0.0
+723,723,177,177,2422,1,2023,2023,0,Red-necked Stint,Bécasseau à col roux,Charadriiformes,Scolopacidae,Calidris,ruficollis,0.0
+724,724,452,452,5009,22,2023,2023,0,Chihuahuan Meadowlark,Sturnelle de Lilian,Passeriformes,Icteridae,Sturnella,lilianae,0.0
+725,725,416,416,4700,1,1997,1997,0,Buff-breasted Flycatcher,Moucherolle beige,Passeriformes,Tyrannidae,Empidonax,fulvifrons,0.0
+726,726,419,419,4730,1,2002,2002,0,Eurasian Skylark,Alouette des champs,Passeriformes,Alaudidae,Alauda,arvensis,0.0
+727,727,378,378,4411,1,2019,2019,0,Rose-throated Becard,Bécarde à gorge rose,Passeriformes,Tityridae,Pachyramphus,aglaiae,0.0
+728,728,658,658,7031,1,2002,2002,0,Bahama Mockingbird,Moqueur des Bahamas,Passeriformes,Mimidae,Mimus,gundlachii,0.0
+729,729,119,119,1760,1,2012,2012,0,Emperor Goose,Oie empereur,Anseriformes,Anatidae,Anser,canagicus,0.0
+730,730,17,17,210,1,1997,1997,0,Ancient Murrelet,Guillemot à cou blanc,Charadriiformes,Alcidae,Synthliboramphus,antiquus,0.0
+731,731,11,11,90,1,2011,2011,0,Arctic Loon,Plongeon arctique,Gaviiformes,Gaviidae,Gavia,arctica,0.0
+732,732,14,14,120,1,2007,2007,0,Tufted Puffin,Macareux huppé,Charadriiformes,Alcidae,Fratercula,cirrhata,0.0
+733,733,728,728,16600,1,2009,2009,0,Sinaloa Wren,Troglodyte du Sinaloa,Passeriformes,Troglodytidae,Thryophilus,sinaloa,0.0
+734,734,731,731,21930,1,2010,2010,0,Purple Swamphen,Talève sultane,Gruiformes,Rallidae,Porphyrio,porphyrio,0.0
