@@ -303,7 +303,7 @@ def sum_stop_columns(df: pd.DataFrame) -> pd.Series:
     # Use .filter() with a regular expression to select all columns
     # that match the pattern 'Stop' followed by one or more digits.
     # This is a flexible way to select Stop1, Stop2, ..., Stop50, etc.
-    stop_columns = df.filter(regex='^Stop\d+$')
+    stop_columns = df.filter(regex=r'^Stop\d+$')
 
     # Sum the values along axis 1 (across the columns) for each row.
     # The result is a new Series where each value is the sum for that row.
@@ -817,7 +817,7 @@ def generate_species_webpage(csv_file_path, figs_dir_path, output_html_file='spe
 
 # --- NEW FUNCTIONS FOR IDENTIFYING HIGH-QUALITY ROUTES ---
 
-def filter_bbs_data(df: pd.DataFrame, first_yr=1997, abundance_col: str = 'Number of individuals') -> pd.DataFrame:
+def filter_bbs_data(df: pd.DataFrame, first_yr=1991, abundance_col: str = 'Number of individuals') -> pd.DataFrame:
     """
     Applies quality and temporal filters to a BBS consolidated DataFrame.
 
@@ -1090,3 +1090,54 @@ def identify_long_timeseries_routes(
     ).reset_index(drop=True)
 
     return route_summary
+
+
+
+from typing import List
+
+def cast_columns_to_str(df: pd.DataFrame, columns: List[str]) -> pd.DataFrame:
+    """
+    Casts specified columns of a DataFrame to the string data type.
+
+    This function is useful for standardizing columns that may contain mixed
+    data types or numeric codes that should be treated as text (e.g.,
+    identifiers, categorical labels). It safely handles cases where
+    specified columns do not exist in the DataFrame.
+
+    Args:
+        df (pd.DataFrame): The input DataFrame.
+        columns (List[str]): A list of column names to be cast to string.
+
+    Returns:
+        pd.DataFrame: A new DataFrame with the specified columns cast to
+                      the string type. If a column in the list does not
+                      exist in the DataFrame, it is ignored and a warning
+                      is printed.
+
+    Example:
+        >>> data = {'id': [1, 2, 3], 'value': [10.5, 20.5, 30.5], 'cat': ['A', 'B', 'C']}
+        >>> df = pd.DataFrame(data)
+        >>> df.dtypes
+        id         int64
+        value    float64
+        cat       object
+        dtype: object
+
+        >>> df_casted = cast_columns_to_str(df, columns=['id', 'value'])
+        >>> df_casted.dtypes
+        id        object
+        value     object
+        cat       object
+        dtype: object
+        >>> df_casted['id'].iloc[0]
+        '1'
+    """
+    df_out = df.copy()
+    
+    for col in columns:
+        if col in df_out.columns:
+            df_out[col] = df_out[col].astype(str)
+        else:
+            print(f"Warning: Column '{col}' not found in DataFrame. Skipping.")
+            
+    return df_out
